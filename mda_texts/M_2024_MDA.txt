@@ -1,0 +1,707 @@
+Item 7.    Management's Discussion and Analysis of Financial Condition and Results of Operations.
+The following Management's Discussion and Analysis of Financial Condition and Results of Operations (MD&A) is intended to promote understanding of the results of operations and financial condition of the Company. MD&A is provided as a supplement to, and should be read in conjunction with, our consolidated financial statements and the accompanying Notes to Financial Statements (Part II, Item 8 of this Form 10-K). This section generally discusses the results of operations for 2023 compared to 2022 and 2021. The discussion that follows includes a comparison of our results of operations and liquidity and capital resources for the fiscal years ended February 3, 2024 to January 28, 2023 and January 29, 2022. For a full discussion of changes from the fiscal year ended January 28, 2023 to the fiscal year ended January 29, 2022, refer to Management's Discussion and Analysis of Financial Condition and Results of Operations in Part II, Item 7 of the Company's Annual Report on Form 10-K for the fiscal year ended January 28, 2023 (filed March 24, 2023). This section also contains forward-looking statements that reflect the Company's plans, estimates and beliefs. The Company's actual results could materially differ from those discussed in these forward-looking statements. Factors that could cause or contribute to those differences include, but are not limited to, those discussed below and elsewhere in this report, particularly in "Risk Factors" and "Forward-Looking Statements."
+Fiscal 2023 Overview
+Over the past several years, the Company has taken proactive actions to fortify its operations, including strengthening our balance sheet, managing expenses and improving inventory productivity. The dedicated work of our teams delivered a solid close to 2023 and provides a strong foundation for the Company to execute its new strategy, A Bold New Chapter, detailed further below. In evaluating 2023 performance, the Company considered its results against 2022. Certain financial highlights are as follows:
+•
+Comparable sales, on a 52-week basis, decreased 6.9% on an owned basis and 6.0% on an owned-plus-licensed basis.
+•
+Other revenue, consisting of net credit card revenue and Macy's Media Network revenue, decreased $233 million to $774 million. 
+•
+The gross margin rate was 38.8%, an increase of 140 basis points from 37.4%. 
+•
+Selling, general & administrative (SG&A) expenses decreased $86 million to $8,375 million, or 35.1% of net sales, an increase of 190 basis points.
+•
+Net income was $105 million, a decrease from net income of $1,177 million. Net income adjusted for impairment, restructuring and other costs, settlement charges, and losses on early retirement of debt (Adjusted net income) declined from $1,259 million to adjusted net income of $973 million.
+•
+Earnings before interest, taxes, depreciation and amortization excluding restructuring, impairment, store closings and other costs and settlement charges (Adjusted EBITDA) were $2,317 million, a decline from $2,648 million.
+•
+Diluted earnings per share were $0.38, compared to diluted earnings per share of $4.19. On an adjusted basis, diluted earnings per share were $3.50, compared to adjusted diluted earnings per share of $4.48. 
+•
+Merchandise inventories were up 2% and inventory turnover decreased 2%.
+See pages 31 to 33 for reconciliations of the non-GAAP financial measures presented above to the most comparable U.S. generally accepted accounting principles (GAAP) financial measures and other important information.
+22
+Table of Contents
+Company Strategy
+During 2023, the Company focused on its five growth vectors, introduced at the start of the fiscal year and representing strategic investments designed to target future long-term profitable sales growth. Items actioned under each growth vector in 2023 include, but are not limited to, the following: 
+•
+Macy's private brand reimagination: In August 2023, Macy's launched On 34th, its first new private brand under the reimagination, with a strong customer response. Throughout 2023, Macy's refreshed I.N.C. in phases to further elevate the design strategy and fashion offering, and exited several heritage women's brands, including Alfani and Karen Scott.
+•
+Macy's and Bloomie's small formats: In 2023, the Company opened four additional Macy's small format locations and one additional Bloomie's location.
+•
+Digital marketplace: The Company launched Bloomingdale's marketplace in the second quarter of 2023 and continued to grow Macy's marketplace, ending the year with 120 brands and over 2,300 brands, respectively, at each nameplate. 
+•
+Luxury: In 2023, Bloomingdale's celebrated 50 years of its iconic Big Brown Bag, added several exciting brands and launched key collaborations with engaging in-store and digital activations, including Barbie- and Wonka-themed takeovers of The Carousel @ Bloomingdale's. The fourth quarter of 2023 marked Bluemercury's 12th consecutive quarter of comparable sales growth. It also unveiled two remodeled luxury stores in 2023 with elevated spa offerings and high-touch customer service, which serve as the foundation for future locations.
+•
+Personalized offers and communication: The digital and technology teams tested and learned throughout 2023, including the recent launch of several multi-touch communications. The Company anticipates moving from testing in 2023 to scaling in 2024.
+On February 27, 2024, the Company announced its new strategy, A Bold New Chapter, which is designed to return the Company to enterprise growth, unlock shareholder value, and better serve its customers. This new strategy builds on the five growth vectors, adds newly identified and stress-tested areas of opportunities, and is supported by the Company's financial disciplines. Over the next three years, the Company plans to: 
+•.
+Strengthen the Macy's nameplate
+◦
+Rationalize store base: The Company identified approximately 150 underproductive Macy's locations for closure over the next three years (collectively, the "non-go-forward" locations), which will allow for monetization of assets at the non-go-forward locations and prioritization of investments in the approximately 350 remaining Macy's locations (collectively, the "go-forward" locations) where the Company believes it has the most opportunity to improve square footage productivity. In 2023, the 150 non-go-forward locations represented approximately 25% of the Company's gross square footage but less than 10% of net sales.  
+◦
+Rollout small format: The Company operated 12 Macy's small format stores at the end of the year and plans to add up to 30 locations in the next two years. 
+◦
+Revitalize assortment: The Company recently shifted its merchant colleague responsibilities to a full category approach rather than separate teams for owned and licensed business. This new approach allows the merchant organization to better focus on the nuances that make each category thrive, provides higher visibility and awareness across entire categories, strengthens relationships with partners, allows for diversification of product across price points, and better positions the Company to grow market share. The Company also expects to continue its private brand reimagination by capitalizing on white space opportunities that complement market brands and provide customers with more reasons to shop Macy's. The private brands generate higher merchandise margins and profit contribution relative to market brands. 
+◦
+Launch First 50 Doors: In 2023, the Company tested a small number of incubator locations with new ideas, including but not limited to elevated assortments, improved visual presentations and additional staffing in certain departments. These ideas were based on customer feedback and prioritized conversion. The comparable sales at these incubator locations outperformed the broader Macy's fleet by over 350 basis points. Given the results, the Company recently expanded the pilot to 50 locations, which will be referred to as the First 50. Learnings from the First 50 are expected to be applied to a broader set of locations beginning in fiscal 2025. 
+◦
+Grow digital: The Company plans to reevaluate its foundation to develop better search and navigation tools and offer personalized communications and recommendations that have a definitive Macy's point of view, culminating in an efficient and speedy checkout. Also, the Company plans to expand Marketplace and Macy's Media Network to improve profitability and increase customer engagement.  
+23
+Table of Contents
+•.
+Accelerate luxury growth
+◦
+Accelerate Bloomingdale's growth: The Company plans to open a combined 15 Bloomie's and Bloomingdale's The Outlet locations over the next three years in new and existing markets, with the intent of leveraging the new markets to expand digital presence. 
+◦
+Accelerate Bluemercy growth: The Company will launch "The New Blue," Bluemercury's total omni-channel evolution inclusive of updated branding and store models. The Company plans to open at least 30 Bluemercury locations and remodel approximately 30 locations over the next three years with an expanded assortment, elevated aesthetics, centralized customer service hubs, integrated spa facilities and technology to support relationship building.
+•.
+Simplify and modernize end-to-end operations
+◦
+Rationalize and monetize the Company's supply chain portfolio, streamline fulfillment, improve inventory planning and allocation, and deliver a scalable technology platform: The benefits and cost savings from these activities are expected to fund the investments necessary to support the Company's strategy, offset inflationary cost pressures, and constrain fulfillment expense and SG&A dollar growth.
+The Company considers fiscal 2024 a transition and investment year as it implements A Bold New Chapter. 
+24
+Table of Contents
+Analysis of Results of Operations
+2023
+2022
+2021
+Amount 
+% to Net Sales
+% to Total Revenue
+Amount 
+% to Net Sales
+% to Total Revenue
+Amount 
+% to Net Sales
+% to Total Revenue
+(dollars in millions, except per share figures) 
+Net sales
+$
+23,092 
+$
+24,442 
+$
+24,460 
+Other revenue
+774 
+3.4 
+%
+1,007 
+4.1 
+%
+939 
+3.8 
+%
+Total revenue
+23,866 
+25,449 
+25,399 
+Cost of sales
+(14,143)
+(61.2)
+%
+(15,306)
+(62.6)
+%
+(14,956)
+(61.1)
+%
+Selling, general and administrative expenses
+(8,375)
+(35.1)
+%
+(8,461)
+(33.2)
+%
+(8,154)
+(32.1)
+%
+Gains on sale of real estate
+61 
+0.3 
+%
+89 
+0.3 
+%
+91 
+0.4 
+%
+Impairment, restructuring and other costs
+(1,027)
+(4.3)
+%
+(41)
+(0.2)
+%
+(30)
+(0.1)
+%
+Operating income
+$
+382 
+1.6 
+%
+$
+1,730 
+6.8 
+%
+$
+2,350 
+9.3 
+%
+Diluted earnings per share
+$
+0.38 
+$
+4.19 
+$
+4.55 
+Supplemental Financial Measure
+Gross margin
+$
+8,949 
+38.8 
+%
+$
+9,136 
+37.4 
+%
+$
+9,504 
+38.9 
+%
+Digital sales as a percent of net sales
+33 
+%
+33 
+%
+35 
+%
+Increase (decrease) in comparable sales
+(6.9)
+%
+0.3 
+%
+43.0 
+%
+Supplemental Non-GAAP Financial Measures
+Increase (decrease) in comparable sales on an owned plus licensed basis
+(6.0)
+%
+0.6 
+%
+42.9 
+%
+Adjusted diluted earnings per share
+$
+3.50 
+$
+4.48 
+$
+5.31 
+EBITDA
+$
+1,156 
+$
+2,568 
+$
+3,194 
+Adjusted EBITDA
+$
+2,317 
+$
+2,648 
+$
+3,320 
+See pages 31 to 33 for reconciliations of these non-GAAP financial measures to their most comparable GAAP financial measure and for other important information.
+25
+Table of Contents
+Comparison of 2023 and 2022
+2023
+2022
+Net sales
+$
+23,092 
+$
+24,442 
+Change in comparable sales
+(6.9)
+%
+0.3 
+%
+Change in comparable sales on an owned plus licensed basis
+(6.0)
+%
+0.6 
+%
+Digital sales as a percent of net sales
+33 
+%
+33 
+%
+Net sales for the Company in 2023, which included $252 million of net sales recognized in the 53rd week, were down 5.5% from 2022. Comparable sales on an owned plus licensed basis decreased 6.0%, adjusted for the 53rd week in fiscal 2023. Net sales decreased for Macy's and Bloomingdale's, but grew for Bluemercury, and were impacted by a volatile macroeconomic environment as consumer spending in discretionary categories continued to be under pressure. Macy's experienced strength in beauty, particularly fragrances and prestige cosmetics, women's career sportswear, and men's tailored. Women's casual sportswear, active, and big ticket underperformed from the prior year. Owned average unit retail ("AUR") increased 5.1% from 2022, primarily driven by changes in product and category mix. 
+2023
+2022
+$
+% to Net Sales
+$
+% to Net Sales
+Credit card revenues, net
+$
+619 
+2.7 
+%
+$
+863 
+3.5 
+%
+Macy's Media Network, net
+155 
+0.7 
+%
+144 
+0.6 
+%
+Other revenue
+$
+774 
+3.4 
+%
+$
+1,007 
+4.1 
+%
+Proprietary credit card sales penetration
+42.9 
+%
+42.9 
+%
+The 
+decrease in other revenues from 2022 to 2023 was driven by a $244 million, or 28% decrease, in credit card revenues. This decrease was primarily driven by increased portfolio funding costs and higher credit losses, partially offset by higher finance charge income. Macy Media Network grew $11 million, or 8% from 2022
+.
+2023
+2022
+Cost of sales
+$
+(14,143)
+$
+(15,306)
+As a percent to net sales
+61.2 
+%
+62.6 
+%
+Gross margin
+$
+8,949 
+$
+9,136 
+As a percent to net sales
+38.8 
+%
+37.4 
+%
+Gross margin rate and merchandise margin rate increased 140 basis points and 80 basis points, respectively, from 2022 to 2023. The increase 
+in merchandise margin was driven by lower permanent markdowns and improved inbound freight costs. Partially offsetting these benefits were anticipated changes in category mix and an increase in inventory shortage. Delivery expense, which is not a component of merchandise margin, as a
+ percent of net sales decreased 60 basis points
+ primarily due to improved carrier rates from contract renegotiation and improvements in inventory allocation. 
+2023
+2022
+SG&A expenses
+$
+(8,375)
+$
+(8,461)
+As a percent to total revenue
+35.1 
+%
+33.2 
+%
+SG&A expenses decreased $86 million, or 1%, from 2022 to 2023 due to ongoing expense discipline and effective implementation of cost saving initiatives. The increase in SG&A expense as a percent to total revenue was driven by the decline in total revenue
+.
+2023
+2022
+Gains on sale of real estate
+$
+61 
+$
+89 
+2023 asset sale gains primarily relate to the sale of eight properties, while 202
+2 asset sale gains mainly consist of gains from the sale of six properties.
+26
+Table of Contents
+2023
+2022
+Impairment, restructuring and other costs
+$
+(1,027)
+$
+(41)
+On February 27, 2024, the Company announced its new strategy, A Bold New Chapter, which is designed to return the Company to enterprise growth, unlock shareholder value, and better serve its customers. The $1.0 billion of impairment, restructuring and other costs recognized in 2023 primarily relates to actions that align with A Bold New Chapter. The $957 million non-cash asset impairment charge recognized in 2023 primarily related to the approximately 150 locations planned for closure over the next three years, and the remaining non-cash impairment charge is associated with corporate and other assets. The $55 million of cash restructuring charges recognized in 2023 consisted primarily of cash expenditures related to employee termination and severance charges. The charges recognized in 2022 primarily related to the write-off of capitalized software assets. 
+2023
+2022
+Benefit plan income, net
+$
+11 
+$
+20 
+The Company recorded non-cash net benefit plan income related to the Company's defined benefit plans. This income includes the net amount of interest cost, expected return on plan assets and amortization of prior service costs or credits and actuarial gains and losses. The decrease in benefit plan income from 2022 to 2023 was mainly driven by a decrease in the plan asset returns and higher discount rates as a result of market conditions. 
+ 
+2023
+2022
+Settlement charges
+$
+(134)
+$
+(39)
+Settlement charges in 2023
+ were higher than 2022 as they primarily related to the 
+transfer of fully funded pension obligations for certain retirees and beneficiaries through the purchase of a group annuity contract with an insurance company
+. The settlement charges in 2022 were
+ primarily related to the pro-rata recognition of net actuarial losses associated with the Company's defined benefit retirement plans as the result of lump sum distributions associated with retiree distribution elections. 
+2023
+2022
+Net interest expense
+$
+(135)
+$
+(162)
+The 17% decrease in net interest expense, excluding losses on early retirement of debt, was
+ driven by an increase in interest income and interest savings associated with the financing activities completed in the first quarter of 2022 as well as lower Asset Based Lending (ABL) Credit Facility borrowings in 2023 compared to 2022. 
+2023
+2022
+Losses on early retirement of debt
+$
+— 
+$
+(31)
+ In 2022, losses on early retirement of debt were recognized due to the early payment of $1.1 billion aggregate principal amount of senior notes and debentures in March 2022.
+2023
+2022
+Effective tax rate
+15.3 
+%
+22.5 
+%
+Federal income statutory rate
+21 
+%
+21 
+%
+In 2023, income tax expense of $19 million, or 15.3% of pretax income reflects a different effective tax rate as compared to the Company's federal income tax statutory rate of 21% due to reduced pretax income as a result of the aforementioned impairment charges, which amplified the impact of net tax credits on the effective rate. In 2022, income tax expense of $341 million, or 22.5% of pretax income, reflects a different effective tax rate as compared to the company's federal income tax statutory rate of 21% due to the impact of state and local taxes, partially offset by the benefit of state tax settlements.
+27
+Table of Contents
+Liquidity and Capital Resources
+The Company's principal sources of liquidity are cash from operations, cash on hand and the asset-based credit facility described below. Material contractual obligations arising in the normal course of business primarily consist of long-term debt and related interest payments, lease obligations, merchandise purchase obligations, retirement plan benefits, and self-insurance reserves. See Notes 4, 6 and 9 to the consolidated financial statements included in Item 8 of this Report for amounts outstanding on February 3, 2024, related to leases, debt, and retirement plans, respectively. Merchandise purchase obligations represent future merchandise payables for inventory purchased from various suppliers through contractual arrangements and are expected to be funded through cash from operations. 
+We believe that our available cash, together with expected future cash generated from operations, the amount available under our credit facility, and credit available in the market will be sufficient to satisfy our anticipated needs for working capital, capital expenditures, and cash dividends for at least the next 12 months and the foreseeable future thereafter. 
+Capital Allocation
+The Company's capital allocation goals include maintaining a healthy balance sheet and investment-grade credit metrics to be best-positioned for access to bank and capital market funding under all economic scenarios, followed by investing in the business through initiatives to drive long-term profitable growth and returning capital to shareholders through dividends and share repurchases. 
+The Company ended the year with a cash and cash equivalents balance of $1,034 million, an increase from $862 million in 2022. Also, the Company is party to the ABL Credit Facility with certain financial institutions providing for a $3,000 million Revolving ABL Facility. As of February 3, 2024, borrowing capacity of the ABL Credit Facility was $2,852 million, which considers a $148 million reduction due to standby letters of credit outstanding and borrowing availability was $2,582 million, which considers a further $270 million reduction due to inventory levels and its impact on the ABL borrowing base. 
+2023
+2022
+2021
+Net cash provided by operating activities
+$
+1,305 
+$
+1,615 
+$
+2,712 
+Net cash used by investing activities
+(913)
+(1,169)
+(370)
+Net cash used by financing activities
+(220)
+(1,296)
+(2,381)
+Operating Activities
+Net cash provided by operating activities was $1,305 million in 2023 compared to $1,615 million in 2022. The decrease was primarily driven by lower adjusted EBITDA and working capital changes, partially offset by lower interest payments net of interest received and lower cash tax payments. The 2023 fiscal year ended in the beginning of calendar February compared to the end of calendar January in fiscal 2022, resulting in a larger reduction in accounts payable and accrued liabilities in fiscal 2023 compared to fiscal 2022. 
+The Company's future material contractual obligations and commitments as it relates to operating activities as of February 3, 2024 are approximately $6.5 billion of operating lease obligations primarily due after 2027 and $2.8 billion of other obligations, the majority consisting of merchandise purchase obligations due in less than one year. Note 4 and Note 14 to the Financial Statements provide additional information on operating leases and other obligations, respectively. 
+Investing Activities
+The Company's 2023 capital expenditures were $993 million, mainly driven by digital and technology investments, data and analytics, supply chain modernization and enhanced omni-channel capabilities. The Company also opened nine new stores in 2023 across nameplates and formats, and continued to invest in its current stores. 
+The Company expects capital expenditures to be approximately $875 million during 2024. The Company's spend will be primarily focused on initiatives that will support A Bold New Chapter, including digital and technology investments, investments in our remaining go-forward locations, small format store openings and omni-channel capabilities. These expenditures are expected to be financed with cash from operations and existing cash and cash equivalents. There can be no assurance that current expectations will be realized and plans are subject to change upon further review of capital expenditure needs or based on the current economic environment.
+Financing Activities
+Dividends
+The Company paid dividends totaling $181 million in 2023 and $173 million in 2022. The Board of Directors declared regular quarterly dividends of 16.54 cents per share on the Company's common stock, paid on April 3, 2023, July 3, 2023, October 2, 2023 and January 2, 2024, to Macy's, Inc. shareholders of record at the close of business on March 15, 2023, June 15, 2023, September 15, 2023 and December 15, 2023, respectively. 
+28
+Table of Contents
+On February 23, 2024, the Company's Board of Directors declared a regular quarterly dividend of 17.37 cents per share on its common stock, payable April 1, 2024, to shareholders of record at the close of business on March 15, 2024. Subsequent dividends will be subject to approval of the Board of Directors, which will depend on market and other conditions.
+Stock Repurchases
+On February 22, 2022, the Company announced that its Board of Directors authorized a new $2.0 billion share repurchase program, which does not have an expiration date. During 2023
+, the Company repurchased approximately 1.4 million shares of its common stock at an average cost of $17.57 per share for $25 million. 
+During 2022, the Company repurchased 
+24.0 million
+ shares of its common stock at an average cost of 
+$24.98
+ per share for $600 million
+.
+ As of 
+February 3, 2024
+, $1.4 billion remains available under the authorization. Repurchases may be made from time to time in the open market or through privately negotiated transactions in accordance with applicable securities laws, including Rule 10b-18 under the Securities Exchange Act of 1934, on terms determined by the Company.
+Debt Transactions
+The Company borrowed and repaid $961 million under the ABL Credit Facility in 2023. The Company had no outstanding borrowings under the ABL Credit Facility as of February 3, 2024.
+At February 3, 2024, no notes or debentures contained provisions requiring acceleration of payment upon a debt rating downgrade. However, the terms of approximately $2,409 million in aggregate principal amount of the Company's senior notes outstanding at that date require the Company to offer to purchase such notes at a price equal to 101% of their principal amount plus accrued and unpaid interest if there is both a change of control (as defined in the applicable indenture) of the Company and the notes are rated by specified rating agencies at a level below investment grade.
+The Company's future contractual obligations and commitments as it relates to financing activities as of February 3, 2024 are $3.0 billion of long-term debt obligations and $1.6 billion of related interest, $148 million of standby letters of credit and $21 million of finance lease obligations. Note 6 and Note 4 to the Financial Statements provide additional information on debt and finance leases, respectively.
+As of February 3, 2024, the Company's credit rating and outlook were as described in the table below:
+Moody's
+Standard &
+Poor's
+Fitch
+Long-term debt
+Ba1
+BB+
+BBB-
+Outlook
+Stable
+Stable
+Stable
+Guarantor Summarized Financial Information
+The Company has senior unsecured notes and senior unsecured debentures (collectively the Unsecured Notes) outstanding with an aggregate principal amount of $3,007 million outstanding as of February 3, 2024, with maturities ranging from 2025 to 2043. The Unsecured Notes constitute debt obligations of Macy's Retail Holdings, LLC (MRH, or Subsidiary Issuer), a 100%-owned subsidiary of Macy's, Inc. (Parent together with the Subsidiary Issuer are the Obligor Group), and are fully and unconditionally guaranteed on a senior unsecured basis by Parent. The Unsecured Notes rank equally in right of payment with all of the Company's existing and future senior unsecured obligations, senior to any of the Company's future subordinated indebtedness, and are structurally subordinated to all existing and future obligations of each of the Company's subsidiaries that do not guarantee the Unsecured Notes. Holders of the Company's secured indebtedness, including any borrowings under the ABL Credit Facility, will have a priority claim on the assets that secure such secured indebtedness; therefore, the Unsecured Notes and the related guarantee are effectively subordinated to all of the Subsidiary Issuer's and Parent and their subsidiaries' existing and future secured indebtedness to the extent of the value of the collateral securing such indebtedness.
+The following tables include combined financial information of the Obligor Group. Investments in subsidiaries of $9,423 million as of February 3, 2024 have been excluded from the Summarized Balance Sheets. Equity in the earnings of non-Guarantor subsidiaries of $2,291 million have been excluded from the Summarized Statement of Operations. The combined financial information of the Obligor Group is presented on a combined basis with intercompany balances and transactions within the Obligor Group eliminated.
+29
+Table of Contents
+Summarized Balance Sheet
+February 3, 2024
+(in millions)
+ASSETS
+Current Assets
+$
+1,028 
+Noncurrent Assets
+6,145 
+ 
+LIABILITIES
+Current Liabilities
+$
+1,800 
+Noncurrent Liabilities (a)
+10,654 
+a)
+Includes net amounts due to non-Guarantor subsidiaries of $5,645 million
+Summarized Statement of Operations
+2023
+(in millions) 
+Net Sales
+$
+962 
+Consignment commission income (a)
+3,584 
+Other revenue
+159 
+Cost of sales
+(457)
+Operating loss
+(1,837)
+Loss before income taxes (b)
+(1,325)
+Net loss
+(1,313)
+a)
+Income pertains to transactions with ABL Borrower, a non-Guarantor subsidiary
+b)
+Includes $874 million of dividend income from non-Guarantor subsidiaries
+Important Information Regarding Non-GAAP Financial Measures
+The Company reports its financial results in accordance with GAAP. However, management believes that certain non-GAAP financial measures provide users of the Company's financial information with additional useful information in evaluating operating performance. Management believes that providing supplemental changes in comparable sales on an owned plus licensed basis, which includes the impact of growth in comparable sales of departments licensed to third parties, assists in evaluating the Company's ability to generate sales growth, whether through owned businesses or departments licensed to third parties, on a comparable basis, and in evaluating the impact of changes in the manner in which certain departments are operated. Earnings before interest, taxes, depreciation and amortization (EBITDA) is a non-GAAP financial measure that the company believes provides meaningful information about its operational efficiency by excluding the impact of changes in tax law and structure, debt levels and capital investment. In addition, management believes that excluding certain items that are not associated with the Company's core operations and that may vary substantially in frequency and magnitude period-to-period from net income, diluted earnings per share and EBITDA provide useful supplemental measures that assist in evaluating the Company's ability to generate earnings and leverage sales, respectively, and to more readily compare these metrics between past and future periods. Management also believes that EBITDA and Adjusted EBITDA are frequently used by investors and securities analysts in their evaluations of companies, and that such supplemental measures facilitate comparisons between companies that have different capital and financing structures and/or tax rates. The Company uses certain non-GAAP financial measures as performance measures for components of executive compensation.
+The Company does not provide reconciliations of the forward-looking non-GAAP measures of comparable owned plus licensed sales change, adjusted EBITDA, adjusted tax rate and adjusted diluted earnings per share to the most directly comparable forward-looking GAAP measures because the timing and amount of excluded items are unreasonably difficult to fully and accurately estimate. For the same reasons, the Company is unable to address the probable significance of the unavailable information, which could be material to future results. 
+30
+Table of Contents
+Non-GAAP financial measures should be viewed as supplementing, and not as an alternative or substitute for, the Company's financial results prepared in accordance with GAAP. Certain of the items that may be excluded or included in non-GAAP financial measures may be significant items that could impact the Company's financial position, results of operations or cash flows and should therefore be considered in assessing the Company's actual and future financial condition and performance. Additionally, the amounts received by the Company on account of sales of departments licensed to third parties are limited to commissions received on such sales. The methods used by the Company to calculate its non-GAAP financial measures may differ significantly from methods used by other companies to compute similar measures. As a result, any non-GAAP financial measures presented herein may not be comparable to similar measures provided by other companies.
+Changes in Comparable Sales
+The following is a tabular reconciliation of the non-GAAP financial measure of changes in comparable sales on an owned plus licensed basis, to GAAP comparable sales (i.e., on an owned basis), which the Company believes to be the most directly comparable GAAP financial measure.
+Macy's, Inc.
+53 Weeks Ended February 3, 2024
+vs.
+52 Weeks Ended
+January 28, 2023
+52 Weeks Ended January 28, 2023
+vs.
+52 Weeks Ended
+January 29, 2022
+52 Weeks Ended January 29, 2022
+vs.
+52 Weeks Ended
+January 30, 2021
+Increase (decrease) in comparable sales on an owned basis (Note 1)
+(6.9)
+%
+0.3 
+%
+43.0 
+%
+Impact of growth in comparable sales of departments licensed to third parties (Note 2)
+0.9 
+%
+0.3 
+%
+(0.1)
+%
+Increase (decrease) in comparable sales on an owned plus licensed basis
+(6.0)
+%
+0.6 
+%
+42.9 
+%
+(1)
+Represents the period-to-period percentage change in net sales from stores in operation throughout the year presented and the immediately preceding year, adjusting for the 53rd week in fiscal 2023. Such calculation includes all digital sales and excludes commissions from departments licensed to third parties or Marketplace. Stores impacted by a natural disaster or undergoing significant expansion or shrinkage remain in the comparable sales calculation unless the store, or a material portion of the store, is closed for a significant period of time. Definitions and calculations of comparable sales differ among companies in the retail industry.
+(2)
+Represents the impact of including the sales of departments licensed to third parties occurring in stores in operation throughout the year presented and the immediately preceding year, including Marketplace sales, adjusting for the 53rd week in fiscal 2023 in the calculation of comparable sales. Macy's and Bloomingdale's license third parties to operate certain departments in its stores and online and receives commissions from these third parties based on a percentage of their net sales, while Bluemercury does not participate in licensed or Marketplace businesses. In its financial statements prepared in conformity with GAAP, the Company includes these commissions (rather than sales of the departments licensed to third parties) in its net sales. The Company does not, however, include any amounts in respect of licensed department or Marketplace sales (or any commissions earned on such sales) in its comparable sales in accordance with GAAP (i.e., on an owned basis). The amounts of commissions earned on sales of departments licensed to third parties and from the digital Marketplace are not material to its net sales for the periods presented.
+31
+Table of Contents
+Adjusted Net Income and Adjusted Diluted Earnings Per Share 
+The following is a tabular reconciliation of the non-GAAP financial measures adjusted net income to GAAP net income and adjusted diluted earnings per share to GAAP diluted earnings per share, which the Company believes to be the most directly comparable GAAP measures.
+2023
+2022
+2021
+Net Income 
+Diluted
+Earnings
+Per Share
+Net Income
+Diluted
+Earnings
+Per Share
+Net Income
+Diluted
+Earnings
+Per Share
+(millions, except per share data)
+As reported
+$
+105 
+$
+0.38 
+$
+1,177 
+$
+4.19 
+$
+1,430 
+$
+4.55 
+Impairment, restructuring and other costs
+1,027 
+3.69 
+41 
+0.15 
+30 
+0.10 
+Settlement charges
+134 
+0.48 
+39 
+0.14 
+96 
+0.31 
+Losses on early retirement of debt
+— 
+— 
+31 
+0.11 
+199 
+0.63 
+Income tax impact of certain items identified above
+(293)
+(1.05)
+(29)
+(0.11)
+(87)
+(0.28)
+As adjusted
+$
+973 
+$
+3.50 
+$
+1,259 
+$
+4.48 
+$
+1,668 
+$
+5.31 
+EBITDA and Adjusted EBITDA 
+The following is a tabular reconciliation of the non-GAAP financial measure EBITDA and Adjusted EBITDA to GAAP net income, which the Company believes to be the most comparable GAAP measure.
+2023
+2022
+2021
+(millions)
+Net income
+$
+105 
+$
+1,177 
+$
+1,430 
+Interest expense - net
+135 
+162 
+255 
+Losses on early retirement of debt
+— 
+31 
+199 
+Federal, state and local income tax expense
+19 
+341 
+436 
+Depreciation and amortization
+897 
+857 
+874 
+EBITDA
+$
+1,156 
+$
+2,568 
+$
+3,194 
+Impairment, restructuring and other costs
+1,027 
+41 
+30 
+Settlement charges
+134 
+39 
+96 
+Adjusted EBITDA
+$
+2,317 
+$
+2,648 
+$
+3,320 
+Critical Accounting Estimates
+The preparation of our consolidated financial statements in accordance with U.S. generally accepted accounting principles (U.S. GAAP) requires that we make estimates and assumptions that affect the reported amounts of assets and liabilities and the disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses during the reporting period. We base our estimates on historical experience and on assumptions that we believe to be reasonable, and we continue to review and evaluate these estimates. For further information on significant accounting policies, see discussion in Note 1 to the consolidated financial statements included in Item 8 of this Report.
+Merchandise Inventories
+Merchandise inventories are valued at the lower of cost or market using the last-in, first-out (LIFO) retail inventory method. Under the retail inventory method, inventory is segregated into departments of merchandise having similar characteristics and its cost value is derived from the current retail selling value. The retail inventory method inherently requires operational management judgments and estimates, such as the amount and timing of permanent markdowns to clear unproductive or slow-moving inventory, which may impact the ending inventory valuation as well as gross margins.
+Permanent markdowns designated for clearance activity are recorded when the utility of the inventory has diminished. Operational factors considered in determining to permanently markdown inventory include current and anticipated demand, customer preferences, age of the merchandise and fashion trends. When a decision is made to permanently mark down merchandise, the resulting gross margin reduction is recognized in the period the markdown is recorded.
+32
+Table of Contents
+Long-Lived Asset Impairment and Restructuring Charges
+The carrying values of long-lived assets, inclusive of right of use (ROU) assets, are periodically reviewed by the Company whenever events or changes in circumstances indicate that the carrying value may not be recoverable, such as historical operating losses or plans to close stores before the end of their previously estimated useful lives. Additionally, on an annual basis, the recoverability of the carrying values of individual stores is evaluated. A potential impairment has occurred if projected future undiscounted cash flows are less than the carrying value of the assets. The estimate of cash flows includes management's assumptions of cash inflows and outflows directly resulting from the use of those assets in operations. When a potential impairment has occurred, an impairment write-down is recorded if the carrying value of the long-lived asset exceeds its fair value. The Company believes its estimated cash flows are sufficient to support the carrying value of its long-lived assets. If estimated cash flows significantly differ in the future, the Company may be required to record asset impairment write-downs.
+During fiscal 2023, the Company recognized impairment charges of $957 million primarily related to the approximately 150 locations planned for closure over the next three years as part of A Bold New Chapter strategy, and the remaining associated with corporate and other assets
+If the Company commits to a plan to dispose of a long-lived asset before the end of its previously estimated useful life or changes its use of corporate assets, estimated cash flows are revised accordingly, and the Company may be required to record an asset impairment charge. Additionally, related liabilities arise such as severance, contractual obligations and other accruals associated with store closings from decisions to dispose of assets. The Company estimates these liabilities based on the facts and circumstances in existence for each restructuring decision. The amounts the Company will ultimately realize or disburse could differ from the amounts assumed in arriving at the asset impairment and restructuring charge recorded.
+Goodwill and Intangible Assets
+The Company reviews the carrying value of its goodwill and other intangible assets with indefinite lives at least annually, as of the end of fiscal May, or more frequently if an event occurs or circumstances change, for possible impairment in accordance with ASC Topic 350, Intangibles - Goodwill and Other. For impairment testing, goodwill has been assigned to reporting units which consist of the Company's retail operating divisions. Macy's and Bluemercury are the only reporting units with goodwill as of February 3, 2024, and 98% of the Company's goodwill is allocated to the Macy's reporting unit.
+The Company may elect to evaluate qualitative factors to determine if it is more likely than not that the fair value of a reporting unit or fair value of indefinite lived intangible assets is less than its carrying value. If the qualitative evaluation indicates that it is more likely than not that the fair value of a reporting unit or indefinite lived intangible asset is less than its carrying amount, a quantitative impairment test is required. Alternatively, the Company may bypass the qualitative assessment for a reporting unit or indefinite lived intangible asset and directly perform the quantitative assessment. This determination can be made on an individual reporting unit or asset basis, and performance of the qualitative assessment may resume in a subsequent period.
+The quantitative impairment test involves estimating the fair value of each reporting unit and indefinite lived intangible asset and comparing these estimated fair values with the respective reporting unit or indefinite lived intangible asset carrying value. If the carrying value of a reporting unit exceeds its fair value, an impairment loss will be recognized in an amount equal to such excess, limited to the total amount of goodwill allocated to the reporting unit. If the carrying value of an individual indefinite lived intangible asset exceeds its fair value, such individual indefinite lived intangible asset is written down by an amount equal to such excess.
+Estimating the fair values of reporting units and indefinite lived intangible assets involves the use of significant assumptions, estimates and judgments with respect to a variety of factors, including projected sales, gross margin and SG&A expense rates, capital expenditures, cash flows and the selection and use of an appropriate discount rate and market values and multiples of earnings and revenues of similar public companies. Projected sales, gross margin and SG&A expense rate assumptions and capital expenditures are based on the Company's annual business plan or other forecasted results. Discount rates reflect market-based estimates of the risks associated with the projected cash flows of the reporting unit or indefinite lived intangible asset.
+The use of different assumptions, estimates or judgments in the goodwill impairment testing process, including with respect to the estimated future cash flows of the Company's reporting units, the discount rate used to discount such estimated cash flows to their net present value, and the reasonableness of the resultant implied control premium relative to the Company's market capitalization, could materially increase or decrease the fair value of the reporting unit and/or its net assets and, accordingly, could materially increase or decrease any related impairment charge.
+For the Company's annual impairment assessment as of the end of fiscal May 2023 and 2022, the Company elected to perform a qualitative impairment test on its goodwill and intangible assets with indefinite lives and concluded that it is more likely than not that the fair values exceeded the carrying values and goodwill and intangible assets with indefinite lives were not impaired.
+33
+Table of Contents
+During the third quarter of fiscal 2023, the Company observed a general decline in the market valuation of the Company’s common shares and performed an interim qualitative impairment test on its reporting units. As a result of this test, the Company concluded that it is more likely than not that the fair values of its reporting units exceeded the carrying values and goodwill is not impaired. 
+The Company continues to monitor the key inputs to the fair values of its reporting units. A decline in market capitalization or future declines in macroeconomic factors or business conditions may result in additional impairment charges in future periods.
+Income Taxes
+Income taxes are estimated based on the tax statutes, regulations and case law of the various jurisdictions in which the Company operates. Deferred income tax assets and liabilities are recognized for the future tax consequences attributable to differences between the financial statement carrying amounts of existing assets and liabilities and their respective tax bases, and net operating loss and tax credit carryforwards. Deferred income tax assets and liabilities are measured using enacted tax rates expected to apply to taxable income in the years in which those temporary differences are expected to be recovered or settled. Deferred income tax assets are evaluated for recoverability based on all available evidence, including past operating results, estimates of future taxable income, and the feasibility of tax planning strategies. Deferred income tax assets are reduced by a valuation allowance when it is more likely than not that some portion of the deferred income tax assets will not be realized. 
+Pension and Supplementary Retirement Plans
+The Company has a funded defined benefit pension plan (the Pension Plan) and an unfunded defined benefit supplementary retirement plan (the SERP). The Company accounts for these plans in accordance with ASC Topic 715, Compensation - Retirement Benefits. Under ASC Topic 715, an employer recognizes the funded status of a defined benefit postretirement plan as an asset or liability on the balance sheet and recognizes changes in that funded status in the year in which the changes occur through comprehensive income (loss). Additionally, pension expense is generally recognized on an accrual basis over the average remaining lifetime of participants. The pension expense calculation is generally independent of funding decisions or requirements.
+The Pension Protection Act of 2006 provides the funding requirements for the Pension Plan which are different from the employer's accounting for the plan as outlined in ASC Topic 715. No funding contributions were required, and the Company made no funding contributions to the Pension Plan in 2023 and 2022. As of the date of this report, the Company does not anticipate making funding contributions to the Pension Plan in 2024.
+The calculation of pension expense and pension liabilities requires the use of a number of assumptions. Changes in these assumptions can result in different expense and liability amounts, and future actual experience may differ significantly from current expectations. The Company believes that the most critical assumptions relate to the long-term rate of return on plan assets (in the case of the Pension Plan) and the discount rate used to determine the present value of projected benefit obligations.
+The Company's assumed annual long-term rate of return for the Pension Plan's assets was 5.30% for 2023, 4.60% for 2022 and 5.75% for 2021 based on expected future returns on the portfolio of assets. As of February 3, 2024, the Company held flat the assumed annual long-term rate of return for the Pension Plan's assets at 5.30% based on expected future returns on the portfolio of assets. The Company develops its expected long-term rate of return assumption by evaluating input from several professional advisors taking into account the asset allocation of the portfolio and long-term asset class return expectations, as well as long-term inflation assumptions. Pension expense increases or decreases as the expected rate of return on the assets of the Pension Plan decreases or increases, respectively. Lowering or raising the expected long-term rate of return assumption on the Pension Plan's assets by 0.25% would increase or decrease the estimated 2024 pension expense by approximately $5 million.
+The Company discounted its future pension obligations using a weighted-average rate of 5.06% at February 3, 2024 and 4.73% at January 28, 2023 for the Pension Plan and 5.08% at February 3, 2024 and 4.74% at January 28, 2023 for the SERP. The discount rate used to determine the present value of the Company's Pension Plan and SERP obligations is based on a yield curve constructed from a portfolio of high quality corporate debt securities with various maturities. Each year's expected future benefit payments are discounted to their present value at the appropriate yield curve rate, thereby generating the overall discount rate for Pension Plan and SERP obligations. As the discount rate is reduced or increased, the pension liability would increase or decrease, respectively, and future pension expense would decrease or increase, respectively. Lowering the discount rates by 0.25% would increase the projected benefit obligations at February 3, 2024 by approximately $37 million and would decrease estimated 2024 pension expense by approximately $2 million. Increasing the discount rates by 0.25% would decrease the projected benefit obligations at February 3, 2024 by approximately $36 million and would increase estimated 2024 pension expense by approximately $2 million.
+34
+Table of Contents
+The Company estimates the service and interest cost components of net periodic benefit costs for the Pension Plan and SERP. This method uses a full yield curve approach in the estimation of these components of net periodic benefit costs. Under this approach, the Company applies discounting using individual spot rates from the yield curve composed of the rates of return from a portfolio of high quality corporate debt securities available at the measurement date. These spot rates align to each of the projected benefit obligation and service cost cash flows.

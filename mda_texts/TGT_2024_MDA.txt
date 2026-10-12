@@ -1,0 +1,801 @@
+Item 7.   Management's Discussion and Analysis of Financial Condition and Results of Operations
+Executive Overview
+We continue to make strategic investments to support our durable operating and financial model that further differentiates Target and is designed to drive sustainable sales and profit growth over the long term. During 2023, in support of our enterprise strategy described in 
+Item 1 on page 2
+ of this Form 10-K, we 
+•
+Expanded our supply chain capacity and digital fulfillment capabilities, including adding three new supply chain facilities to support our growth and commitment to fast delivery times, while helping our teams work more efficiently and managing our shipping costs; 
+•
+Fulfilled over 60 percent of our digital sales through our same-day fulfillment options: Order Pickup, Drive Up, and delivery via Shipt;
+•
+Rolled out Drive Up with Starbucks and Returns with Drive Up nationwide;
+•
+Continued to emphasize newness across our assortment and continued to introduce new owned and exclusive brands and designer collaborations, including our first kitchen owned brand Figmint, collections from Kendra Scott, a collaboration with Rowing Blazers, and Stanley drinkware in exclusive colors;
+•
+Completed 65 full store remodels and continued to invest in other stores, including projects to increase efficiency of our Same-Day Services, build-out and open Ulta Beauty shop-in-shops, and expand Apple and Disney experiences;
+•
+Opened 21 new stores in a variety of sizes with new design elements that reflect the local community;
+•
+Invested in team member wages and benefits; and
+•
+Offered compelling promotions, attractive every day price points on key items, and free and easy payment and fulfillment options.
+Financial Summary
+Fiscal 2023 (a 53-week year) included the following notable items:
+•
+GAAP and Adjusted diluted earnings per share were $8.94.
+•
+Total revenue decreased 1.6 percent, reflecting a total sales decline of 1.7 percent and a 5.1 percent increase in other revenue.
+•
+Comparable sales decreased 3.7 percent, driven by a 2.4 percent decrease in traffic and a 1.4 percent decrease in average transaction amount.
+◦
+Comparable store originated sales declined 3.5 percent. 
+◦
+Comparable digitally originated sales decreased 4.8 percent.
+•
+Operating income of $5.7 billion was 48.3 percent higher than the comparable prior-year period. See 
+Business Environment
+ below for additional information.
+Sales were $105.8 billion for 2023, a decrease of $1.8 billion, or 1.7 percent, from the prior year. Operating cash flow was $8.6 billion for 2023, an increase of $4.6 billion, or 114.6 percent, from $4.0 billion for 2022. The drivers of the operating cash flow increase are described on 
+page 30
+.
+TARGET CORPORATION
+2023 Form 10-K
+22
+MANAGEMENT'S DISCUSSION AND ANALYSIS
+Table of Contents
+FINANCIAL SUMMARY
+Index to Financial Statements
+Earnings Per Share
+ 
+ 
+ 
+Percent Change
+2023 
+(a)
+2022
+2021
+2023/2022
+2022/2021
+GAAP diluted earnings per share 
+$
+8.94 
+$
+5.98 
+$
+14.10 
+49.4 
+%
+(57.6)
+%
+Adjustments
+— 
+0.03 
+(0.53)
+ 
+ 
+Adjusted diluted earnings per share 
+$
+8.94 
+$
+6.02 
+$
+13.56 
+48.6 
+%
+(55.7)
+%
+Note:  Amounts may not foot due to rounding. Adjusted diluted earnings per share (Adjusted EPS), a non-GAAP metric, excludes the impact of certain items. Management believes that Adjusted EPS is useful in providing period-to-period comparisons of the results of our operations. A reconciliation of non-GAAP financial measures to GAAP measures is provided on 
+page 28
+.
+(a)
+2023 consisted of 53 weeks compared with 52 weeks in 2022 and 2021.
+We report after-tax return on invested capital (ROIC) because we believe ROIC provides a meaningful measure of our capital-allocation effectiveness over time. For the trailing twelve months ended February 3, 2024, after-tax ROIC was 16.1 percent, compared with 12.6 percent for the trailing twelve months ended January 28, 2023. The calculation of ROIC is provided on 
+page 29
+.
+Business Environment
+In 2023, we experienced sales declines across our business, primarily in each of our Discretionary categories (Apparel & Accessories, Hardlines, and Home Furnishings & Decor) partially offset by growth in Frequency categories (Beauty & Household Essentials and Food & Beverage). This trend of decreased Discretionary category sales began in 2022. In response, during 2022, we took actions and employed strategies to align inventories with sales trends. These actions, as well as improvements in the supply chain, have resulted in decreased inventory in 2023 compared with 2022, as well as a reduction in costs related to managing elevated inventory levels.
+In 2023, we experienced a significant decrease in freight costs due to a decline in freight rates compared to 2022. We have also experienced lower digital fulfillment costs due to a decrease in digital sales and an increased mix of digital sales fulfilled through lower-cost same-day services.
+We continue to experience higher inventory shrink, as a percentage of sales, relative to historical levels — including significantly higher shrink rates at certain stores. We believe that this trend is pervasive across the retail industry. Increased shrink has had, and if current trends persist will continue to have, an adverse impact on our results of operations, including impairment of our long-lived assets. 
+Note 
+11
+ to the Financial Statements provides more information on impairment charges, including those related to store closures.
+The Gross Margin Rate analysis on 
+page 26
+ and Inventory section on 
+page 30
+ provide additional information.
+Sale of Dermstore
+In February 2021, we sold Dermstore LLC (Dermstore) for $356 million in cash and recognized a $335 million pretax gain, which is included in Net Other (Income) / Expense. Dermstore represented less than 1 percent of our consolidated revenues, operating income and net assets.
+TARGET CORPORATION
+2023 Form 10-K
+23
+MANAGEMENT'S DISCUSSION AND ANALYSIS
+Table of Contents
+ANALYSIS OF OPERATIONS
+Index to Financial Statements
+Analysis of Results of Operations
+Summary of Operating Income
+ 
+ 
+ 
+Percent Change
+(dollars in millions)
+2023 
+(a)
+2022
+2021
+2023/2022
+2022/2021
+Sales 
+$
+105,803 
+$
+107,588 
+$
+104,611 
+(1.7)
+%
+2.8 
+%
+Other revenue
+1,609 
+1,532 
+1,394 
+5.1 
+9.8 
+Total revenue
+107,412 
+109,120 
+106,005 
+(1.6)
+2.9 
+Cost of sales
+77,736 
+82,229 
+74,963 
+(5.5)
+9.7 
+SG&A expenses
+21,554 
+20,658 
+19,752 
+4.3 
+4.6 
+Depreciation and amortization (exclusive of depreciation included in cost of sales)
+2,415 
+2,385 
+2,344 
+1.3 
+1.8 
+Operating income
+$
+5,707 
+$
+3,848 
+$
+8,946 
+48.3 
+%
+(57.0)
+%
+(a)
+2023 consisted of 53 weeks compared with 52 weeks in 2022 and 2021.
+Rate Analysis
+2023
+2022
+2021
+Gross margin rate
+26.5 
+%
+23.6 
+%
+28.3 
+%
+SG&A expense rate
+20.1 
+18.9 
+18.6 
+Depreciation and amortization (exclusive of depreciation included in cost of sales) expense rate
+2.2 
+2.2 
+2.2 
+Operating income margin rate
+5.3 
+3.5 
+8.4 
+Note:  Gross margin rate is calculated as gross margin (sales less cost of sales) divided by sales. All other rates are calculated by dividing the applicable amount by total revenue.
+A discussion regarding Analysis of Results of Operations and Analysis of Financial Condition for 2022, as compared to 2021, is included in 
+Part II, Item 7, MD&A
+ 
+to our Annual Report on Form 10-K for the year ended January 28, 2023.
+TARGET CORPORATION
+2023 Form 10-K
+24
+MANAGEMENT'S DISCUSSION AND ANALYSIS
+Table of Contents
+ANALYSIS OF OPERATIONS
+Index to Financial Statements
+Sales
+Sales include all merchandise sales, net of expected returns, and our estimate of gift card breakage. 
+Note 3
+ to the Financial Statements defines gift card "breakage." We use comparable sales to evaluate the performance of our stores and digital channel sales by measuring the change in sales for a period over the comparable, prior-year period of equivalent length. Comparable sales include all sales, except sales from stores open less than 13 months, digital acquisitions we have owned less than 13 months, stores that have been closed, and digital acquisitions that we no longer operate. Comparable sales measures vary across the retail industry. As a result, our comparable sales calculation is not necessarily comparable to similarly titled measures reported by other companies. Digitally originated sales include all sales initiated through mobile applications and our websites. Our stores fulfill the majority of digitally originated sales, including shipment from stores to guests, store Order Pickup or Drive Up, and delivery via Shipt. Digitally originated sales may also be fulfilled through our distribution centers, our vendors, or other third parties.
+Sales growth – from both comparable sales and new stores – represents an important driver of our long-term profitability. We expect that comparable sales growth will drive the majority of our total sales growth. We believe that our ability to successfully differentiate our guests’ shopping experience through a careful combination of merchandise assortment, price, convenience, guest experience, and other factors will over the long-term drive both increasing shopping frequency (number of transactions, or "traffic") and the amount spent each visit (average transaction amount).
+The extra week in 2023 contributed $1,715 million to total sales.
+Comparable Sales
+2023
+2022
+2021
+Comparable sales change
+(3.7)
+%
+2.2 
+%
+12.7 
+%
+Drivers of change in comparable sales
+ 
+ 
+ 
+Number of transactions (traffic)
+(2.4)
+2.1 
+12.3 
+Average transaction amount
+(1.4)
+0.1 
+0.4 
+Comparable Sales by Channel
+2023
+2022
+2021
+Stores originated comparable sales change
+(3.5)
+%
+2.4 
+%
+11.0 
+%
+Digitally originated comparable sales change
+(4.8)
+1.5 
+20.8 
+Sales by Channel
+2023
+2022
+2021
+Stores originated
+81.7 
+%
+81.4 
+%
+81.1 
+%
+Digitally originated
+18.3 
+18.6 
+18.9 
+Total
+100 
+%
+100 
+%
+100 
+%
+Sales by Fulfillment Channel
+2023
+2022
+2021
+Stores
+97.4 
+%
+96.7 
+%
+96.4 
+%
+Other
+2.6 
+3.3 
+3.6 
+Total
+100 
+%
+100 
+%
+100 
+%
+Note:  Sales fulfilled by stores include in-store purchases and digitally originated sales fulfilled by shipping merchandise from stores to guests, Order Pickup, Drive Up, and Shipt.
+Part I, Item 1, Business of this Form 10-K
+ and 
+Note 3
+ to the Financial Statements provides additional product category sales information. The collective interaction of a broad array of macroeconomic, competitive, and consumer behavioral factors, as well as sales mix, and transfer of sales to new stores makes further analysis of sales metrics infeasible.
+TARGET CORPORATION
+2023 Form 10-K
+25
+MANAGEMENT'S DISCUSSION AND ANALYSIS
+Table of Contents
+ANALYSIS OF OPERATIONS
+Index to Financial Statements
+TD Bank Group offers credit to qualified guests through Target-branded credit cards: the Target Credit Card and the Target MasterCard Credit Card (Target Credit Cards). Additionally, we offer a branded proprietary Target Debit Card and RedCard Reloadable Account. Collectively, we refer to these products as RedCards™. Guests receive a 5 percent discount on virtually all purchases when they use a RedCard at Target. We monitor the percentage of purchases that are paid for using RedCards (RedCard Penetration) because our internal analysis has indicated that a meaningful portion of incremental purchases on our RedCards are also incremental sales for Target. For the years ended February 3, 2024, January 28, 2023, and January 29, 2022, total RedCard Penetration was 18.6 percent, 19.8 percent, and 20.5 percent, respectively. See the Customer Loyalty Programs section within Item 1. Business on 
+page 5
+ for information about the rebranding of RedCards. 
+Gross Margin Rate
+Our gross margin rate was 26.5 percent in 2023 and 23.6 percent in 2022. The increase reflected the net impact of 
+•
+merchandising benefit, including
+◦
+lower freight costs; and
+◦
+lower clearance and promotional markdown rates and other costs compared with the prior-year, which included the impact of inventory impairments and other actions; 
+•
+lower digital fulfillment and supply chain costs due to
+◦
+a decrease in digital volume;
+◦
+an increased mix of digital sales fulfilled through lower-cost same-day services; and
+◦
+lower inventory levels; and
+•
+higher inventory shrink.
+Selling, General and Administrative (SG&A) Expense Rate
+Our SG&A expense rate was 20.1 percent in 2023, compared with 18.9 percent in 2022, reflecting the net impact of cost increases across our business, including investments in team member pay and benefits, and the deleveraging impact of lower sales in 2023 compared to the prior year.
+TARGET CORPORATION
+2023 Form 10-K
+26
+MANAGEMENT'S DISCUSSION AND ANALYSIS
+Table of Contents
+ANALYSIS OF OPERATIONS & OTHER PERFORMANCE FACTORS
+Index to Financial Statements
+Store Data
+Change in Number of Stores
+2023
+2022
+Beginning store count
+1,948 
+1,926 
+Opened
+21 
+23 
+Closed
+(13)
+(1)
+Ending store count
+1,956 
+1,948 
+Number of Stores and
+Retail Square Feet
+Number of Stores
+Retail Square Feet
+ 
+(a)
+February 3, 2024
+January 28, 2023
+February 3, 2024
+January 28, 2023
+170,000 or more sq. ft.
+273 
+274 
+48,824 
+48,985 
+50,000 to 169,999 sq. ft.
+1,542 
+1,527 
+192,908 
+191,241 
+49,999 or less sq. ft.
+141 
+147 
+4,207 
+4,358 
+Total
+1,956 
+1,948 
+245,939 
+244,584 
+(a)
+In thousands; reflects total square feet less office, distribution center, and vacant space.
+Other Performance Factors
+Net Interest Expense
+Net interest expense was $502 million for 2023, compared with $478 million for 2022. The increase in net interest expense was primarily due to higher average debt levels and the impact of higher floating interest rates on our interest rate swaps in 2023 compared with 2022, partially offset by an increase in interest income.
+Provision for Income Taxes
+Our 2023 effective income tax rate was 21.9 percent compared with 18.7 percent in 2022. The increase primarily reflects higher pretax earnings in the current year, as well as lower discrete tax benefits related to share-based compensation compared to the prior year.
+Note 19
+ to the Financial Statements provides additional information.
+TARGET CORPORATION
+2023 Form 10-K
+27
+MANAGEMENT'S DISCUSSION AND ANALYSIS
+Table of Contents
+RECONCILIATION OF NON-GAAP FINANCIAL MEASURES
+Index to Financial Statements
+Reconciliation of Non-GAAP Financial Measures to GAAP Measures
+To provide additional transparency, we have disclosed non-GAAP adjusted diluted earnings per share (Adjusted EPS). This metric excludes certain items presented below. We believe this information is useful in providing period-to-period comparisons of the results of our operations. This measure is not in accordance with, or an alternative to, generally accepted accounting principles in the U.S. (GAAP). The most comparable GAAP measure is diluted earnings per share. Adjusted EPS should not be considered in isolation or as a substitution for analysis of our results as reported in accordance with GAAP. Other companies may calculate Adjusted EPS differently than we do, limiting the usefulness of the measure for comparisons with other companies.
+Reconciliation of Non-GAAP 
+Adjusted EPS
+2023 
+(a)
+2022
+2021
+(millions, except per share data)
+Pretax
+Net of Tax
+Per Share Amounts
+Pretax
+Net of Tax
+Per Share Amounts
+Pretax
+Net of Tax
+Per Share Amounts
+GAAP diluted earnings per share
+$
+8.94 
+$
+5.98 
+$
+14.10 
+Adjustments
+Gain on Dermstore Sale
+$
+— 
+$
+— 
+$
+— 
+$
+— 
+$
+— 
+$
+— 
+$
+(335)
+$
+(269)
+$
+(0.55)
+Other 
+(b)
+— 
+— 
+— 
+20 
+15 
+0.03 
+9 
+7 
+0.01 
+Adjusted diluted earnings per share
+$
+8.94 
+$
+6.02 
+$
+13.56 
+Note:  Amounts may not foot due to rounding.
+(a)
+2023 consisted of 53 weeks compared with 52 weeks in 2022 and 2021.
+(b)
+Other items unrelated to current period operations, none of which were individually significant.
+Earnings before interest expense and income taxes (EBIT) and earnings before interest expense, income taxes, depreciation, and amortization (EBITDA) are non-GAAP financial measures. We believe these measures provide meaningful information about our operational efficiency compared with our competitors by excluding the impact of differences in tax jurisdictions and structures, debt levels, and for EBITDA, capital investment. These measures are not in accordance with, or an alternative to, GAAP. The most comparable GAAP measure is net earnings. EBIT and EBITDA should not be considered in isolation or as a substitution for analysis of our results as reported in accordance with GAAP. Other companies may calculate EBIT and EBITDA differently, limiting the usefulness of the measures for comparisons with other companies.
+EBIT and EBITDA
+ 
+ 
+Percent Change
+(dollars in millions)
+2023 
+(a)
+2022
+2021
+2023/2022
+2022/2021
+Net earnings
+$
+4,138 
+$
+2,780 
+$
+6,946 
+48.8 
+%
+(60.0)
+%
+ + Provision for income taxes
+1,159 
+638 
+1,961 
+81.7 
+(67.5)
+ + Net interest expense
+502 
+478 
+421 
+5.0 
+13.4 
+EBIT
+$
+5,799 
+$
+3,896 
+$
+9,328 
+48.8 
+%
+(58.2)
+%
+ + Total depreciation and amortization 
+(b)
+2,801 
+2,700 
+2,642 
+3.8 
+2.2 
+EBITDA
+$
+8,600 
+$
+6,596 
+$
+11,970 
+30.4 
+%
+(44.9)
+%
+(a)
+2023 consisted of 53 weeks compared with 52 weeks in 2022 and 2021.
+(b)
+Represents total depreciation and amortization, including amounts classified within Depreciation and Amortization and within Cost of Sales.
+TARGET CORPORATION
+2023 Form 10-K
+28
+MANAGEMENT'S DISCUSSION AND ANALYSIS
+Table of Contents
+RECONCILIATION OF NON-GAAP FINANCIAL MEASURES
+Index to Financial Statements
+We have also disclosed after-tax ROIC, which is a ratio based on GAAP information, with the exception of the add-back of operating lease interest to operating income. We believe this metric is useful in assessing the effectiveness of our capital allocation over time. Other companies may calculate ROIC differently, limiting the usefulness of the measure for comparisons with other companies.
+After-Tax Return on Invested Capital 
+(dollars in millions)
+Trailing Twelve Months
+Numerator
+February 3, 2024 
+(a)
+January 28, 2023
+Operating income
+$
+5,707 
+$
+3,848 
+ + Net other income
+92 
+48 
+EBIT
+5,799 
+3,896 
+ + Operating lease interest 
+(b)
+120 
+93 
+ - Income taxes 
+(c)
+1,295 
+744 
+Net operating profit after taxes
+$
+4,624
+ 
+$
+3,245
+ 
+Denominator
+February 3, 2024
+January 28, 2023
+January 29, 2022
+Current portion of long-term debt and other borrowings
+$
+1,116 
+$
+130 
+$
+171 
+ + Noncurrent portion of long-term debt
+14,922 
+16,009 
+13,549 
+ + Shareholders' investment
+13,432 
+11,232 
+12,827 
+ + Operating lease liabilities 
+(d)
+3,608 
+2,934 
+2,747 
+ - Cash and cash equivalents
+3,805 
+2,229 
+5,911 
+Invested capital
+$
+29,273 
+$
+28,076 
+$
+23,383 
+Average invested capital 
+(e)
+$
+28,674
+ 
+$
+25,729
+ 
+After-tax return on invested capital
+16.1
+ 
+%
+12.6
+ 
+%
+(a)
+2023 consisted of 53 weeks compared with 52 weeks in the prior-year period.
+(b)
+Represents the add-back to operating income driven by the hypothetical interest expense we would incur if the property under our operating leases were owned or accounted for as finance leases. Calculated using the discount rate for each lease and recorded as a component of rent expense within SG&A Expenses. Operating lease interest is added back to operating income in the ROIC calculation to control for differences in capital structure between us and our competitors.
+(c)
+Calculated using the effective tax rates, which were 21.9 percent and 18.7 percent for the trailing twelve months ended February 3, 2024, and January 28, 2023, respectively. For the trailing twelve months ended February 3, 2024, and January 28, 2023, includes tax effect of $1.3 billion and $0.7 billion, respectively, related to EBIT, and $26 million and $17 million, respectively, related to operating lease interest.
+(d)
+Total short-term and long-term operating lease liabilities included within Accrued and Other Current Liabilities and Noncurrent Operating Lease Liabilities, respectively.
+(e)
+Average based on the invested capital at the end of the current period and the invested capital at the end of the comparable prior period.
+TARGET CORPORATION
+2023 Form 10-K
+29
+MANAGEMENT'S DISCUSSION AND ANALYSIS
+Table of Contents
+ANALYSIS OF FINANCIAL CONDITION
+Index to Financial Statements
+Analysis of Financial Condition
+Liquidity and Capital Resources
+Capital Allocation
+We follow a disciplined and balanced approach to capital allocation based on the following priorities, ranked in order of importance: first, we fully invest in opportunities to profitably grow our business, create sustainable long-term value, and maintain our current operations and assets; second, we maintain a competitive quarterly dividend and seek to grow it annually; and finally, we return any excess cash to shareholders by repurchasing shares within the limits of our credit rating goals.
+Our year-end cash and cash equivalents balance increased to $3.8 billion from $2.2 billion in 2022. Our cash and cash equivalents balance includes short-term investments of $2.9 billion and $1.3 billion as of February 3, 2024, and January 28, 2023, respectively. Our investment policy is designed to preserve principal and liquidity of our short-term investments. This policy allows investments in large money market funds or in highly rated direct short-term instruments that mature in 60 days or less. We also place dollar limits on our investments in individual funds or instruments.
+Operating Cash Flows
+Cash flows provided by operating activities were $8.6 billion in 2023 compared with $4.0 billion in 2022. For 2023, operating cash flows increased as a result of higher net earnings and an improvement in working capital, including lower inventory levels, compared with 2022. 
+Inventory
+Year-end inventory was $11.9 billion, compared with $13.5 billion in 2022. The decrease in inventory levels primarily reflects
+•
+improvements in the supply chain, including on-time arrivals and reduced in-transit inventory, 
+•
+alignment of inventory levels with sales trends, and 
+•
+cost decreases, primarily due to lower freight rates in 2023 compared to 2022.
+The Business Environment section on 
+page 23
+ provides additional information.
+TARGET CORPORATION
+2023 Form 10-K
+30
+MANAGEMENT'S DISCUSSION AND ANALYSIS
+Table of Contents
+ANALYSIS OF FINANCIAL CONDITION
+Index to Financial Statements
+Capital Expenditures
+Note:  Amounts may not foot due to rounding.
+Capital expenditures in 2023 reflect investments in our strategic initiatives, including investments in both stores and in our supply chain. We completed 65 full-store remodels during 2023 and opened approximately 140 Ulta Beauty shop-in-shops. We have completed over 1,100 full-store remodels since the launch of the current program in 2017.
+In addition to these cash investments, we entered into leases related to new stores in 2023, 2022, and 2021 with total future minimum lease payments of $122 million, $319 million, and $401 million, respectively, and new leases related to our supply chain with total future minimum lease payments of $21 million, $1.6 billion, and $226 million, respectively.
+We expect capital expenditures in 2024 of approximately $3.0 billion to $4.0 billion to support new stores, remodels and other existing store investments, and supply chain projects. We expect to open about 20 new stores and add additional Ulta Beauty shop-in-shops during 2024. We also expect to continue to invest in new store and supply chain leases.
+Dividends
+We paid dividends totaling $2.0 billion ($4.36 per share) in 2023 and $1.8 billion ($3.96 per share) in 2022, a per share increase of 10.1 percent. We declared dividends totaling $2.1 billion ($4.38 per share) in 2023 and $1.9 billion ($4.14 per share) in 2022, a per share increase of 5.8 percent. We have paid dividends every quarter since our 1967 initial public offering and it is our intent to continue to do so in the future.
+Share Repurchases
+We did not repurchase any shares during 2023. During 2022 we returned $2.6 billion to shareholders through share repurchase. See 
+Part II
+, 
+Item 5
+, 
+Market for the Registrant's Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities
+ of this Annual Report on Form 10-K and 
+Note 21
+ to the Financial Statements for more information.
+TARGET CORPORATION
+2023 Form 10-K
+31
+MANAGEMENT'S DISCUSSION AND ANALYSIS
+Table of Contents
+ANALYSIS OF FINANCIAL CONDITION
+Index to Financial Statements
+Financing
+Our financing strategy is to ensure liquidity and access to capital markets, to maintain a balanced spectrum of debt maturities, and to manage our net exposure to floating interest rate volatility. Within these parameters, we seek to minimize our borrowing costs. Our ability to access the long-term debt and commercial paper markets has provided us with ample sources of liquidity. Our continued access to these markets depends on multiple factors, including the condition of debt capital markets, our operating performance, and maintaining strong credit ratings. As of February 3, 2024, our credit ratings were as follows:
+Credit Ratings
+Moody's
+Standard and Poor's
+Fitch
+Long-term debt
+A2
+A
+A
+Commercial paper
+P-1
+A-1
+F1
+If our credit ratings were lowered, our ability to access the debt markets, our cost of funds, and other terms for new debt issuances could be adversely impacted. Each of the credit rating agencies reviews its rating periodically and there is no guarantee our current credit ratings will remain the same as described above.
+We have the ability to obtain short-term financing from time to time under our commercial paper program and credit facilities. In October 2023, we obtained a new committed $1.0 billion 364-day unsecured revolving credit facility that will expire in October 2024 and terminated our prior 364-day credit facility. We also exercised our option to extend our existing five-year unsecured revolving credit facility, which has a maximum committed capacity of $3.0 billion and now expires in October 2028. Both credit facilities backstop our commercial paper program. No balances were outstanding under either credit facility at any time during 2023 or 2022. We did not have any balances outstanding under our commercial paper program as of February 3, 2024 or January 28, 2023.
+Most of our long-term debt obligations contain covenants related to secured debt levels. In addition to a secured debt level covenant, our credit facilities also contain a debt leverage covenant. We are, and expect to remain, in compliance with these covenants. Additionally, as of February 3, 2024, no notes or debentures contained provisions requiring acceleration of payment upon a credit rating downgrade, except that certain outstanding notes allow the note holders to put the notes to us if within a matter of months of each other we experience both (i) a change in control and (ii) our long-term credit ratings are either reduced and the resulting rating is non-investment grade, or our long-term credit ratings are placed on watch for possible reduction and those ratings are subsequently reduced and the resulting rating is non-investment grade.
+Note 16
+ to the Financial Statements provides additional information.
+Future Cash Requirements
+We enter into contractual obligations in the ordinary course of business that may require future cash payments. Such obligations include, but are not limited to, purchase commitments, debt service, leasing arrangements, and liabilities related to deferred compensation and pensions. The 
+Notes to the Consolidated Financial Statements
+ provide additional information. 
+We believe our sources of liquidity, namely operating cash flows, credit facility capacity, and access to capital markets, will continue to be adequate to meet our contractual obligations, working capital and capital expenditure requirements, finance anticipated expansion and strategic initiatives, fund debt maturities, pay dividends, and execute purchases under our share repurchase program for the foreseeable future.
+Critical Accounting Estimates
+Our consolidated financial statements are prepared in accordance with GAAP, which requires us to make estimates and apply judgments that affect the reported amounts. In the 
+Notes to the Consolidated Financial Statements
+, we describe the significant accounting policies used in preparing the consolidated financial statements. Our management has discussed the
+ development, selection, and disclosure of our critical accounting estimates with the Audit & Risk Committee of our Board 
+of Directors. The following items require significant estimation or judgment:
+TARGET CORPORATION
+2023 Form 10-K
+32
+MANAGEMENT'S DISCUSSION AND ANALYSIS
+Table of Contents
+ANALYSIS OF FINANCIAL CONDITION
+Index to Financial Statements
+Inventory and cost of sales:
+    The vast majority of our inventory is accounted for under the retail inventory accounting method using the last-in, first-out method (LIFO). Our inventory is valued at the lower of LIFO cost or market. We reduce inventory for estimated losses related to shrink and markdowns. Our shrink estimate is based on historical losses and is adjusted to reflect results of actual physical inventory counts. We generally perform counts at each location annually, with counts taking place throughout the year. A 10% increase in our year-end inventory shrink reserve would increase cost of sales by approximately $150 million. Historically, our actual physical inventory count results have shown our estimates to be reasonably accurate. Market adjustments for markdowns are recorded when the salability of the merchandise has diminished. Salability can be impacted by consumer preferences and seasonality, among other factors. We believe the risk of inventory obsolescence is largely mitigated because our inventory typically turns in less than three months. Inventory was $11.9 billion and $13.5 billion as of February 3, 2024, and January 28, 2023, respectively, and is further described in 
+Note 9
+ to the Financial Statements.
+Vendor income:
+    We receive various forms of consideration from our vendors (vendor income), principally earned as a result of volume rebates, markdown allowances, promotions, and advertising allowances. Substantially all vendor income is recorded as a reduction of cost of sales. Vendor income earned can vary based on a number of factors, including purchase volumes, sales volumes, and our pricing and promotion strategies.
+We establish a receivable for vendor income that is earned but not yet received. Based on historical trending and data, this receivable is computed by forecasting vendor income collections and estimating the amount earned. The majority of the year-end vendor income receivables are collected within the following fiscal quarter, and we do not believe there is a reasonable likelihood that the assumptions used in our estimate will change significantly. Historically, adjustments to our vendor income receivable have not been material. Vendor income receivable was $513 million and $526 million as of February 3, 2024, and January 28, 2023, respectively. Vendor income is described further in 
+Note 5
+ to the Financial Statements.
+Long-lived assets:
+    Long-lived assets are reviewed for impairment whenever events or changes in circumstances indicate that the carrying amounts may not be recoverable. The evaluation is performed primarily at the store level. An impairment loss is recognized when estimated undiscounted future cash flows from the operation and/or eventual disposition of the asset or asset group is less than its carrying amount, and is measured as the excess of its carrying amount over fair value. We estimate fair value by obtaining market appraisals, obtaining valuations from third-party brokers, or using other valuation techniques. We recorded impairments of $102 million, $66 million, and $87 million in 2023, 2022, and 2021, respectively, which are described further in 
+Note 11
+ to the Financial Statements.
+Insurance/self-insurance:
+    We retain a substantial portion of the risk related to certain general liability, workers' compensation, property loss, and team member medical and dental claims. However, we maintain stop-loss coverage to limit the exposure related to certain risks. Liabilities associated with these losses include estimates of both claims filed and losses incurred but not yet reported. We use actuarial methods which consider a number of factors to estimate our ultimate cost of losses. General liability and workers' compensation liabilities are recorded based on our estimate of their net present value; other liabilities referred to above are not discounted. Our workers' compensation and general liability accrual was $650 million and $560 million as of February 3, 2024, and January 28, 2023, respectively. We believe that the amounts accrued are appropriate; however, our liabilities could be significantly affected if future occurrences or loss developments differ from our assumptions. For example, a 5 percent increase or decrease in average claim costs would have impacted our self-insurance expense by $33 million in 2023. Historically, adjustments to our estimates have not been material. Refer to 
+Part II
+, 
+Item 7A
+, 
+Quantitative and Qualitative Disclosures About Market Risk
+, for further disclosure of the market risks associated with these exposures. We maintain insurance coverage to limit our exposure to certain events, including network security matters. 
+TARGET CORPORATION
+2023 Form 10-K
+33
+MANAGEMENT'S DISCUSSION AND ANALYSIS
+Table of Contents
+ANALYSIS OF FINANCIAL CONDITION & NEW ACCOUNTING PRONOUNCEMENTS
+Index to Financial Statements
+Income taxes:
+    We pay income taxes based on the tax statutes, regulations, and case law of the various jurisdictions in which we operate. Significant judgment is required in determining the timing and amounts of deductible and taxable items, and in evaluating the ultimate resolution of tax matters in dispute with tax authorities. The benefits of uncertain tax positions are recorded in our financial statements only after determining it is likely the uncertain tax positions would withstand challenge by taxing authorities. We periodically reassess these probabilities and record any changes in the financial statements as appropriate. Gross uncertain tax positions, including interest and penalties, were $366 million and $241 million as of February 3, 2024, and January 28, 2023, respectively. We believe the resolution of these matters will not materially affect our consolidated financial statements. Income taxes are described further in 
+Note 19
+ to the Financial Statements.
+Pension accounting:
+    We maintain a funded qualified defined benefit pension plan, as well as nonqualified and international pension plans that are generally unfunded, for certain current and former team members. The costs for these plans are determined based on actuarial calculations using the assumptions described in the following paragraphs. Eligibility and the level of benefits vary depending on each team member's full-time or part-time status, date of hire, age, length of service, and/or compensation. The benefit obligation and related expense for these plans are determined based on actuarial calculations using assumptions about the expected long-term rate of return, the discount rate, compensation growth rates, mortality, and retirement age. These assumptions, with adjustments made for any significant plan or participant changes, are used to determine the period-end benefit obligation and establish expense for the next year.
+Our 2023 expected long-term rate of return on plan assets of 6.50 percent was determined by the portfolio composition, historical long-term investment performance, and current market conditions. A 1 percentage point decrease in our expected long-term rate of return would increase annual expense by $41 million.
+The discount rate used to determine benefit obligations is adjusted annually based on the interest rate for long-term high-quality corporate bonds, using yields for maturities that are in line with the duration of our pension liabilities. Our benefit obligation and related expense will fluctuate with changes in interest rates. A 1 percentage point decrease in the weighted average discount rate would increase annual expense by $36 million.
+Based on our experience, we use a graduated compensation growth schedule that assumes higher compensation growth for younger, shorter-service pension-eligible team members than it does for older, longer-service pension-eligible team members.
+Pension benefits are further described in 
+Note 24
+ to the Financial Statements.
+Legal and other contingencies:
+    We believe the accruals recorded in our consolidated financial statements properly reflect loss exposures that are both probable and reasonably estimable. We do not believe any of the currently identified claims or litigation will materially affect our results of operations, cash flows, or financial condition. However, litigation is subject to inherent uncertainties, and unfavorable rulings could occur. If an unfavorable ruling were to occur, it may cause a material adverse impact on the results of operations, cash flows, or financial condition for the period in which the ruling occurs, or future periods. Refer to 
+Note 15
+ to the Financial Statements for further information on contingencies.
+New Accounting Pronouncements
+We do not expect that any recently issued accounting pronouncements will have a material effect on our financial statements.
+TARGET CORPORATION
+2023 Form 10-K
+34
+MANAGEMENT'S DISCUSSION AND ANALYSIS
+Table of Contents
+FORWARD LOOKING STATEMENTS & QUANTITATIVE AND QUALITATIVE DISCLOSURES
+Index to Financial Statements
+Forward-Looking Statements
+This report contains forward-looking statements, which are based on our current assumptions and expectations. These statements are typically accompanied by the words "aim," "anticipate," "believe," "could," "expect," "may," "might," "seek," "will," "would," or similar words. The principal forward-looking statements in this report include statements regarding: our future financial and operational performance, our strategy for growth, the adequacy of and costs associated with our sources of liquidity, the funding of debt maturities, the execution of our share repurchase program, our expected capital expenditures and new lease commitments, the expected compliance with debt covenants, the expected impact of new accounting pronouncements, our intentions regarding future dividends, the expected contributions and payments related to our pension plan, the expected return on plan assets, the expected timing and recognition of compensation expenses, the adequacy of our reserves for general liability, workers' compensation, and property loss, the expected outcome of, and adequacy of our reserves for, claims, litigation, and the resolution of tax matters, our expectations regarding our contractual obligations, liabilities, and vendor income, the expected ability to recognize deferred tax assets and liabilities and the timing of such recognition, our expectations regarding arrangements with our partners, and changes in our assumptions and expectations.
+All such forward-looking statements are intended to enjoy the protection of the safe harbor for forward-looking statements contained in the Private Securities Litigation Reform Act of 1995, as amended. Although we believe there is a reasonable basis for the forward-looking statements, our actual results could be materially different. The most important factors which could cause our actual results to differ from our forward-looking statements are set forth in our description of risk factors included in 
+Part I
+, 
+Item 1A
+, 
+Risk Factors
+ to this Form 10-K, which should be read in conjunction with the forward-looking statements in this report. Forward-looking statements speak only as of the date they are made, and we do not undertake any obligation to update any forward-looking statement.

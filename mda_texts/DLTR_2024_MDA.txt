@@ -1,0 +1,102 @@
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations” for more information on the calculation of our Self-Insurance Liabilities.
+•
+Depreciation and amortization expense increased approximately 5 basis points primarily due to capital expenditures related to store renovations and improvements, partially offset by leverage from the comparable store net sales increase and leverage from the 53
+rd
+ week of sales in the current year.
+Liquidity and Capital Resources
+We invest capital to build and open new stores, expand and renovate existing stores, enhance and grow our distribution network, operate our existing stores, maintain and upgrade our technology, and support our other strategic initiatives. Our working capital requirements for existing stores are seasonal in nature and typically reach their peak in the months of September and October. We have satisfied our seasonal working capital requirements for existing and new stores and have funded our distribution network programs and other capital projects from internally generated funds and borrowings under our credit facilities and commercial paper program.
+The following table compares cash flow-related information for the years ended February 3, 2024, January 28, 2023 and January 29, 2022:
+ 
+Year Ended
+(in millions)
+February 3, 2024
+January 28, 2023
+January 29, 2022
+Net cash provided by (used in):
+Operating activities
+$
+2,684.5 
+$
+1,614.8 
+$
+1,431.5 
+Investing activities
+(2,107.6)
+(1,253.8)
+(1,019.9)
+Financing activities
+(530.0)
+(686.8)
+(836.5)
+Operating Activities
+Net cash provided by operating activities increased $1,069.7 million in fiscal 2023 compared to fiscal 2022 primarily due to improving inventory levels, partially offset by lower current year earnings, net of non-cash items. Inventory decreased $335.6 million during fiscal 2023 compared to an increase of $1,085.4 million during fiscal 2022.
+Investing Activities
+Net cash used in investing activities increased $853.8 million in fiscal 2023 compared with fiscal 2022 due to higher capital expenditures in the current year.
+Financing Activities
+Net cash used in financing activities decreased $156.8 million in fiscal 2023 compared to fiscal 2022 primarily due to lower payments for stock repurchases in the current year. 
+For detail on our long-term and short-term borrowings and other commitments, refer to the discussion of “Funding Requirements” below, as well as 
+Note 5
+ and 
+Note 6
+ to our consolidated financial statements.
+Share Repurchases
+We repurchased 3,905,599, 4,613,696 and 9,156,898 shares of common stock on the open market in fiscal 2023, fiscal 2022 and fiscal 2021, respectively, for $504.3 million, $647.5 million and $950.0 million, respectively. At February 3, 2024, we had $1.35 billion remaining under our existing $2.5 billion Board repurchase authorization.
+35
+Table of Contents
+Funding Requirements
+We expect our cash needs for opening new stores and expanding existing stores in fiscal 2024 to total approximately $650.0 million to $675.0 million, which includes capital expenditures, initial inventory and pre-opening costs. Our total estimated capital expenditures for fiscal 2024 are approximately $2.1 billion to $2.3 billion, including planned expenditures for our new and expanded stores, store renovations, supply chain and information technology investments, and other property improvements. We believe that we can adequately fund our working capital requirements and planned capital expenditures for the foreseeable future from net cash provided by operations, our commercial paper program and borrowings under our credit facilities.
+Our material contractual obligations consist of long-term and short-term borrowings and related interest payments and operating lease obligations. Additionally, we have commitments related to ocean shipping contracts, software license and support agreements, telecommunication services and store technology assets and maintenance for our stores. Other commitments include letters of credit for imported merchandise, standby letters of credit that serve as collateral for our large-deductible insurance programs and surety bonds that serve as collateral for utility payments at our stores and self-insured insurance programs. For additional information regarding these obligations, including amounts outstanding at February 3, 2024, refer to 
+Note 5
+, 
+Note 6
+ and 
+Note 7
+ to our consolidated financial statements.
+Critical Accounting Estimates and Assumptions
+Our consolidated financial statements have been prepared in accordance with accounting principles generally accepted in the United States of America (“U.S. GAAP”). To prepare these financial statements, we must make estimates and assumptions that affect the reported amounts of assets, liabilities, revenues and expenses, as well as the disclosures of contingent assets and liabilities. Our estimates are often based on complex judgments, probabilities and assumptions that management believes to be reasonable, but that are inherently uncertain and unpredictable. It is also possible that other professionals, applying reasonable judgment to the same facts and circumstances, could develop and support a range of alternative estimated amounts. Actual results could be significantly different from these estimates. Following is a discussion of the estimates that we consider critical.
+Inventory Valuation
+As discussed in 
+Note 2
+ to our consolidated financial statements under the caption “Merchandise Inventories,” inventories at the distribution centers are stated at the lower of cost or net realizable value with cost determined on a weighted-average basis. Cost is assigned to store inventories using the retail inventory method on a weighted-average basis. Under the retail inventory method, the valuation of inventories at cost and the resulting gross margins are computed by applying a calculated cost-to-retail ratio to the retail value of inventories. The retail inventory method is an averaging method that is widely used in the retail industry and results in valuing inventories at lower of cost or market when markdowns are taken as a reduction of the retail value of inventories on a timely basis.
+Inventory valuation methods require certain management estimates and judgments, including estimates of future merchandise markdowns and shrink, which significantly affect the ending inventory valuation at cost as well as the resulting gross margins. The averaging required in applying the retail inventory method and the estimates of shrink and markdowns could, under certain circumstances, result in costs not being recorded in the proper period.
+We estimate our markdown reserve based on the consideration of a variety of factors, including, but not limited to, quantities of slow moving or seasonal carryover merchandise on hand, historical markdown statistics and future merchandising plans. The accuracy of our estimates can be affected by many factors, some of which are outside of our control, including changes in economic conditions and consumer buying trends. Historically, we have not experienced significant differences in our estimated reserve for markdowns compared with actual results.
+Our accrual for shrink is based on the shrink results of our most recent physical inventories adjusted, if necessary, for current economic conditions and business trends. These estimates are compared to actual results as physical inventory counts are taken and reconciled to the general ledger. Our physical inventory counts are generally taken between January and October of each year; therefore, the shrink accrual recorded at February 3, 2024 is based on estimated shrink for most of fiscal 2023, including the fourth quarter. We periodically adjust our shrink estimates to reflect our best estimates based on the factors described and, historically, these adjustments have not been material.
+Our management believes that our application of the retail inventory method results in an inventory valuation that reasonably approximates cost and results in carrying inventory at the lower of cost or market each year on a consistent basis.
+36
+Table of Contents
+Self-Insurance Liabilities
+The liabilities related to our self-insurance programs for workers’ compensation, general liability and auto are estimates that require judgment and the use of assumptions. Semiannually, we obtain third-party actuarial valuations to aid in valuing these liabilities and in determining the amount to accrue during the year. These actuarial valuations are estimates based on our claims experience for current and prior periods, exposure and severity factors, historical loss development factors, and other actuarial assumptions and the related accruals are adjusted as management’s estimates change.
+Management’s estimate for self-insurance liabilities could vary from the ultimate loss sustained given the difficulty in predicting future events; however, historically, the net total of these differences has not had a material effect on our financial condition or results of operations. Our self-insurance liabilities associated with workers’ compensation, general liability and auto are recorded within “Other current liabilities” and “Other liabilities” in the Consolidated Balance Sheets and amounted to $363.5 million and $318.2 million at February 3, 2024 and January 28, 2023, respectively. The increase was primarily due to general liability claims beginning to develop and pay out at amounts significantly higher than anticipated, resulting in higher actuarially determined accruals.
+Goodwill and Indefinite-Lived Intangible Assets
+Goodwill and indefinite-lived intangible assets are initially recorded at their fair values. These assets are not amortized but are evaluated annually for impairment. A more frequent evaluation is performed if events or circumstances indicate that impairment could have occurred. Such events or circumstances could include, but are not limited to, significant negative industry or economic trends, unanticipated changes in the competitive environment and a significant sustained decline in the market price of our stock.
+For purposes of our goodwill impairment evaluation, the reporting units are Family Dollar, Dollar Tree and Dollar Tree Canada. Goodwill has been assigned to the reporting units based on prior business combinations related to the brands. We have the option to initially perform a qualitative assessment to determine whether it is more likely than not that the fair value is less than the carrying amount. Alternatively, we may bypass the qualitative assessment and proceed directly to performing the quantitative impairment test. In connection with the fiscal 2023 annual impairment evaluation, management’s qualitative assessment indicated that it was more likely than not that the fair value of the Family Dollar reporting unit was less than its carrying value. There were no indicators that the fair value of the Dollar Tree or Dollar Tree Canada reporting units were less than their carrying value. Therefore, management performed a quantitative assessment of both the Family Dollar goodwill and trade name.
+ We estimate the fair value using a combination of a market multiple method and a discounted cash flow method. Under the market multiple approach, we estimate a fair value based on comparable companies’ market multiples of revenues and earnings before interest, taxes, depreciation and amortization (“EBITDA”) and adjusted for a control premium. Under the discounted cash flow approach, we project future cash flows which are discounted using a weighted-average cost of capital analysis that reflects current market conditions, adjusted for specific reporting unit risks (primarily the uncertainty of achieving projected operating cash flows), in arriving at the fair value of the reporting unit. If the carrying amount of a reporting unit exceeds its estimated fair value, an impairment loss is recognized in an amount equal to that excess.
+The Family Dollar goodwill and trade name comprise a substantial portion of our goodwill and indefinite-lived intangible assets and management’s judgment utilized in the Family Dollar goodwill and trade name impairment evaluations is critical. The computations require management to make estimates and assumptions and actual results may differ significantly, particularly if there are significant adverse changes in the operating environment. Critical assumptions that are used as part of a quantitative Family Dollar goodwill evaluation include:
+•
+The potential future revenue, EBITDA and cash flows of the reporting unit. 
+The projections use management’s assumptions about economic and market conditions over the projected period as well as our estimates of future performance and reporting unit revenue, gross margin, expenses and other factors. The resulting revenue, EBITDA and cash flow estimates are based on our most recent business operating plans, and various growth rates are assumed for years beyond the current business plan period. These operating plans include anticipated investments in associate wages, improved store execution, enhanced safety and working conditions, increased supply chain efficiencies, competitive pricing, and enhancements to our technology infrastructure. 
+We believe that the assumptions, estimates and rates used in our fiscal 2023 impairment evaluations are reasonable; however, variations in the assumptions, estimates and rates could result in significantly different estimates of fair value.
+•
+Selection of an appropriate discount rate. 
+Calculating the present value of future cash flows requires the selection of an appropriate discount rate, which is based on a weighted-average cost of capital analysis. The discount rate is affected by changes in short-term interest rates and long-term yield as well as variances in the typical capital structure of marketplace participants. Given current economic conditions, it is possible that the discount rate will fluctuate in the near term. 
+We engaged third party experts to assist in the determination of the weighted-average cost of capital used to discount the cash flows for our Family Dollar reporting unit. The weighted-average cost of capital used to discount the cash flows for our evaluation was 10.5
+%
+ for our fiscal 2023 analysis.
+37
+Table of Contents
+Our evaluation of goodwill resulted in an impairment charge of $1,069.0 million in fiscal 2023 related to the Family Dollar reporting unit. Our evaluation of goodwill did not result in impairment charges being recorded in fiscal 2022 or fiscal 2021. The fiscal 2023 goodwill impairment was driven primarily by the Family Dollar reporting unit’s below plan performance, management’s store portfolio optimization review and the continued refinement of our transformational strategies which impact long-term growth rates between the segments.
+Indefinite-lived intangible assets, such as the Family Dollar trade name, are not subject to amortization but are reviewed at least annually for impairment. The indefinite-lived intangible asset impairment evaluations are performed by comparing the fair value of the indefinite-lived intangible assets to their carrying values. We estimate the fair value of our trade name intangible asset based on an income approach using the relief-from-royalty method. This approach is dependent upon a number of factors, including estimates of future growth and trends, royalty rates, discount rates and other variables. We base our fair value estimates on assumptions we believe to be reasonable, but which are inherently uncertain. The discount rate includes a premium compared to the discount rate used for the Family Dollar goodwill impairment evaluation due to the inherently higher risk profile of intangible assets compared to the overall reporting unit.
+Our evaluation of the Family Dollar trade name resulted in an impairment charge of $950.0 million in fiscal 2023. Our evaluation of the Family Dollar trade name did not result in impairment charges being recorded during fiscal 2022 or fiscal 2021. The fiscal 2023 trade name impairment was driven primarily by a decrease in the royalty rate assumption based on lower future growth rates and operating income margin assumptions for the Family Dollar reporting unit.
+For additional information related to goodwill and indefinite-lived intangible assets, including the related impairment evaluations, refer to 
+Note 
+2
+ to our consolidated financial statements under the caption “Goodwill and Nonamortizing Intangible Assets” and 
+Note 15
+. For additional information related to uncertainties associated with the key assumptions and any potential events and/or circumstances that could have a negative effect on the key assumptions, please refer to “
+Item 1A. Risk Factors
+” and elsewhere within this “Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations.” If our assumptions and related estimates change in the future, we may be required to record impairment charges against earnings in future periods. Any impairment charges that we may take in the future could be material to our results of operations and financial condition. 
+Summary of Significant Accounting Policies
+Refer to 
+Note 
+2
+ to our consolidated financial statements for a summary of our significant accounting policies and our assessment of recently issued accounting standards.

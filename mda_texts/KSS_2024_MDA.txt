@@ -1,0 +1,559 @@
+Item 7. Management’s Discussion and An
+alysis of Financial Condition and Results of Operations
+Executive Summary
+Kohl's is a leading omnichannel retailer operating 1,174 stores and a website (www.Kohls.com) as of February 3, 2024.
+ 
+Our Kohl's stores and website sell moderately-priced private and national brand apparel, footwear, accessories, beauty, and home products. Our Kohl's stores generally carry a consistent merchandise assortment with some differences attributable to local preferences, store size, and Sephora shops. Our website includes merchandise which is available in our stores, as well as merchandise that is available only online.
+Key financial results for 2023 as compared to 2022 include:
+•
+Net sales decreased 3.4%, to $16.6 billion. 2023 net sales included approximately $164 million from the 53rd week.
+•
+Comparable sales, which compares the 52-week period ending January 27, 2024 versus the 52-week period ended January 28, 2023, decreased 4.7%. 
+•
+Gross margin as a percent of net sales was 36.7%, an increase of 347 basis points.
+•
+Selling, general & administration ("SG&A") expenses decreased 1.3%, to $5.5 billion. As a percentage of total revenue, SG&A expense was 31.5%, an increase of 67 basis points.
+•
+Operating income was $717 million compared to $246 million in the prior year. As a percentage of total revenue, operating income was 4.1%, an increase of 274 basis points.
+•
+Net income of $317 million, or $2.85 per diluted share. This compares to net loss of $19 million, or ($0.15) per diluted share, in the prior year.
+•
+Inventory was $2.9 billion, a decrease of 10% to last year, driven by managing receipts down 9% versus last year.
+•
+Operating cash flow was $1.2 billion.
+Our Strategy
+ 
+Kohl's strategy is focused on delivering long-term shareholder value. To achieve this, the Company has established four overarching priorities to drive improved sales and profitability. These priorities include enhancing the customer experience, accelerating and simplifying its value strategies, managing inventory and expenses with discipline, and strengthening the balance sheet.
+Financial and Capital Outlook
+For fiscal year 2024, the Company currently expects the following:
+•
+Net sales: A decrease of (1%) to an increase of 1%
+•
+Comparable sales: In the range of 0% to 2%
+•
+Operating margin: In the range of 3.6% to 4.1%
+•
+Diluted EPS: In the range of $2.10 to $2.70, excluding any non-recurring charges. 
+•
+Capital Expenditures: Approximately $500 million, including expansion of Sephora arrangement and other store-related investments
+The Company’s guidance includes the potential impact from credit card late fee regulatory changes in the second half of 2024.
+21
+Table of Contents
+ 
+Results of Operations
+For our comparison and discussion of 2022 and 2021, see Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations in Part II of our 
+2022 Form 10-K
+.
+53
+rd
+ Week
+The retail calendar for fiscal January 2023 included a fifth week, resulting in a 14-week fiscal fourth quarter and a 53-week year. Our comparable sales in 2023 exclude the impact of the 53rd week and compare the 52 weeks ended January 27, 2024 to the 52 weeks ended January 28, 2023.
+Net Sales
+Net sales includes revenue from the sale of merchandise, net of expected returns and deferrals due to future performance obligations, and shipping revenue.
+Comparable sales is a measure that highlights the performance of our stores and digital channel by measuring the change in sales for a period over the comparable, prior-year period of equivalent length. Comparable sales includes all store and digital sales, except sales from stores open less than 12 months, stores that have been closed, and stores that have been relocated where square footage has changed by more than 10%. We measure the change in digital sales by including all sales initiated online or through mobile applications, including omnichannel transactions which are fulfilled through our stores.
+We measure digital penetration as digital sales over net sales. These amounts do not take into consideration fulfillment node, digital returns processed in stores, and coupon behaviors.
+Comparable sales and digital penetration measures vary across the retail industry. As a result, our comparable sales calculation and digital penetration may not be consistent with the similarly titled measures reported by other companies.
+The following graph summarizes net sales dollars and the change in comparable sales over the prior year. As our stores were closed for a period during 2020, we have not included a measure of 2021 comparable sales as we do not believe it is a meaningful metric over this period of time.
+ 
+ 
+ 
+2023 compared to 2022
+Net sales decreased $575 million, or (3.4%), to $16.6 billion for 2023.
+ 
+•
+The decrease was driven by transaction volume down approximately 4% partially offset by an approximately 1% increase in average transaction value.
+22
+Table of Contents
+ 
+•
+The sales decrease was seen across all lines of business except for Accessories, as they underperformed the Company average. Partially offsetting this decrease was a 23% increase in Accessories driven by over a 90% increase in Sephora compared to the prior year. Sephora sales exceeded $1.4 billion in 2023. 
+(Dollars in Millions)
+2023
+2022
+Change
+Women's
+$4,281
+$4,654
+(8.0%)
+Men's
+3,455
+3,679
+(6.1%)
+Accessories (including Sephora)
+2,813
+2,279
+23.4%
+Home
+2,533
+2,791
+(9.2%)
+Children's
+2,060
+2,176
+(5.3%)
+Footwear
+1,444
+1,582
+(8.7%)
+Net Sales
+$16,586
+$17,161
+(3.4%)
+ 
+•
+Digital sales decreased 14% for the year as sales were impacted by the elimination of online-only promotions as we worked to simplify our value strategies. Digital penetration represented 29% of net sales in 2023.
+Other Revenue
+Other revenue includes revenue from credit card operations, third-party advertising on our website, unused gift cards and merchandise return cards (breakage), and other non-merchandise revenue.
+The following graph summarizes other revenue:
+ 
+ 
+Other revenue decreased $47 million in 2023 driven by a decline in credit revenue due to increasing credit loss rates.
+ 
+In addition, as it relates to our credit business and recent regulatory developments, the CFPB has finalized a rule that will lower the late fees credit card companies can charge. The final rule will have a negative impact on our credit card revenues if unmitigated. We are actively pursuing various initiatives to mitigate the effects of this ruling including scaling our recently launched co-brand card and other various initiatives with Capital One, our credit partner. We are closely monitoring developments on this ruling, specifically as it relates to the timing of implementation.
+23
+Table of Contents
+ 
+Cost of Merchandise Sold and Gross Margin
+Cost of merchandise sold includes the total cost of products sold, including product development costs, net of vendor payments other than reimbursement of specific, incremental, and identifiable costs; inventory shrink; markdowns; freight expenses associated with moving merchandise from our vendors to our distribution centers; shipping expenses for digital sales; and terms cash discount. Our cost of merchandise sold may not be comparable with that of other retailers because we include distribution center and buying costs in selling, general, and administrative expenses while other retailers may include these expenses in cost of merchandise sold.
+The following graph summarizes cost of merchandise sold and gross margin as a percent of net sales:
+ 
+ 
+Gross margin is calculated as net sales less cost of merchandise sold. Gross margin as a percent of net sales
+ 
+increased 347 basis points in 2023 compared to 2022. The increase in gross margin was driven
+ 
+by lower clearance markdowns, lower freight costs, reduced digital-related cost of shipping, and the simplification of our value strategies.
+We expect gross margin to expand 40 to 50 basis points in 2024, driven by strong inventory management, lower freight expense, and continued benefits from the simplification of our value strategies.
+Selling, General, and Administrative Expenses
+SG&A includes compensation and benefit costs (including stores, corporate, buying, and distribution centers); occupancy and operating costs of our retail, distribution, and corporate facilities; freight expenses associated with moving merchandise from our distribution centers to our retail stores and among distribution and retail facilities other than expenses to fulfill digital sales; marketing expenses, offset by vendor payments for reimbursement of specific, incremental, and identifiable costs; expenses related to our credit card operations; and other administrative revenues and expenses. We do not include depreciation and amortization in SG&A. The classification of these expenses varies across the retail industry.
+Many of our expenses, including store payroll and distribution costs, are variable in nature. These costs generally increase as sales increase, and decrease as sales decrease. We measure our expenses as a percentage of revenue and changes in this percentage compared to the prior year. If the expense as a percent of revenue decreased from the prior year, the expense "leveraged". If the expense as a percent of revenue increased over the prior year, the expense "deleveraged".
+24
+Table of Contents
+ 
+The following graph summarizes the changes in SG&A by expense type between 2022 and 2023:
+ 
+ 
+ 
+SG&A decreased $75 million, or 1.3%, to $5.5 billion in 2023. As a percentage of revenue, SG&A deleveraged by (67) basis points.
+The decrease was primarily driven by decreased marketing investments across all channels and decreased distribution costs due to lower receipts and increased productivity.
+ 
+Distribution costs, which exclude payroll related to online originated orders that were shipped from our stores, were $406 million for 2023 compared to $457 million for 2022. Partially offsetting the decreases were increased store costs. Store expenses were driven by increased wages, continued investments in Sephora openings, and other store-related expenses.
+In 2024, SG&A dollars are expected to be flat to slightly down with wage inflation being offset by labor productivity improvements and marketing efficiency.
+Other Expenses
+ 
+(Dollars in Millions)
+2023
+2022
+2021
+Depreciation and amortization
+$749
+$808
+$838
+Interest expense, net
+344
+304
+260
+Loss on extinguishment of debt
+—
+—
+201
+ 
+Depreciation and amortization decreased in 2023, primarily driven by reduced capital spending in technology.
+Net interest expense increased in 2023 compared to 2022 due to borrowings under the revolving credit facility as well as Sephora related lease amendments.
+ 
+In 2021, we completed a cash tender offer and recognized a loss of $201 million from the extinguishment of debt.
+Income Taxes
+ 
+(Dollars in Millions)
+2023
+2022
+2021
+Provision (benefit) for income taxes
+$56
+$(39)
+$281
+Effective tax rate
+15.1%
+68.1%
+23.1%
+ 
+25
+Table of Contents
+ 
+ 
+Fiscal year 2023 resulted in an income tax provision compared to an income tax benefit in fiscal year 2022 due to the pre-tax book income in fiscal year 2023 compared to the pre-tax book loss in 2022.
+GAAP to Non-GAAP Reconciliation
+ 
+(Dollars in Millions, Except per Share Data)
+Operating Income
+Income (loss) before Income Taxes
+Net Income (loss)
+Earnings (loss) per Diluted Share
+2023
+ 
+ 
+ 
+ 
+  GAAP
+$717
+$373
+$317
+$2.85
+  Loss on extinguishment of debt
+—
+—
+—
+—
+  Income tax impact of items noted above
+—
+—
+—
+—
+  Adjusted (non-GAAP)
+(1)
+$717
+$373
+$317
+$2.85
+2022
+ 
+ 
+ 
+ 
+  GAAP
+$246
+$(58)
+$(19)
+$(0.15)
+  Loss on extinguishment of debt
+—
+—
+—
+—
+  Income tax impact of items noted above
+—
+—
+—
+—
+  Adjusted (non-GAAP)
+(1)
+$246
+$(58)
+$(19)
+$(0.15)
+2021
+ 
+ 
+ 
+ 
+  GAAP
+$1,680
+$1,219
+$938
+$6.32
+  Loss on extinguishment of debt
+—
+201
+201
+1.35
+  Income tax impact of items noted above
+—
+—
+(50)
+(0.34)
+  Adjusted (non-GAAP)
+$1,680
+$1,420
+$1,089
+$7.33
+(1)       Amounts shown for 2023 and 2022 are GAAP as there are no adjustments to Non-GAAP. These amounts are shown for comparability purposes.
+ 
+We believe the adjusted results in the GAAP to Non-GAAP table are useful because they provide enhanced visibility into our results for the periods excluding the impact of certain items such as those included in the table. However, these non-GAAP financial measures are not intended to replace the comparable GAAP measures.
+Inflation
+We expect that our operations will continue to be influenced by general economic conditions, including food, fuel, and energy prices, higher unemployment, wage inflation, and costs to source our merchandise, including tariffs. There can be no assurances that such factors will not impact our business in the future.
+Liquidity and Capital Resources
+Capital Allocation
+Our capital allocation strategy is to invest to maximize our overall long-term return and maintain a strong balance sheet, with a long-term objective of achieving an investment grade rating. We follow a disciplined approach to capital allocation based on the following priorities: first we invest in our business to drive long-term profitable growth; second we pay a quarterly dividend; third we will complete debt reduction transactions, when appropriate; and fourth we return excess cash to shareholders through our share repurchase program.
+We will continue to invest in the business, as we plan to invest approximately $500 million in 2024, including the expansion of Sephora shops, the launch of Babies "R" Us, and the expansion of queuing lines to 350 stores. We remain committed to the dividend, and on February
+ 
+28, 2024, our Board of Directors declared a quarterly cash dividend of $0.50 per share. The dividend will be paid on April 3, 2024 to all shareholders of record at the close of business on March 20, 2024. Last, we retired $164 million of notes due in February 2023 and $111 million of notes due December 2023. We are not planning any share repurchases until our balance sheet is strengthened on a path towards the long term target leverage ratio of 2.5 times adjusted earnings before interest, taxes, depreciation, amortization, and rent ("EBITDAR") (utilizing an eight times cash rent calculation for lease obligations) as calculated in our capital structure ratio below.
+26
+Table of Contents
+ 
+Our period-end cash and cash equivalents balance increased to $183 million from $153 million in 2022. Our cash and cash equivalents balance includes short-term investments of $15 million and $10 million as of February 3, 2024, and January 28, 2023, respectively. Our investment policy is designed to preserve principal and liquidity of our short-term investments. This policy allows investments in large money market funds or in highly rated direct short-term instruments. We also place dollar limits on our investments in individual funds or instruments.
+The following table presents our primary uses and sources of cash:
+ 
+Cash Uses
+Cash Sources
+•  Operational needs, including salaries, rent, taxes, and other operating costs
+ 
+•   Inventory
+ 
+•   Capital expenditures
+ 
+•   Dividend payments
+ 
+•   Debt reduction
+ 
+•   Share repurchases
+•  Cash flow from operations
+ 
+•   Line of credit under our revolving credit facility
+ 
+•   Issuance of debt
+ 
+ 
+The following table includes cash balances and changes:
+ 
+(Dollars in Millions)
+2023
+2022
+2021
+Cash and cash equivalents
+$183
+$153
+$1,587
+Net cash provided by (used in):
+ 
+ 
+ 
+    Operating activities
+$1,168
+$282
+$2,271
+    Investing activities
+(562)
+(783)
+(570)
+    Financing activities
+(576)
+(933)
+(2,385)
+Adjusted free cash flow (a)
+$519
+$(639)
+$1,556
+(a)
+Non-GAAP financial measure. Please see the “GAAP to Non-GAAP Reconciliation” for a reconciliation of adjusted free cash flow to net cash provided by operating activities.
+Operating Activities
+Our operating cash outflows generally consist of payments to our employees for wages, salaries and other employee benefits, payments to our merchandise vendors for inventory (net of vendor allowances), payments to our shipping carriers, and payments to our landlords for rent. Operating cash outflows also include payments for income taxes and interest payments on our debt borrowings.
+Operating activities generated cash of $1.2 billion in 2023 compared to $282 million in 2022. Operating cash flow increased primarily due to higher net income and strong inventory management in 2023. Inventory management resulted in managing receipts, down 9% versus last year. We placed a lower percentage of our overall receipts in the early part of the buying cycle to allow for additional flexibility to chase receipts based on trending sales, establish a better flow of goods to our stores and maintain better in-stock positions, with the goal of minimizing the risk of future markdowns and out-of-stock positions.
+Investing Activities
+Our investing cash outflows include payments for capital expenditures, including investments in new and existing stores, improvements to supply chain, and technology costs. Our investing cash inflows are generally from proceeds from sales of property and equipment.
+Net cash used in investing activities decreased $221 million to $562 million in 2023. The decrease was primarily driven by fewer rollouts of Sephora shop build-outs and store refreshes undertaken in 2023, consistent with our capital expenditure plans for fiscal 2023.
+27
+Table of Contents
+ 
+The following chart summarizes capital expenditures by major category:
+ 
+ 
+In 2023, we opened 254 full size Sephora shops and 45 small format shops. We now have a Sephora presence in over 900 of our stores, including 860 full size 2,500 square foot Sephora shops and 50 small format Sephora shops. In 2024, we are planning to open approximately 140 small format Sephora shops, and plan on opening the remaining Sephora shops in 2025 which will bring a Sephora presence to the entire Kohl's chain. In 2024, we anticipate capital expenditures of approximately $500 million, including the expansion of Sephora shops, the launch of Babies "R" Us, and the expansion of queuing lines to 350 stores. We will continue to invest in enhancing our omnichannel capabilities.
+Financing Activities
+Our financing strategy is to ensure adequate liquidity and access to capital markets. We also strive to maintain a balanced portfolio of debt maturities, while minimizing our borrowing costs. Our ability to access the public debt market has provided us with adequate sources of liquidity. Our continued access to these markets depends on multiple factors, including the condition of debt capital markets, our operating performance, and maintaining strong credit ratings.
+During the first quarter of 2023, S&P downgraded our senior unsecured credit rating from BB+ to BB and Moody's downgraded our rating from Ba2 to Ba3 while both also revised their outlook to negative. While Fitch reaffirmed our credit rating, they also revised their outlook to negative.
+ 
+As of February 3, 2024, our credit ratings and outlook were as follows:
+ 
+ 
+Moody’s
+S&P
+Fitch
+Long-term debt
+Ba3
+BB
+BBB-
+Outlook
+Negative
+Negative
+Negative
+ 
+As a result of the downgrades, the interest rate on our 3.375% notes due May 2031 and 9.50% notes due May 2025 increased 50 basis points in May 2023 due to the coupon adjustment provisions within these notes. In 2022, our credit rating was also downgraded which resulted in the interest rates increasing 75 basis points, of which 25 basis points was effective in 2022 and the remaining 50 basis points became effective in May 2023. In total, the interest rate of both these notes have increased 125 basis points since their issuance. If our credit ratings are lowered further, our ability to access the public debt markets, our cost of funds, and other terms for new debt issuances could be adversely impacted. Each of the credit rating agencies reviews its rating periodically and there is no guarantee our current credit ratings will remain the same.
+28
+Table of Contents
+ 
+The majority of our financing activities generally include proceeds and/or repayments of long-term debt, dividend payments, and in 2022 and 2021 repurchases of common stock. Financing cash outflows also include payments to our landlords for leases classified as financing leases and financing obligations.
+Financing activities used $576 million in 2023 compared to $933 million in 2022. The decrease is driven by no treasury stock purchases occurring in 2023 partially offset by repayment of long-term borrowings.
+In January 2023, we entered into a Credit Agreement with various lenders which provides for a $1.5 billion senior secured, asset based revolving credit facility that will mature in January 2028 and replaced our existing senior unsecured revolving credit facility. The revolver is secured by substantially all of our assets other than real estate, and contains customary events of default and financial, affirmative, and negative covenants, including but not limited to, a springing financial covenant related to our fixed charge coverage ratio and restrictions on indebtedness, liens, investments, asset dispositions, and restricted payments. Outstanding borrowings under the credit facility bear interest at a variable rate based on SOFR plus the applicable margin. Borrowings under the revolving credit facility, recorded as short-term debt, had $92 million outstanding as of February 3, 2024, and had $85 million as of January 28, 2023.
+In February 2023, $164 million in aggregate principal amount of our 3.25% notes matured and were repaid, and in December 2023, $111 million in aggregate principal amount of our 4.75% notes matured and were repaid.
+There was no cash used for treasury stock purchases in 2023 compared to $658 million used in 2022. Share repurchases are discretionary in nature. The timing and amount of repurchases are based upon available cash balances, our stock price, and other factors. As previously noted, we are not planning any share repurchases until our balance sheet is strengthened on a path towards the long term target leverage ratio of 2.5 times adjusted EBITDAR (utilizing an eight times cash rent calculation for lease obligations).
+Cash dividend payments were $220 million ($2.00 per share) in 2023 and $239 million ($2.00 per share) in 2022.
+ 
+Adjusted Free Cash Flow
+We generated $519 million of adjusted free cash flow for 2023 compared to a negative adjusted free cash flow of $639 million in 2022. The increase is primarily driven by more cash provided by operating activities due to a higher net income and a reduction in inventory purchases of 9%, and a decrease in capital expenditures related to less Sephora shop build-outs and store refreshes in 2023.
+ 
+Adjusted free cash flow is a non-GAAP financial measure which we define as net cash provided by operating activities and proceeds from financing obligations (which generally represent landlord reimbursements of construction costs) less capital expenditures and finance lease and financing obligation payments. Adjusted free cash flow should be evaluated in addition to, and not considered a substitute for, other financial measures such as net income and net cash provided by operating activities. We believe that adjusted free cash flow represents our ability to generate additional cash flow from our business operations.
+29
+Table of Contents
+ 
+The following table reconciles net cash provided by operating activities (a GAAP measure) to adjusted free cash flow (a non-GAAP measure):
+ 
+(Dollars in Millions)
+2023
+2022
+2021
+Net cash provided by operating activities
+$1,168
+$282
+$2,271
+Acquisition of property and equipment
+(577)
+(826)
+(605)
+Free cash flow
+$591
+$(544)
+$1,666
+Finance lease and financing obligation payments
+$(93)
+$(106)
+$(125)
+Proceeds from financing obligations
+21
+11
+15
+Adjusted free cash flow
+$519
+$(639)
+$1,556
+ 
+Key Financial Ratios
+Key financial ratios that provide certain measures of our liquidity are as follows:
+ 
+(Dollars in Millions)
+2023
+2022
+Working capital
+$798
+$621
+Current ratio
+1.31
+1.20
+Our working capital and inventory levels typically build throughout the fall, peaking during the November and December holiday selling season.
+ 
+The increase in our working capital and current ratio are primarily due to a reduction in our short-term debt as we repaid $275 million in short-term notes that matured as well as a reduction in accounts payable offset by a decrease in inventory due to strong inventory management.
+Capital Structure Ratio
+The following table shows our capital structure ratio (non-GAAP financial measure):
+ 
+ 
+2023
+2022
+Adjusted debt to EBITDAR
+3.63
+4.92
+ 
+Adjusted debt to EBITDAR is a non-GAAP financial measure which we define as our adjusted outstanding debt balance divided by EBITDAR. The decrease in our adjusted debt to EBITDAR ratio is driven by higher operating income as well as repayment of long-term debt. We provide our adjusted debt to EBITDAR ratio to our ratings agencies and our current goal is to achieve a ratio of 2.5 which demonstrates our commitment to an investment grade rating and allows us to operate with an efficient capital structure for our size, growth plans, and industry. Adjusted debt to EBITDAR is a liquidity measure and not a measure of financial performance under GAAP and should be considered in addition to, and not as a substitute for debt or other GAAP financial measures of liquidity. Our adjusted debt to EBITDAR calculation may not be comparable to similarly-titled measures reported by other companies.
+30
+Table of Contents
+ 
+The following table includes our adjusted debt to EBITDAR calculation:
+ 
+(Dollars in Millions)
+2023
+2022
+Finance lease and financing obligations
+$2,763
+$2,880
+Borrowings under revolving credit facility
+92
+85
+Long-term debt
+1,638
+1,912
+Total debt
+$4,493
+$4,877
+Operating leases
+2,883
+2,689
+Total debt (including operating leases)
+$7,376
+$7,566
+Less: Operating lease, finance lease, and financing obligation liabilities (a)
+(5,646)
+(5,569)
+Add: Cash-based lease equivalent debt (a)
+4,584
+4,488
+Adjusted debt
+$6,314
+$6,485
+Net income (loss)
+$317
+$(19)
+Provision (benefit) for income taxes
+56
+(39)
+Interest expense, net
+344
+304
+Depreciation and amortization
+749
+808
+Rent expense
+271
+264
+EBITDAR (b)
+$1,737
+$1,318
+Adjusted debt to EBITDAR
+3.63
+4.92
+(a)
+Lease obligations presented under US GAAP are replaced with eight times cash rent for operating leases, finance leases, and financial obligations. A summary of cash rent can be found in Note 3 of the Consolidated Financial Statements. Management believes this normalizes for timing within the lease term and the impact of lease amendments triggered by our investment in the Sephora shops.
+(b)
+The EBITDAR component of the adjusted debt to EBITDAR ratio excludes costs (i.e., rent) that are essential to the operation of our leased stores.
+Debt Covenant Compliance
+Our senior secured, asset based revolving credit facility contains customary events of default and financial, affirmative and negative covenants, including but not limited to, a springing financial covenant relating to our fixed charge coverage ratio and restrictions on indebtedness, liens, investments, asset dispositions, and restricted payments. As of February 3, 2024, we were in compliance with all covenants.
+Contractual Obligations
+ 
+Material contractual obligations arising in the normal course of business primarily consist of long-term debt and related interest payments, principal and interest payments for leases, and other purchase obligations. See Notes 2 and 3 to the Consolidated Financial Statements for amounts outstanding on February 3, 2024 related to debt and leases.
+Other purchase obligations primarily include royalties, legally binding minimum lease and interest payments for stores opening in 2024 or later, as well as payments associated with technology, marketing, and donation agreements. The obligations were $540 million as of February 3, 2024.
+Off-Balance Sheet Arrangements
+We have not provided any financial guarantees as of year-end fiscal 2023.
+We have not created, and are not party to, any special-purpose or off-balance sheet entities for the purpose of raising capital, incurring debt, or operating our business. We do not have any arrangements or relationships with entities that are not consolidated into the financial statements that are reasonably likely to materially affect our financial condition, liquidity, results of operations, or capital resources.
+ 
+Critical Accounting Policies and Estimates
+The preparation of financial statements in conformity with accounting principles generally accepted in the United States requires us to make estimates and assumptions that affect reported amounts. Management has discussed the development, selection, and disclosure of these estimates and assumptions with the Audit Committee of our Board of Directors.
+ 
+31
+Table of Contents
+ 
+Retail Inventory Method and Inventory Valuation
+The majority of our merchandise inventories are valued at the lower of cost or market using the retail inventory method (“RIM”). Under RIM, the valuation of inventory at cost and the resulting gross margins are calculated by applying a cost-to-retail ratio to the retail value of inventory. RIM is an averaging method that has been widely used in the retail industry due to its practicality. The use of RIM will result in inventory being valued at the lower of cost or market since permanent markdowns are taken as a reduction of the retail value of inventories. A reserve is recorded if the future estimated selling price is less than cost.
+RIM inherently requires management judgment and estimates, such as the amount and timing of permanent markdowns to clear unproductive or slow-moving inventory, which may impact the ending inventory valuation as well as gross margin. Factors considered in the determination of permanent markdowns include current and anticipated demand, customer preferences, age of the merchandise, fashion trends, and weather conditions.
+Inventory shrinkage is estimated as a percent of sales for the period between the last physical inventory count and the balance sheet date. Shrink is the difference between the recorded amount of inventory and the physical inventory. We perform an annual physical inventory count at the majority of our stores, E-Commerce fulfillment centers, and distribution centers. The shrinkage rate from the most recent physical inventory, in combination with current events and historical experience, is used as the standard for the shrinkage accrual rate for the next inventory cycle. Historically, our actual physical inventory count results have shown our estimates to be reliable.
+Vendor Allowances
+We frequently receive allowances from our vendors for markdowns that we have taken in order to sell the vendors' merchandise and/or to support gross margins earned on those sales. This markdown support generally relates to sold inventory or permanent markdowns and, accordingly, is reflected as a reduction to cost of merchandise sold. Markdown support related to merchandise that has not yet been sold is recorded in inventory.
+We also receive support from vendors for marketing and other costs that we have incurred to sell the vendors’ merchandise. To the extent the reimbursements are for specific, incremental, and identifiable costs incurred to sell the vendor's products and do not exceed the costs incurred, they are recognized as a reduction of Selling, General, and Administrative Expenses. If these criteria are not met, the support is recorded in inventory and reflected as a reduction of costs of merchandise sold when the related merchandise is sold.
+Insurance Reserve Estimates
+We are primarily self-insured for costs related to workers’ compensation, general liability, and employee-related health care benefits. We use a third-party actuary to estimate the liabilities associated with these risks. The actuary considers historical claims experience, demographic and severity factors, health care trends, and actuarial assumptions to estimate the liabilities associated with these risks. Historically, our actuarial estimates have not been materially different from actual results.
+Impairment of Long-Lived Assets
+We review our long-lived assets for impairment when events or changes in circumstances, such as decisions to close a store or significant cash flow losses, indicate the carrying value of the asset may not be recoverable. All long-lived assets are reviewed for impairment at least annually.
+32
+Table of Contents
+ 
+If our evaluations, which are performed on an undiscounted cash flow basis, indicate that the carrying amount of the asset may not be recoverable, the potential impairment is measured as the excess of carrying value over the fair value of the impaired asset.
+Identifying impaired assets and quantifying the related impairment loss, if any, requires significant estimates by management. The most significant of these estimates is the cash flow expected to result from the use and eventual disposition of the asset. When determining the stream of projected future cash flows associated with an individual store, management estimates future store performance including sales, gross margin, and controllable expenses, such as store payroll and occupancy expense. Projected cash flows must be estimated for future periods throughout the remaining life of the property, which may be as many as 40 years in the future. The accuracy of these estimates will be impacted by a number of factors including general economic conditions, changes in competitive landscape, and our ability to effectively manage the operations of the store.
+Income Taxes
+We regularly evaluate the likelihood of realizing the benefit for income tax positions we have taken in various federal and state filings by considering all relevant facts, circumstances, and information available to us. If we believe it is more likely than not that our position will be sustained, we recognize a benefit at the largest amount which we believe is cumulatively greater than 50% likely to be realized.
+Unrecognized tax benefits require significant management judgment regarding applicable statutes and their related interpretation, the status of various income tax audits, and our particular facts and circumstances. Also, as audits are completed or statutes of limitations lapse, it may be necessary to record adjustments to our taxes payable, deferred tax assets, tax reserves, or income tax expense. Although we believe we have adequately reserved for our uncertain tax positions, no assurance can be given that the final tax outcome of these matters will not be different. Income taxes are further described in Note 5 of the Consolidated Financial Statements.
+Leases
+Accounting for leased properties requires compliance with technical accounting rules and significant judgment by management. Application of these accounting rules and assumptions made by management will determine if the lease is accounted for as a finance lease, an operating lease, or a financing obligation.
+The following are significant estimates used by management in accounting for real estate and other leases:
+•
+Accounting lease term
+—Our accounting lease term includes all noncancelable periods and renewal periods that are reasonably assured of being exercised. Typically, renewal options are considered reasonably assured of being exercised if we have made significant leasehold improvements that would exceed the initial or renewal lease term and the cash flow performance of the store remains strong. The expected lease term is used in determining whether the lease is accounted for as an operating lease or a finance lease. 
+•
+Incremental borrowing rate
+—The incremental borrowing rate is the rate of interest that the lessee would have to pay to borrow on a collateralized basis over a similar term an amount equal to the lease payments in a similar economic environment. The incremental borrowing rate is used in determining whether the lease is accounted for as an operating lease or a finance lease. 
+•
+Fair market value of leased asset
+—The fair market value of leased retail property is generally estimated based on comparable market data as provided by third-party appraisers or consideration received from the landlord. Fair market value is used in determining whether the lease is accounted for as an operating lease or a finance lease.
+Leases are further described in Note 3 of the Consolidated Financial Statements.
+33
+Table of Contents
+ 
+Sephora Arrangement
+In 2020, we entered into an arrangement with Sephora to be the exclusive beauty offering at Kohl's and bring a transformational, elevated beauty experience to Kohl’s. We sell prestige beauty products through Sephora-branded retail shops in certain Kohl’s stores and through a Sephora-branded offering on Kohls.com. We have opened 860 full size 2,500 square foot Sephora shops and 50 small format Sephora shops to date, and are planning to have a presence in all Kohl's stores by 2025.
+ 
+Both parties to the arrangement are active participants and are exposed to significant risks and rewards dependent on the success of the activities of the arrangement. The arrangement involves various activities including the merchandising, marketing, and operations of the shops and Kohls.com. Kohl’s is the principal on sales transactions with our customers and we recognize sales, cost of merchandise sold, and operating expenses in the respective lines on our consolidated statements of operations. Kohl’s owns and manages the inventory and funds capital expenditures for the arrangement. The parties share equally in the operating profit of the arrangement which incorporates all expenses to run the arrangement including depreciation expense related to the assets. Amounts due to Sephora for their share of the operating profits are recorded in cost of merchandise sold.

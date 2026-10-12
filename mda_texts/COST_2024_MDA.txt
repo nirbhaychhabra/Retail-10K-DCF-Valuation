@@ -1,0 +1,393 @@
+Item 7—Management's Discussion and Analysis of Financial Conditions and Results of Operations 
+(amounts in millions, except per share, share, membership fee, and warehouse count data)
+Management's Discussion and Analysis of Financial Condition and Results of Operations (MD&A) is intended to promote understanding of the results of operations and financial condition. MD&A is provided as a supplement to, and should be read in conjunction with, our consolidated financial statements and the accompanying Notes to Financial Statements (Part II, 
+Item 8
+ of this Form 10-K). This section generally discusses the results of operations for 2024 compared to 2023. For discussion related to the results of operations and changes in financial condition for 2023 compared to 2022 refer to Part II, Item 7, Management's Discussion and Analysis of Financial Condition and Results of Operations in our fiscal year 2023 Form 10-K, which was filed with the United States Securities and Exchange Commission (SEC) on October 11, 2023.
+Overview
+We believe that the most important driver of our profitability is increasing net sales, particularly comparable sales. Net sales includes our core merchandise categories (foods and sundries, non-foods, and fresh foods), warehouse ancillary (gasoline, pharmacy, optical, food court, hearing aids, and tire installation) and other businesses (e-commerce, business centers, travel and other). E-commerce and business center sales are allocated to the appropriate merchandise categories in the Net Sales discussion. Comparable sales is defined as net sales from warehouses open for more than one year, including remodels, relocations and expansions, and sales related to e-commerce sites operating for more than one year. The measure is intended as supplemental information and is not a substitute for net sales presented in accordance with U.S. generally accepted accounting principles (U.S. GAAP) and should be reviewed in conjunction with results reported in accordance with U.S. GAAP. Comparable sales growth is achieved through increasing shopping frequency from new and existing members and the amount they spend on each visit (average ticket). Sales comparisons can also be particularly influenced by certain factors that are beyond our control: fluctuations in currency exchange rates (with respect to our international operations) and inflation or deflation in the cost of gasoline and associated competitive conditions. The higher our comparable sales exclusive of these items, the more we can leverage our SG&A expenses, reducing them as a percentage of sales and enhancing profitability. Generating comparable sales growth is foremost a question of making available the right merchandise at the right prices, a skill that we believe we have repeatedly demonstrated over the long-term. Another substantial factor in net sales growth is the health of the economies in which we do business, including the effects of inflation or deflation, especially the United States. Net sales growth and gross margins are also impacted by our competition, which is vigorous and widespread, across a wide range of global, national and regional wholesalers and retailers, including those with e-commerce operations. While we cannot control or reliably predict general economic health or changes in competition, we believe that we have been successful historically in adapting our business to these changes, such as through adjustments to our pricing and merchandise mix, including increasing the penetration of our private-label items, and through online offerings.
+Our philosophy is to provide our members with quality goods and services at competitive prices. We do not focus in the short-term on maximizing prices charged, but instead seek to maintain what we believe is a perception among our members of our “pricing authority” – consistently providing the most competitive values. Our net sales and gross margin are influenced in part by our merchandising and pricing strategies in response to cost increases. Those strategies can include, but are not limited to, working with our suppliers to share in absorbing cost increases, earlier-than-usual purchasing and in greater volumes, as well as passing cost increases on to our members. Our investments in merchandise pricing may include reducing prices on merchandise to drive sales or meet competition and holding prices steady despite cost increases instead of passing the increases on to our members, negatively impacting gross margin and gross margin as a percentage of net sales (gross margin percentage) in the near term. 
+22
+Table of Contents
+We believe our gasoline business enhances traffic in our warehouses; it generally has a lower gross margin percentage and lower SG&A expense relative to our non-gasoline businesses. A higher penetration of gasoline sales will generally lower our gross margin percentage. Generally, rising gasoline prices benefit net sales growth which, given the higher sales base, negatively impacts our gross margin percentage but decreases our SG&A expenses as a percentage of net sales. A decline in gasoline prices has the inverse effect.
+Government actions in various countries relating to tariffs, particularly China and the United States, have affected the costs of some of our merchandise. The degree of our exposure is dependent on (among other things) the type of goods, rates imposed, and timing of the tariffs. Higher tariffs could adversely impact our results.
+We also achieve net sales growth by opening new warehouses. As our warehouse base grows, available and desirable sites become more difficult to secure, and square footage growth becomes a comparatively less substantial component of growth. Negative aspects of such growth include lower initial operating profitability relative to existing warehouses and cannibalization of sales at existing warehouses when openings occur in existing markets. Our rate of square footage growth is generally higher in foreign markets, due to the smaller base in those markets, and we expect that to continue. Our e-commerce business, domestically and internationally, has a lower gross-margin percentage than our warehouse operations.
+The membership format is an integral part of our business and profitability. This format is designed to reinforce member loyalty and provide continuing fee revenue. The extent to which we achieve growth in our membership base, increase the penetration of Executive memberships, and sustain high renewal rates materially influences our profitability. Our paid-membership growth rate may be adversely impacted when warehouse openings occur in existing markets as compared to new markets. Our worldwide renewal rate may be adversely impacted by lower renewal rates in newer markets.
+Our financial performance depends heavily on controlling costs. While we believe that we have achieved successes in this area, some significant costs are partially outside our control, particularly health care and utility expenses. With respect to the compensation of our employees, our philosophy is not to seek to minimize their wages and benefits. Rather, we believe that achieving our longer-term objectives of reducing employee turnover, increasing productivity and enhancing employee satisfaction requires maintaining compensation levels that are better than the industry average for much of our workforce. This may cause us, for example, to absorb costs that other employers might seek to pass through to their workforces. Because our business operates on very low margins, modest changes in various items in the consolidated statements of income, particularly merchandise costs and SG&A expenses, can have substantial impacts on net income.
+Our operating model is generally the same across our U.S., Canadian, and Other International operating segments (see 
+Note 11
+ to the consolidated financial statements included in 
+Item 8
+ of this Report). Certain operations in the Other International segment have relatively higher rates of square footage growth, lower wage and benefit costs as a percentage of sales, less or no direct membership warehouse competition, or lack e-commerce or business delivery.
+In discussions of our consolidated operating results, we refer to the impact of changes in foreign currencies relative to the U.S. dollar, which are differences between the foreign exchange rates we use to convert the financial results of our international operations from local currencies into U.S. dollars. This impact is calculated based on the difference between the current and prior period's exchange rates. The impact of changes in gasoline prices on net sales is calculated based on the difference between the current and prior period's average price per gallon sold. Results expressed excluding the impacts of foreign exchange and gasoline prices are intended as supplemental information and are not a substitute for net sales presented in accordance with U.S. GAAP and should be reviewed in conjunction with results reported in accordance with U.S. GAAP.
+23
+Table of Contents
+Our fiscal year ends on the Sunday closest to August 31. References to 2024 and 2022 relate to the 52-week fiscal years ended September 1, 2024 and August 28, 2022. References to 2023 relate to the 53-week fiscal year ended September 3, 2023. Certain percentages presented are calculated using actual results prior to rounding.
+Highlights for 2024 include:
+•
+We opened 30 new warehouses, including one relocation: 23 net new in the U.S., one new in our Canadian segment, and five new in our Other International segment, compared to 26 new warehouses, including three relocations, in 2023;
+•
+Net sales increased 5% to $249,625, driven by an increase in comparable sales and sales at new warehouses opened in 2023 and 2024, partially offset by one less week of sales in 2024;
+•
+Membership fee revenue increased 5% to $4,828, driven by new member sign-ups and upgrades to Executive membership, partially offset by one less week of membership fee income in 2024;
+•
+Gross margin percentage increased 35 basis points, driven primarily by warehouse ancillary and other businesses, largely e-commerce and gasoline, and the absence of charges related to the discontinuation of our charter shipping activities recorded in 2023;
+•
+SG&A expenses as a percentage of net sales increased six basis points, primarily due to warehouse operations and other businesses, which included the impact of wage increases in March and September 2023 and July 2024, partially offset by sales leverage and improved productivity;
+•
+The effective tax rate in 2024 was 24.4%, compared to 25.9% in 2023;
+•
+Net income increased 17% to $7,367, or $16.56 per diluted share compared to $6,292, or $14.16 per diluted share in 2023;
+•
+We paid a special cash dividend of $15 per share in January 2024; and
+•
+In April, the Board of Directors approved a 14% increase in the quarterly cash dividend.
+24
+Table of Contents
+RESULTS OF OPERATIONS
+Net Sales
+2024
+2023
+2022
+Net Sales
+$
+249,625
+$
+237,710
+$
+222,730
+Changes in net sales:
+U.S.
+4 
+%
+7 
+%
+17 
+%
+Canada
+6 
+%
+4 
+%
+16 
+%
+Other International
+9 
+%
+9 
+%
+10 
+%
+Total Company
+5 
+%
+7 
+%
+16 
+%
+Changes in comparable sales
+(1)
+:
+U.S.
+4 
+%
+3 
+%
+16 
+%
+Canada
+7 
+%
+2 
+%
+15 
+%
+Other International
+8 
+%
+3 
+%
+7 
+%
+Total Company
+5 
+%
+3 
+%
+14 
+%
+E-commerce
+16 
+%
+(6)
+%
+10 
+%
+Changes in comparable sales excluding the impact of changes in foreign-currency and gasoline prices
+(1)
+:
+U.S.
+5 
+%
+4 
+%
+10 
+%
+Canada
+8 
+%
+8 
+%
+12 
+%
+Other International
+8 
+%
+8 
+%
+10 
+%
+Total Company
+6 
+%
+5 
+%
+11 
+%
+E-commerce
+16 
+%
+(5)
+%
+10 
+%
+_______________
+(1)
+Comparable sales for 2024 were calculated using comparable retail weeks.
+Net Sales
+Net sales increased $11,915 or 5% during 2024. The improvement was attributable to an increase in comparable sales and sales at new warehouses opened in 2023 and 2024, partially offset by the impact of one less week of sales in 2024. Sales increased $10,639, or 6% in core merchandise categories, increasing in all categories. Sales increased $1,276, or 3% in warehouse ancillary and other businesses, led by pharmacy, partially offset by a decrease in gasoline.
+During 2024, the volume of gasoline sold increased approximately 1%, positively impacting net sales by $400, or 17 basis points, which includes the impact of one less week of sales in 2024. Lower gasoline prices negatively impacted net sales by $917, or 39 basis points, compared to 2023, with a 3% decrease in the average price per gallon. Changes in foreign currencies relative to the U.S. dollar negatively impacted net sales by approximately $474, 20 basis points, compared to 2023, attributable to our Canadian and Other International operations. 
+Comparable Sales
+Comparable sales increased 5% during 2024 and were positively impacted by an increase in shopping frequency, partially offset by a slight decrease in average ticket.
+25
+Table of Contents
+Membership Fees
+2024
+2023
+2022
+Membership fees
+$
+4,828
+$
+4,580
+$
+4,224
+Membership fees increase
+5 
+%
+8 
+%
+9 
+%
+Membership fee revenue increased 5% in 2024, driven by new member sign-ups and upgrades to Executive Membership. These increases were partially offset by one less week of membership fee income in 2024. At the end of 2024, our member renewal rates were 92.9% in the U.S. and Canada and 90.5% worldwide. Renewal rates benefited from higher penetration of Executive members. Our renewal rate, which excludes affiliates of Business members, is a trailing calculation that captures renewals during the period seven to eighteen months prior to the reporting date. 
+Effective September 1, 2024, we increased our membership fees in the U.S. and Canada for Gold Star (individual), Business, and Business affiliates to $65 per year. The Executive membership fee increased from $120 to $130 (membership fee of $65, plus Executive upgrade of $65), and the maximum annual 2% reward associated with the Executive Membership increased from $1,000 to $1,250. We account for membership fee revenue on a deferred basis, recognized ratably over one year. We expect these fee changes to increase revenues approximately $370 over the next two years, $190 of which will benefit fiscal 2025, primarily in the latter half of the year.
+Gross Margin
+2024
+2023
+2022
+Net sales
+$
+249,625
+$
+237,710
+$
+222,730
+Less merchandise costs
+222,358
+212,586
+199,382
+Gross margin
+$
+27,267
+$
+25,124
+$
+23,348
+Gross margin percentage
+10.92 
+%
+10.57 
+%
+10.48 
+%
+Gross margin percentage increased 35 basis points. Excluding the impact of gasoline price deflation on net sales, gross margin percentage was 10.88%, an increase of 31 basis points. This increase was positively impacted by: 19 basis points due to warehouse ancillary and other businesses, primarily e-commerce and gasoline; 16 basis points due to the absence of charges related to the discontinuation of our charter shipping activities that were recorded in the first and third quarters of 2023; and three basis points due to a LIFO benefit. This increase was partially offset by four basis points in our core merchandise categories and three basis points due to increased 2% rewards. 
+The gross margin in core merchandise categories, when expressed as a percentage of core merchandise sales (rather than total net sales), increased 11 basis points. The increase was primarily due to non-foods, partially offset by fresh foods and foods and sundries. This measure eliminates the impact of changes in sales penetration and gross margins from our warehouse ancillary and other businesses.
+Gross margin on a segment basis, when expressed as a percentage of the segment's own sales and excluding the impact of changes in gasoline prices on net sales (segment gross margin percentage), 
+increased in our U.S. and Canadian segments. Our U.S. segment performed similarly to the consolidated results above. Our Canadian segment gross margin percentage increased, primarily due to increases in core merchandise categories and warehouse ancillary and other businesses, partially offset by increased 2% rewards. Gross margin percentage decreased in our Other International segment, primarily due to increased 2% rewards and a decrease in core merchandise categories.
+26
+Table of Contents
+Selling, General and Administrative Expenses
+2024
+2023
+2022
+SG&A expenses
+$
+22,810
+$
+21,590
+$
+19,779
+SG&A expenses as a percentage of net sales
+9.14 
+%
+9.08 
+%
+8.88 
+%
+SG&A expenses as a percentage of net sales increased six basis points compared to 2023. SG&A expenses as a percentage of net sales excluding the impact of gasoline price deflation was 9.10%, an increase of two basis points. The comparison to last year was negatively impacted by two basis points in warehouse operations and other businesses, driven by our U.S. operations, which included the impact of wage increases in March and September 2023, and July 2024, partially offset by sales leverage and improved productivity. SG&A expenses as percentage of net sales were lower in our Canadian and Other International operations.
+Interest Expense
+2024
+2023
+2022
+Interest expense
+$
+169 
+$
+160 
+$
+158 
+Interest expense is primarily related to Senior Notes and financing leases. For more information on our debt arrangements, refer to the consolidated financial statements included in 
+Item 8
+ of this Report.
+Interest Income and Other, Net
+2024
+2023
+2022
+Interest income
+$
+533 
+$
+470 
+$
+61 
+Foreign-currency transaction gains, net
+26 
+29 
+106 
+Other, net
+65 
+34 
+38 
+Interest income and other, net
+$
+624 
+$
+533 
+$
+205 
+The increase in interest income in 2024 was due to higher global interest rates. Foreign-currency transaction gains, net, include revaluation or settlement of monetary assets and liabilities by our Canadian and Other International operations and mark-to-market adjustments for forward foreign-exchange contracts. See Derivatives and Foreign Currency sections in 
+Note 1
+ to the consolidated financial statements included in 
+Item 8
+ of this Report.
+Provision for Income Taxes
+2024
+2023
+2022
+Provision for income taxes
+$
+2,373 
+$
+2,195 
+$
+1,925 
+Effective tax rate
+24.4 
+%
+25.9 
+%
+24.6 
+%
+The effective tax rate for 2024 was favorably impacted by discrete tax benefits of $94 related to the portion of the special dividend payable through our 401(k) plan, a net non-recurring tax benefit of $63 related to a transfer pricing settlement and certain true-ups of tax reserves, and $45 of excess tax benefits related to stock compensation.
+The effective tax rate for 2023 was favorably impacted by discrete tax benefits of $54 due to excess tax benefits related to stock compensation.
+The Organization of Economic Cooperation and Development (OECD) has introduced a framework to implement a global minimum corporate tax of 15% (referred to as Pillar 2) which is effective for fiscal 2025. We will continue to evaluate the impacts of Pillar 2, but do not currently expect a material impact on our consolidated financial statements.
+27
+Table of Contents
+LIQUIDITY AND CAPITAL RESOURCES
+The following table summarizes our significant sources and uses of cash and cash equivalents:
+2024
+2023
+2022
+Net cash provided by operating activities
+$
+11,339 
+$
+11,068 
+$
+7,392 
+Net cash used in investing activities
+(4,409)
+(4,972)
+(3,915)
+Net cash used in financing activities
+(10,764)
+(2,614)
+(4,283)
+Our primary sources of liquidity are cash flows from operations, cash and cash equivalents, and short-term investments. Cash and cash equivalents and short-term investments were $11,144 and $15,234 at September 1, 2024, and September 3, 2023. Of these balances, unsettled credit and debit card receivables represented approximately $2,519 and $2,282. These receivables generally settle within four days. Changes in foreign exchange rates impacted cash and cash equivalents positively by $40 and $15 in 2024 and 2023, and negatively by $249 in 2022.
+Material contractual obligations arising in the normal course of business primarily consist of purchase obligations, long-term debt and related interest payments, leases, and construction and land purchase obligations. See 
+Notes 4
+ and 
+5
+ to the consolidated financial statements included in 
+Item 8
+ of this Report for amounts outstanding on September 1, 2024, related to debt and leases.
+Purchase obligations consist of contracts primarily related to merchandise, equipment, and third-party services, the majority of which are due in the next 12 months. Construction and land-purchase obligations consist of contracts primarily related to the development and opening of new and relocated warehouses, the majority of which (other than leases) are due in the next 12 months.
+We believe that our cash and investment position and operating cash flow, with capacity under existing and available credit agreements, will be sufficient to meet our liquidity and capital requirements for the foreseeable future and our U.S. current and projected asset position is sufficient to meet our U.S. liquidity requirements.
+Cash Flows from Operating Activities
+Net cash provided by operating activities totaled $11,339 in 2024, compared to $11,068 in 2023. Our cash flow provided by operations is primarily from net sales and membership fees. Cash flow used in operations generally consists of payments to merchandise suppliers, warehouse operating costs, including wages and employee benefits, utilities, credit and debit card processing fees, and operating leases. Cash used in operations also includes payments for income taxes. Changes in our net investment in merchandise inventories (the difference between merchandise inventories and accounts payable) is impacted by several factors, including inventory levels and turnover, payment terms with suppliers, and early payments to obtain discounts.
+Cash Flows from Investing Activities
+Net cash used in investing activities totaled $4,409 in 2024, compared to $4,972 in 2023, and is primarily related to capital expenditures. 
+Net cash from investing activities also includes purchases and maturities of short-term investments.
+Capital Expenditure Plans
+Our primary requirements for capital are acquiring land, buildings, and equipment for new and remodeled warehouses, information systems and manufacturing and distribution facilities. 
+In 2024, we spent $4,710 on capital expenditures, and it is our current intention to spend a similar amount
+ du
+ring fiscal 
+2025
+. 
+These expenditures are expected to be financed with cash from operations, cash and cash equivalents, and short-term investments.
+ 
+We 
+opened 
+30
+ new warehous
+es, including one relocation, in 2024, and plan to 
+28
+Table of Contents
+open up to 29 additional new warehouses, including three relocations, in 2025. There can be no assurance that current expectations will be realized, and plans are subject to change upon further review of our capital expenditure needs and the economic environment.
+Cash Flows from Financing Activities
+Net cash used in financing activities totaled $10,764 in 2024, compared to $2,614 in 2023. Cash flow used in financing activities primarily related to the payment of dividends, repayments of long-term debt and short-term borrowings, repurchases of common stock, and withholding taxes on stock-based awards. On May 18, 2024, we paid the $1,000 outstanding principal balance on the 2.750% Senior Notes, using cash and cash equivalents and short-term investments. Cash flow provided by financing activities included proceeds from short-term borrowings and four Guaranteed Senior Notes totaling approximately $500, at fixed interest rates ranging from 1.400% to 2.120%, issued by our Japan subsidiary.
+Dividends
+Cash dividends declared in 2024 totaled $8,589 or $19.36 per share, as compared to $1,703 or $3.84 per share in 2023. Dividends in 2024 included a special dividend of $15 per share, resulting in a payment of approximately $6,655. In April 2024, the Board of Directors increased our quarterly cash dividend from $1.02 to $1.16 per share. 
+Share Repurchase Program
+On January 19, 2023, the Board of Directors authorized a share repurchase program in the amount of $4,000, which expires in January 2027. During 2024 and 2023, we repurchased 1,004,000 and 1,341,000 shares of common stock, at an average price per share of $695.29 and $504.68, totaling approximately $698 and $677. These amounts may differ from the accompanying consolidated statements of cash flows due to changes in unsettled repurchases at the end of each fiscal year. Purchases are made from time to time, as conditions warrant, in the open market or in block purchases, pursuant to plans under SEC Rule 10b5-1. Repurchased shares are retired, in accordance with the Washington Business Corporation Act. The remaining amount available to be purchased under our approved plan was $2,865 at the end of 2024.
+Bank Credit Facilities and Commercial Paper Programs
+We maintain bank credit facilities for working capital and general corporate purposes. At September 1, 2024, we had borrowing capacity under these facilities of $1,198. Our international operations maintain $710 of this capacity under bank credit facilities, of which $167 is guaranteed by the Company. Short-term borrowings outstanding under the bank credit facilities, which are included in other current liabilities on the consolidated balance sheets, were immaterial at the end of 2024 and 2023.
+We have letter of credit facilities, for commercial and standby letters of credit, totaling $214. The outstanding commitments under these facilities at the end of 2024 totaled $193, most of which were standby letters of credit that do not expire or have expiration dates within one year. The bank credit facilities have various expiration dates, most within one year, and we generally intend to renew these facilities. The amount of borrowings available at any time under our bank credit facilities is reduced by the amount of standby and commercial letters of credit outstanding.
+Off-Balance Sheet Arrangements
+In the opinion of management, we have no off-balance sheet arrangements that have had or are reasonably likely to have a material current or future effect on our financial condition or financial statements.
+29
+Table of Contents
+Critical Accounting Estimates
+The preparation of our consolidated financial statements in accordance with U.S. GAAP requires that we make estimates and assumptions that affect the reported amounts of assets and liabilities and the disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses during the reporting period. We base our estimates on historical experience and on assumptions that we believe to be reasonable, and we continue to review and evaluate these estimates. For further information on significant accounting policies, see discussion in 
+Note 1
+ to the consolidated financial statements included in 
+Item 8
+ of this Report.
+Insurance/Self-insurance Liabilities
+Claims for employee health-care benefits, workers’ compensation, general liability, property damage, directors’ and officers’ liability, vehicle liability, inventory loss, and other exposures are funded predominantly through self-insurance. Insurance coverage is maintained for certain risks to limit exposures to very large losses. We use various risk management mechanisms, including a wholly-owned captive insurance subsidiary, and participate in a reinsurance program. Liabilities associated with the risks that we retain are not discounted and are estimated using historical claims experience, demographic factors, severity factors, and other actuarial assumptions. The costs of claims are highly unpredictable and can fluctuate as a result of inflation rates, regulatory or legal changes, and unforeseen developments in claims. While we believe our estimates are reasonable, actual claims and costs could differ significantly from recorded liabilities. Historically, adjustments to our estimates have been immaterial.
+Recent Accounting Pronouncements
+See discussion of Recent Accounting Pronouncements in 
+Note 1
+ to the consolidated financial statements included in 
+Item 8
+ of this Report.

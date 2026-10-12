@@ -1,0 +1,510 @@
+Item 7. Management’s Discussion and An
+alysis of Financial Condition and Results of Operations
+Executive Summary
+Kohl's is a leading omnichannel retailer operating 1,153 stores and a website (www.Kohls.com) as of January 31, 2026. Our Kohl's stores and website sell moderately-priced proprietary and national brand apparel, footwear, accessories, beauty, and home products. Our Kohl's stores generally carry a consistent merchandise assortment with some differences attributable to local preferences and store size. Our website includes merchandise which is available in our stores, as well as merchandise that is available only online.
+Key financial results for 2025 as compared to 2024 include:
+•
+Net sales decreased 4.0%, to $14.8 billion, with comparable sales down 3.1%.
+•
+Gross margin as a percent of net sales was 37.5%, an increase of 34 basis points.
+•
+Selling, general & administration ("SG&A") expenses decreased 4.1% year-over-year, to $5.1 billion. As a percentage of total revenue, SG&A expenses were 32.8%, an increase of 5 basis points year-over-year.
+•
+Gain on legal settlement was $129 million from a credit card interchange fee lawsuit settlement.
+•
+Operating income was $624 million compared to $433 million in the prior year. As a percentage of total revenue, operating income was 4.0%, an increase of 135 basis points year-over-year. 
+•
+On an adjusted non-GAAP basis, our adjusted operating income was $510 million compared to $509 million in the prior year.
+(a)
+ As a percentage of total revenue, adjusted operating income was 3.3% compared to 3.1% in the prior year.
+(a)
+•
+Net income was $272 million, or $2.38 per diluted share. This compares to net income of $109 million, or $0.98 per diluted share in the prior year.
+•
+On an adjusted non-GAAP basis, our adjusted net income was $186 million, or $1.62 per adjusted diluted share.
+(a) 
+This compares to adjusted non-GAAP net income of $167 million, or $1.50 per adjusted diluted share in the prior year.
+(a)
+•
+Cash flow provided by operating activities was $1.4 billion compared to $648 million in the prior year. 
+•
+Current portion of long-term debt was reduced by $353 million through repayment of the 4.25% notes due July 2025 at maturity.
+•
+There were no outstanding borrowings under the revolving credit facility compared to $290 million in the prior year.
+•
+Long term debt increased $262 million through issuance of $360 million of 10.000% senior secured notes due 2030, partially offset by open market repurchases of $87 million of our outstanding long term debt.
+ 
+(a)
+Non-GAAP financial measures. Please see the “GAAP to Non-GAAP Reconciliation” for a reconciliation of adjusted operating income to operating income, adjusted net income to net income, and adjusted diluted earnings per share to diluted earnings per share.
+Our Strategy
+Kohl's remains committed to driving long-term shareholder value by providing our customers with great product, great value, and a great experience. To achieve this, we will offer a curated, more balanced assortment that fulfills needs across all customers, reestablish Kohl’s as a leader in value and quality, and deliver a frictionless experience to customers across our omnichannel platforms.
+25
+Table of Contents
+ 
+Financial and Capital Outlook
+For fiscal year 2026, the Company currently expects the following:
+•
+Net sales and Comparable sales: A decrease of (2%) to flat
+•
+Adjusted operating margin: In the range of 2.8% to 3.4% 
+(b)
+•
+Adjusted diluted EPS: In the range of $1.00 to $1.60 
+(b)
+•
+Capital Expenditures: Approximately $350 million to $400 million
+•
+Dividend: On February 25, 2026, Kohl’s Board of Directors declared a quarterly cash dividend on the Company’s common stock of $0.125 per share. The dividend is payable April 1, 2026 to shareholders of record at the close of business on March 18, 2026.
+ 
+(b)
+Non-GAAP financial measures. The Company provides adjusted operating margin and adjusted diluted earnings per share on a non-GAAP basis and does not provide a reconciliation of the Company’s forward looking guidance to the most directly comparable GAAP financial measures because of the inherent difficulty in forecasting and quantifying certain amounts that are necessary for such reconciliations.
+Results of Operations
+For our comparison and discussion of 2024 and 2023, see Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations in Part II of our
+ 
+2024 Form 10-K
+.
+Net Sales
+Net sales includes revenue from the sale of merchandise, net of expected returns and deferrals due to future performance obligations, and shipping revenue.
+Comparable sales is a measure that highlights the performance of our stores and digital channel by measuring the change in sales for a period over the comparable, prior-year period of equivalent length. Comparable sales includes all store and digital sales, except sales from stores open less than 12 months, stores that have been closed, and stores that have been relocated where square footage has changed by more than 10%.
+The following graph summarizes net sales dollars and the change in comparable sales over the prior year.
+ 
+Digital sales were approximately flat in 2025 year-over-year. Digital penetration represented 29% of net sales in 2025 and 28% of net sales in 2024.
+ 
+We measure the change in digital sales by including all sales initiated online or through mobile applications, including omnichannel transactions which are fulfilled through our stores. We measure digital penetration as digital sales over net sales. These amounts do not take into consideration fulfillment node, digital returns processed in stores, and coupon behaviors.
+ 
+Comparable sales and digital penetration measures vary across the retail industry. As a result, our comparable sales calculation and digital penetration may not be consistent with the similarly titled measures reported by other companies.
+26
+Table of Contents
+ 
+ 
+2025 compared to 2024
+Net sales decreased $610 million, or (4.0%), to $14.8 billion for 2025.
+ 
+•
+The decrease was driven by an approximately 4% decrease in transaction volume. 
+•
+Sales decreased across all lines of business, except for Accessories, which increased approximately 2% during 2025. 
+(Dollars in Millions)
+2025
+2024
+Change
+Women's
+$3,601
+$3,817
+(5.7%)
+Accessories (including Sephora)
+3,122
+3,060
+2.0%
+Men's
+2,930
+3,079
+(4.8%)
+Home
+2,212
+2,311
+(4.3%)
+Children's
+1,700
+1,819
+(6.5%)
+Footwear
+1,210
+1,299
+(6.9%)
+Net Sales
+$14,775
+$15,385
+(4.0%)
+Other Revenue
+Other revenue includes revenue from credit card operations, third-party advertising on our website, unused gift cards and merchandise return cards (breakage), and other non-merchandise revenue.
+The following graph summarizes other revenue:
+Other revenue decreased $84 million in 2025 due to lower credit revenue, which was driven by certain credit card expenses shifting against other revenue from SG&A as we moved part of our account servicing to the third party that owns the accounts and lower sales to our Kohl's credit card customer.
+Cost of Merchandise Sold and Gross Margin
+Cost of merchandise sold includes the total cost of products sold, including product development costs, net of vendor payments other than reimbursement of specific, incremental, and identifiable costs; inventory shrink; markdowns; freight expenses associated with moving merchandise from our vendors to our distribution centers; shipping expenses for digital sales; and terms cash discount. Our cost of merchandise sold may not be comparable with that of other retailers because we include distribution center and buying costs in selling, general, and administrative expenses while other retailers may include these expenses in cost of merchandise sold.
+27
+Table of Contents
+ 
+The following graph summarizes cost of merchandise sold and gross margin as a percent of net sales:
+Gross margin is calculated as net sales less cost of merchandise sold. Gross margin in 2025 was 37.5% of net sales, an increase of 34 basis points to last year.
+ 
+The increase was driven by strong inventory management, merchandise mix, and moderating shrink levels. Strong inventory management was driven by fewer clearance markdowns, as our inventory decreased 7% to last year, and receipts for the year were down 8%.
+ 
+Selling, General, and Administrative Expenses
+SG&A includes compensation and benefit costs (including stores, corporate, buying, and distribution centers); occupancy and operating costs of our retail, distribution, and corporate facilities; freight expenses associated with moving merchandise from our distribution centers to our retail stores and among distribution and retail facilities other than expenses to fulfill digital sales; marketing expenses, offset by vendor payments for reimbursement of specific, incremental, and identifiable costs; expenses related to our credit card operations; and other administrative revenues and expenses. We do not include depreciation and amortization in SG&A. The classification of these expenses varies across the retail industry.
+Many of our expenses, including store payroll and distribution costs, are variable in nature. These costs generally increase as sales increase, and decrease as sales decrease. We measure our expenses as a percentage of revenue and changes in this percentage compared to the prior year. If the expense as a percent of revenue decreased from the prior year, the expense "leveraged". If the expense as a percent of revenue increased over the prior year, the expense "deleveraged".
+The following graph summarizes the changes in SG&A by expense type between 2024 and 2025:
+ 
+28
+Table of Contents
+ 
+SG&A decreased $219 million, or 4.1%, to $5.1 billion in 2025. As a percentage of revenue, SG&A deleveraged by 5 basis points.
+The decrease in SG&A expenses was driven by lower store payroll, marketing, and distribution costs,
+ 
+as well as a shift of certain corporate credit card expenses to other revenue due to moving part of our account servicing to the third party that owns the accounts, partially offset by an increase in other corporate expenses.
+ 
+Without the shift of certain corporate credit expenses, SG&A expenses would have decreased 2.8% to last year in 2025.
+ 
+Other Expenses
+ 
+(Dollars in Millions)
+2025
+2024
+2023
+Depreciation and amortization
+$700
+$743
+$749
+Impairments, store closing, and other costs
+15
+76
+—
+(Gain) on legal settlement
+(129)
+—
+—
+Interest expense, net
+288
+319
+344
+ 
+The decrease in depreciation and amortization in 2025 was primarily driven by lower capital spend and closed locations.
+In 2025, we recognized $15 million in Impairments, store closing, and other costs. Included in this amount was $11 million of non-cash charges related to asset impairments, $10 million of severance, and $6 million of other costs primarily related to the closure of our Monroe, Ohio E-commerce Fulfillment Center. We also reversed $12 million of other exit costs initially recognized in the fourth quarter of 2024, related to the closure of our San Bernardino, California E-commerce Fulfillment Center and 27 underperforming stores due to favorable landlord negotiations.
+In 2024, we recognized $76 million in Impairments, store closing, and other costs related to the closure of our San Bernardino E-commerce Fulfillment Center and 27 underperforming stores. Included in this amount was $43 million of fixed asset impairments, $11 million of lease Right of Use (“ROU”) asset impairments, $14 million of severance, and $26 million in other costs relating to the closure of these locations. The $26 million in other costs includes $32 million of costs offset by $6 million in cash proceeds related to lease termination agreements. Offsetting these costs were $18 million in non-cash lease gains, where upon the remeasurement, the reduction recorded to the lease liability was greater than the remaining value of the related ROU asset.
+ 
+(Dollars in Millions)
+2025
+2024
+2023
+Severance and other exit costs
+$16
+$40
+$—
+Other exit costs (reversals)
+(12)
+—
+—
+Lease (gains)
+—
+(18)
+—
+Impairments:
+ 
+ 
+ 
+Buildings and other assets
+11
+43
+—
+Lease ROU assets
+—
+11
+—
+Impairments, store closings, and other costs
+$15
+$76
+$—
+ 
+In 2025, Kohl’s entered into a settlement agreement to resolve a credit card interchange fee lawsuit in which we were a plaintiff. We recorded a gain, net of legal fees, and received cash of $129 million.
+ 
+Net interest expense decreased in 2025 due to reductions in lease payments for stores closed earlier this year, a lower average outstanding balance on the revolving credit facility, a gain on extinguishment of debt related to the open market repurchases of long term debt completed in the fourth quarter of 2025, and a loss on extinguishment of debt in 2024 that was not repeated in 2025. The reductions were partially offset by interest on our newly issued 2030 notes.
+29
+Table of Contents
+ 
+Income Taxes
+ 
+(Dollars in Millions)
+2025
+2024
+2023
+Provision (benefit) for income taxes
+$64
+$5
+$56
+Effective tax rate
+19.0%
+3.9%
+15.1%
+ 
+The effective tax rate for 2025 increased compared to 2024, primarily due to higher income before income taxes. The increase in 2025 resulted in a lower proportionate favorable impact from uncertain tax positions and federal tax credits when compared to the prior year.
+GAAP to Non-GAAP Reconciliation
+In addition to reporting our financial results in accordance with generally accepted accounting principles (GAAP), this Annual Report on Form 10-K contains certain non-GAAP financial results, including adjusted operating income, adjusted net income, and adjusted diluted earnings per share. These adjusted results exclude the gains, impairments, and other costs associated with the closing of 27 underperforming stores, our San Bernardino, California and Monroe, Ohio E-commerce Fulfillment Centers and settlement of a credit card interchange fee lawsuit, as we believe such items are not representative of our normal business activity. We believe these non-GAAP measures are useful, as they are more representative of our core business, enhance comparability across reporting periods and to industry peers, and align with the measures used by management to evaluate the Company’s performance. The adjusted, non-GAAP results are provided and should be evaluated in addition to, and not as an alternative for, our results reported in accordance with GAAP. Shown in the following table is a reconciliation of each non-GAAP measure referenced throughout this report to the most comparable GAAP measure. No adjustments were made to our results for fiscal year 2023 and therefore these results are not included in the table below. Operating income was $717 million and net income was $317 million, or $2.85 per diluted share, in 2023.
+(Dollars in Millions, Except per Share Data)
+Operating Income
+Net Income
+Diluted Earnings per Share
+2025
+ 
+ 
+ 
+GAAP
+$624
+$272
+$2.38
+Impairments, store closing, and other costs
+15
+15
+0.13
+(Gain) on legal settlement
+(129)
+(129)
+(1.13)
+Income tax impact of items noted above
+—
+28
+0.24
+Adjusted (non-GAAP)
+$510
+$186
+$1.62
+2024
+ 
+ 
+ 
+GAAP
+$433
+$109
+$0.98
+Impairments, store closing, and other costs
+76
+76
+0.69
+Income tax impact of items noted above
+—
+(18)
+(0.17)
+Adjusted (non-GAAP)
+$509
+$167
+$1.50
+ 
+Inflation, Global Economic Conditions, and Trade Policies
+We expect that our operations will continue to be influenced by general economic conditions, including food, fuel and energy prices, higher unemployment, wage inflation, and costs to source our merchandise, including tariffs. During 2025, the U.S. government utilized the IEEPA to impose additional tariffs on a broad range of imports, including certain consumer goods. While these actions did not have a material impact on our 2025 results, the global trade environment remains fluid. On February 20, 2026, the U.S. Supreme Court issued a ruling in 
+Learning Resources, Inc. v. Trump
+ striking down certain tariffs previously imposed under IEEPA. While this ruling may lead to potential refunds for duties paid during 2025, the availability, timing, and amount of such refunds remain uncertain and subject to further legal and administrative developments. Following this decision, the U.S. administration announced the invocation of alternative authorities, including Section 122 of the Trade Act of 1974, to impose new tariffs on imports. These further actions may increase merchandise costs, affect merchandise availability, and impact our operational results. We have taken proactive measures to reduce our exposure to tariffs by leveraging our diverse factory network
+ 
+30
+Table of Contents
+ 
+to move production, adjusting orders based on pricing elasticity analyses, and working closely with our supplier and vendor base to proactively manage any impacts, with the goal of continuing to drive value to our customers. There can be no assurances that such factors will not impact our business in the future.
+Liquidity and Capital Resources
+Capital Allocation
+Our capital allocation strategy is to invest to maximize our overall long-term return and maintain a strong balance sheet. We follow a disciplined approach to capital allocation based on the following priorities: first we invest in our business to drive long-term profitable growth; second we pay a quarterly dividend; third we will capitalize on opportunities to further reduce our debt and overall leverage, when appropriate; and fourth, we return excess cash to shareholders through our share repurchase program.
+We will continue to invest in the business, as we plan to invest approximately $350 to $400 million in 2026 towards our strategic priorities. On February 25, 2026, our Board of Directors declared a quarterly cash dividend of $0.125 per share. The dividend will be paid on April 1, 2026 to all shareholders of record at the close of business on March 18, 2026. In the second quarter of 2025, we issued $360 million in aggregate principal amount of 10.000% senior secured notes due 2030; in addition $353 million in aggregate principal amount of our 4.25% notes matured and were repaid. In the fourth quarter of 2025, we reduced our outstanding debt by $87 million in aggregate principal through repurchases of various notes on the open market.
+ 
+We did not complete any share repurchases during fiscal 2025.
+Our period-end cash and cash equivalents balance increased to $674 million from $134 million in 2024. Our cash and cash equivalents balance includes short-term investments of $555 million and $9 million as of January 31, 2026, and February 1, 2025, respectively. Our investment policy is designed to preserve principal and liquidity of our short-term investments. This policy allows investments in large money market funds or in highly rated direct short-term instruments. We also place dollar limits on our investments in individual funds or instruments.
+The following table presents our primary uses and sources of cash:
+ 
+Cash Uses
+Cash Sources
+•   Operational needs, including compensation and
+ 
+    benefit costs, rent, taxes, and other operating costs
+ 
+•   Inventory
+ 
+•   Capital expenditures
+ 
+•   Dividend payments
+ 
+•   Debt repayments and repurchases
+ 
+•   Share repurchases
+•  Cash flow from operations
+ 
+•   Line of credit under our revolving credit facility
+ 
+•   Issuance of debt
+ 
+ 
+31
+Table of Contents
+ 
+The following table includes cash balances and changes:
+ 
+(Dollars in Millions)
+2025
+2024
+2023
+Cash and cash equivalents
+$674
+$134
+$183
+Net cash provided by (used in):
+ 
+ 
+ 
+    Operating activities
+$1,380
+$648
+$1,168
+    Investing activities
+(333)
+(467)
+(562)
+    Financing activities
+(507)
+(230)
+(576)
+Adjusted free cash flow 
+(a)
+$935
+$104
+$519
+ 
+(a)
+Non-GAAP financial measure. Please see “Adjusted Free Cash Flow (Non-GAAP measure)” for a reconciliation of adjusted free cash flow to net cash provided by operating activities.
+Operating Activities
+Our operating cash outflows generally consist of payments to our employees for wages, salaries and other employee benefits, payments to our merchandise vendors for inventory (net of vendor allowances), payments to our shipping carriers, and payments to our landlords for rent. Operating cash outflows also include payments for income taxes and interest payments on our debt borrowings.
+Operating activities generated cash of $1.4 billion in 2025 compared to $648 million in 2024. Operating cash flow increased due to a higher net income, partially driven by a $129 million gain recognized with respect to settlement of a credit card interchange fee lawsuit and inventory decreasing 7% to last year compared to an increase of 2% in 2024.
+ 
+Investing Activities
+Our investing cash outflows include payments for capital expenditures, including investments in new and existing stores, improvements to supply chain, and technology costs. Our investing cash inflows are generally from proceeds from sales of property and real estate.
+Net cash used in investing activities decreased $134 million to $333 million in 2025. The decrease was primarily driven by lower capital spend during the year on the expansion of our E-commerce Fulfillment center in Etna, Ohio, which was completed in 2025, and fewer Sephora shop openings and other investments, consistent with our reduced capital expenditure plans for fiscal 2025. Additionally in 2025, we received $54 million in proceeds from sale of property and equipment primarily due to the sale of corporate and other properties, compared to $6 million in proceeds in 2024.
+The following chart summarizes capital expenditures by major category:
+ 
+32
+Table of Contents
+ 
+At the end of 2025, we had a Sephora at Kohl's shop-in-shop ("Sephora shop") presence in over 1,100 of our stores, including 855 full size 2,500 square foot Sephora shops and 294 small format Sephora shops. We also substantially completed the rollout of impulse queuing lines across our store fleet and had two new store openings.
+ 
+In 2026, we anticipate capital expenditures of approximately $350 to $400 million as we continue to invest in our business, including enhancing omnichannel capabilities.
+Financing Activities
+Our financing strategy is to ensure adequate liquidity and access to capital markets. We also strive to maintain a balanced portfolio of debt maturities, while minimizing our borrowing costs. Our ability to access the public debt market has provided us with adequate sources of liquidity. Our continued access to these markets depends on multiple factors, including the condition of debt capital markets, our operating performance, and our credit ratings.
+During 2025, Moody's downgraded our corporate credit rating from Ba3 to B2 and revised their outlook to stable, and S&P downgraded our corporate credit rating from BB- to B+.
+As of January 31, 2026, our corporate credit ratings and outlook were as follows:
+ 
+ 
+Moody’s
+S&P
+Fitch
+Corporate credit
+B2
+B+
+BB-
+Outlook
+Stable
+Negative
+Negative
+ 
+In the fourth quarter of 2024, S&P downgraded our senior unsecured credit rating from BB to BB- and Moody’s downgraded our rating from Ba3 to B1. As a result of the downgrades, the interest rate on our 3.375% notes due May 2031 increased an additional 50 basis points in the second quarter of 2025 due to the coupon adjustment provision within the notes. During the second quarter of 2025, Moody's downgraded our senior unsecured credit rating from B1 to B3; however, further downgrades by Moody's do not trigger incremental interest rate increases. In total, the interest rate on the notes due May 2031 have increased 175 basis points since their issuance due to the coupon adjustment provision within the notes.
+The majority of our financing activities generally include proceeds and/or repayments of borrowings under our revolving credit facility and long-term debt, dividend payments, and repurchases of common stock. Financing cash outflows also include payments to our landlords for leases classified as financing leases and financing obligations.
+Financing activities used $507 million in 2025 compared to $230 million in 2024.
+In 2025, we had $290 million of net repayments on our $1.5 billion credit facility compared to net borrowings of $198 million in 2024. There were no outstanding borrowings under the revolving credit facility, recorded as short-term debt, as of January 31, 2026. As of February 1, 2025, there was $290 million outstanding under the revolving credit facility.
+ 
+In the second quarter of 2025, we issued $360 million aggregate principal amount of 10.000% senior secured notes due 2030 and received proceeds of $357 million, net of the debt discount. Also, during the second quarter of 2025, $353 million in aggregate principal amount of our 4.25% notes matured and were repaid.
+In the fourth quarter of 2025, we reduced our outstanding debt by $87 million aggregate principal through repurchases of various notes on the open market.
+ 
+In the second quarter of 2024, we completed a voluntary redemption of the remaining $113 million of outstanding 9.50% notes due May 15, 2025.
+Cash dividend payments were $56 million ($0.50 per share) in 2025 and $222 million ($2.00 per share) in 2024.
+ 
+33
+Table of Contents
+ 
+There was no cash used for treasury stock purchases in 2025 or 2024. Share repurchases are discretionary in nature. The timing and amount of repurchases are based upon available cash balances, our stock price, and other factors. While we are not currently planning for share repurchases, we expect to resume share repurchases over the long-term following improvement in overall leverage.
+ 
+Adjusted Free Cash Flow (Non-GAAP measure)
+We generated $935 million of adjusted free cash flow for 2025 compared to $104 million in 2024. The increase was primarily driven by more cash provided by operating activities due to a higher net income and inventory decreasing 7% to last year compared to an increase of 2% in 2024. Additionally, capital expenditures decreased due to lower capital spend on the expansion of our E-commerce Fulfillment center in Etna, Ohio, which was completed in 2025 and fewer Sephora shop openings and other investments.
+ 
+In addition to net cash provided by operating activities, we provide Adjusted Free Cash Flow as a useful measure of our financial performance and position and our ability to generate additional cash flow from our business operations. We believe the presentation of Adjusted Free Cash Flow is relevant and useful for investors to evaluate the cash generated from operations consistent with the method used by management. Adjusted free cash flow is a non-GAAP financial measure which we define as net cash provided by operating activities and proceeds from financing obligations (which generally represent landlord reimbursements of construction costs) less capital expenditures and finance lease and financing obligation payments. Adjusted free cash flow is provided and should be evaluated in addition to, and not as an alternative to our other financial GAAP measures such as net cash provided by operating activities or net income.
+The following table reconciles adjusted free cash flow (a non-GAAP measure) to net cash provided by operating activities (a GAAP measure):
+ 
+(Dollars in Millions)
+2025
+2024
+2023
+Net cash provided by operating activities
+$1,380
+$648
+$1,168
+Acquisition of property and equipment
+(372)
+(466)
+(577)
+Free cash flow
+$1,008
+$182
+$591
+Finance lease and financing obligation payments
+$(83)
+$(79)
+$(93)
+Proceeds from financing obligations
+10
+1
+21
+Adjusted free cash flow
+$935
+$104
+$519
+ 
+Key Financial Ratios
+Key financial ratios that provide certain measures of our liquidity are as follows:
+ 
+(Dollars in Millions)
+2025
+2024
+Working capital
+$1,160
+$257
+Current ratio
+1.46
+1.08
+Our working capital and inventory levels typically build throughout the fall, peaking during the November and December holiday selling season.
+ 
+The increase in our working capital and current ratio are driven by a higher Cash and cash equivalents balance, the repayment of $353 million of our 4.25% notes that matured during the year, and no outstanding borrowings under the revolving credit facility.
+Debt Covenant Compliance
+Our senior secured, asset based revolving credit facility contains customary events of default and financial, affirmative and negative covenants, including but not limited to, a springing financial covenant relating to our fixed charge coverage ratio and restrictions on indebtedness, liens, investments, asset dispositions, and restricted payments. As of January 31, 2026, we were in compliance with all covenants.
+34
+Table of Contents
+ 
+Contractual Obligations
+ 
+Material contractual obligations arising in the normal course of business primarily consist of long-term debt and related interest payments, principal and interest payments for leases, and other purchase obligations. See Notes 2 and 3 to the Consolidated Financial Statements for amounts outstanding on January 31, 2026 related to debt and leases.
+Other purchase obligations primarily include royalties, as well as payments associated with technology, marketing, and donation agreements. The obligations were $393 million as of January 31, 2026.
+Off-Balance Sheet Arrangements
+We have not provided any financial guarantees arising from arrangements with unconsolidated entities or persons as of January 31, 2026.
+We have not created, and are not party to, any special-purpose or off-balance sheet entities for the purpose of raising capital, incurring debt, or operating our business. We do not have any arrangements or relationships with entities that are not consolidated into our financial statements that are reasonably likely to materially affect our financial condition, liquidity, results of operations, or capital resources.
+ 
+Critical Accounting Policies and Estimates
+The preparation of financial statements in conformity with accounting principles generally accepted in the United States requires us to make estimates and assumptions that affect reported amounts. Management has discussed the development, selection, and disclosure of these estimates and assumptions with the Audit Committee of our Board of Directors.
+ 
+Retail Inventory Method and Inventory Valuation
+The majority of our merchandise inventories are valued at the lower of cost or market using the retail inventory method (“RIM”). Under RIM, the valuation of inventory at cost and the resulting gross margins are calculated by applying a cost-to-retail ratio to the retail value of inventory. RIM is an averaging method that has been widely used in the retail industry due to its practicality. The use of RIM will result in inventory being valued at the lower of cost or market since permanent markdowns are taken as a reduction of the retail value of inventories. A reserve is recorded if the future estimated selling price is less than cost.
+RIM inherently requires management judgment and estimates, such as the amount and timing of permanent markdowns to clear unproductive or slow-moving inventory, which may impact the ending inventory valuation as well as gross margin. Factors considered in the determination of permanent markdowns include current and anticipated demand, customer preferences, age of the merchandise, fashion trends, and weather conditions.
+Inventory shrinkage is estimated as a percent of sales for the period between the last physical inventory count and the balance sheet date. Shrink is the difference between the recorded amount of inventory and the physical inventory. We perform an annual physical inventory count at the all of our stores, E-Commerce fulfillment centers, and distribution centers. The shrinkage rate from the most recent physical inventory, in combination with current events and historical experience, is used as the standard for the shrinkage accrual rate for the next inventory cycle. Historically, our actual physical inventory count results have shown our estimates to be reliable.
+Vendor Allowances
+We frequently receive allowances from our vendors for markdowns that we have taken in order to sell the vendors' merchandise and/or to support gross margins earned on those sales. This markdown support generally relates to sold inventory or permanent markdowns and, accordingly, is reflected as a reduction to cost of merchandise sold. Markdown support related to merchandise that has not yet been sold is recorded in inventory.
+35
+Table of Contents
+ 
+We also receive support from vendors for marketing and other costs that we have incurred to sell the vendors’ merchandise. To the extent the reimbursements are for specific, incremental, and identifiable costs incurred to sell the vendor's products and do not exceed the costs incurred, they are recognized as a reduction of Selling, General, and Administrative Expenses. If these criteria are not met, the support is recorded in inventory and reflected as a reduction of costs of merchandise sold when the related merchandise is sold.
+Insurance Reserve Estimates
+We are primarily self-insured for costs related to workers’ compensation, general liability, and employee-related health care benefits. We use a third-party actuary to estimate the liabilities associated with these risks. The actuary considers historical claims experience, demographic and severity factors, health care trends, and actuarial assumptions to estimate the liabilities associated with these risks. Historically, our actuarial estimates have not been materially different from actual results.
+Impairment of Long-Lived Assets
+We review our long-lived assets for impairment when events or changes in circumstances, such as decisions to close a store or significant cash flow losses, indicate the carrying value of the asset may not be recoverable. All long-lived assets are reviewed for impairment at least annually.
+If our evaluations, which are performed on an undiscounted cash flow basis, indicate that the carrying amount of the asset may not be recoverable, the potential impairment is measured as the excess of carrying value over the fair value of the impaired asset.
+Identifying impaired assets and quantifying the related impairment loss, if any, requires significant estimates by management. The most significant of these estimates is the cash flow expected to result from the use and eventual disposition of the asset. When determining the stream of projected future cash flows associated with an individual store, management estimates future store performance including sales, gross margin, and controllable expenses, such as store payroll and occupancy expense. Projected cash flows must be estimated for future periods throughout the remaining life of the property, which may be as many as 40 years in the future. The accuracy of these estimates will be impacted by a number of factors including general economic conditions, changes in competitive landscape, and our ability to effectively manage the operations of the store.
+Income Taxes
+We regularly evaluate the likelihood of realizing the benefit for income tax positions we have taken in various federal and state filings by considering all relevant facts, circumstances, and information available to us. If we believe it is more likely than not that our position will be sustained, we recognize a benefit at the largest amount which we believe is cumulatively greater than 50% likely to be realized.
+Unrecognized tax benefits require significant management judgment regarding applicable statutes and their related interpretation, the status of various income tax audits, and our particular facts and circumstances. Also, as audits are completed or statutes of limitations lapse, it may be necessary to record adjustments to our taxes payable, deferred tax assets, tax reserves, or income tax expense. Although we believe we have adequately reserved for our uncertain tax positions, no assurance can be given that the final tax outcome of these matters will not be different. Income taxes are further described in Note 5 of the Consolidated Financial Statements.
+Leases
+Accounting for leased property and equipment requires compliance with technical accounting rules and judgment by management. Application of these accounting rules and assumptions made by management will determine if the lease is accounted for as a finance lease, an operating lease, or a financing obligation.
+36
+Table of Contents
+ 
+The following are estimates used by management in accounting for real estate and other leases:
+•
+Accounting lease term
+—Our accounting lease term includes all noncancelable periods and renewal periods that are reasonably assured of being exercised. Typically, renewal options are considered reasonably assured of being exercised if we have made significant leasehold improvements that would exceed the initial or renewal lease term and the cash flow performance of the store remains strong. The expected lease term is used in determining whether the lease is accounted for as an operating lease or a finance lease. 
+•
+Incremental borrowing rate
+—The incremental borrowing rate is the rate of interest that the lessee would have to pay to borrow on a collateralized basis over a similar term for an amount equal to the lease payments in a similar economic environment. The incremental borrowing rate is used in determining whether the lease is accounted for as an operating lease or a finance lease. 
+•
+Fair market value of leased asset
+—The fair market value of leased retail property is generally estimated based on comparable market data as provided by third-party appraisers or consideration received from the landlord. Fair market value is used in determining whether the lease is accounted for as an operating lease or a finance lease.
+Leases are further described in Note 3 of the Consolidated Financial Statements.
+Sephora Arrangement
+In 2020, we entered into an arrangement with Sephora to be the exclusive beauty offering at Kohl's. At the end of 2025, we had 855 full size 2,500 square foot Sephora shops and 294 small format Sephora shops in operation.
+Both parties to the arrangement are active participants and are exposed to significant risks and rewards dependent on the success of the activities of the arrangement. The arrangement involves various activities including the merchandising, marketing, and operations of the Sephora shops and Kohls.com. Kohl’s is the principal on sales transactions with our customers and we recognize sales, cost of merchandise sold, and operating expenses in the respective lines on our consolidated statements of operations. Kohl’s owns and manages the inventory and funds capital expenditures for the arrangement. The parties share equally in the operating profit of the arrangement which incorporates all expenses to run the arrangement including depreciation expense related to the assets. Amounts due to Sephora for their share of the operating profits are recorded in cost of merchandise sold.

@@ -1,0 +1,574 @@
+ITEM 7.  Management’s Discussion and Analysis of Financial Condition and Results of Operations
+TJX provides projections and other forward-looking statements in the following discussions particularly relating to our future financial performance. These forward-looking statements are estimates based on information currently available to us and subject to the cautionary statements set forth on page 3 of this Form 10-K. Our results are subject to risks, uncertainties and potentially inaccurate assumptions that could cause actual results to differ materially from those expressed or implied by any such forward-looking statements. Applicable risks and uncertainties include, among others, those described in Part I, Item 1A, Risk Factors, as well as other information we file with the SEC. TJX undertakes no obligation to update or revise any forward-looking statements, even if experience or future changes make it clear that any projected results expressed or implied in such statements will not be realized.
+The discussion that follows relates to our 52-week fiscal year ended January 31, 2026 (fiscal 2026) and our 52-week fiscal year ended February 1, 2025 (fiscal 2025) and our 52-week fiscal year ended January 30, 2027 (fiscal 2027).
+The following is a discussion of our consolidated operating results, followed by a discussion of our segment operating results. Discussions of fiscal 2024 items and year-to-year comparisons between fiscal 2025 and fiscal 2024 that are not included in this Form 10-K can be found in “Management's Discussion and Analysis of Financial Condition and Results of Operations” in Part II, Item 7 of our annual report on Form 10-K for the fiscal year ended February 1, 2025.
+OVERVIEW
+We are the leading off-price apparel and home fashions retailer in the U.S. and worldwide. Our mission is to deliver great value to our customers every day. We do this by selling a rapidly changing assortment of apparel, home fashions and other merchandise at prices generally 20% to 60% below full-price retailers’ (including department, specialty, and major online retailers) regular prices on comparable merchandise, every day through our stores and six e-commerce sites. We operate over 
+5,200
+ stores through our fou
+r segments:
+ in the U.S., Marmaxx (which operates TJ Maxx, Marshalls, tjmaxx.com and marshalls.com) and HomeGoods (which operates HomeGoods and Homesense); TJX Canada (which operates Winners, HomeSense and Marshalls in Canada); and TJX International (which operates TK Maxx, Homesense, tkmaxx.com, tkmaxx.de, and tkmaxx.at in Europe, and TK Maxx in Australia). In addition to our fou
+r segments,
+ Sierra operates retail stores and sierra.com in the U.S. The results of Sierra are included in the Marmaxx segment.
+RESULTS OF OPERATIONS
+Highlights of our financial performance for fiscal 2026 include the following:
+–
+Net sales increased 7% to $60.4 billion for fiscal 2026 versus $56.4 billion for fiscal 2025. As of January 31, 2026, both the number of stores in operation and the selling square footage increased approximately 3% compared to the end of fiscal 2025.
+–
+Consolidated comp sales increased 5% in fiscal 2026. See Net Sales below for the definition of comp sales.
+–
+Diluted earnings per share were $4.87 for fiscal 2026, compared to $4.26 for fiscal 2025.
+–
+Pre-tax profit margin (the ratio of pre-tax income to net sales) for fiscal 2026 was 12.1%. This was a 0.6 percentage point increase compared to 11.5% for fiscal 2025.
+–
+Our cost of sales, including buying and occupancy costs, ratio for fiscal 2026 was 69.0%, a 0.4 percentage point decrease compared to 69.4% for fiscal 2025.
+–
+Our selling, general and administrative (“SG&A”) expense ratio for fiscal 2026 was 19.1%, a 0.3 percentage point decrease compared to 19.4% for fiscal 2025.
+–
+Our consolidated average per store inventories, including inventory on hand at our distribution centers (which excludes inventory in transit) and excluding our e-commerce sites, were up 10% at the end of fiscal 2026 as compared to the prior year. Starting in the first quarter of fiscal 2026, Sierra stores are included in the consolidated average per store inventories.
+–
+During fiscal 2026, we returned $4.3 billion to our shareholders through share repurchases and dividends. A dividend of $0.425 per share was declared in the fourth quarter of fiscal 2026 and paid in March 2026.
+28
+Operating Results as a Percentage of Net Sales
+The following table sets forth our consolidated operating results as a percentage of net sales.
+  
+Percentage of Net Sales
+  
+Fiscal 2026
+Fiscal 2025
+Net sales
+100.0
+ 
+%
+100.0 
+%
+Cost of sales, including buying and occupancy costs
+69.0
+ 
+69.4 
+Selling, general and administrative expenses
+19.1
+ 
+19.4 
+Interest (income) expense, net
+(0.2)
+(0.3)
+Income before income taxes
+*
+12.1
+ 
+%
+11.5 
+%
+*
+Figures may not foot due to rounding.
+Recent Events and Trends
+Global Economic Conditions and Tariffs
+We continue to closely monitor changes in international trade relations, economic and monetary policies, and legislation and regulations including those related to tariffs on imports from China and other countries. While we have been, and believe we can continue to be, successful in mitigating tariff pressures, tariffs have led to significant volatility in the global economy. We are continuing to implement and consider additional measures that seek to mitigate the impact of tariffs.
+On February 20, 2026, the U.S. Supreme Court issued a decision invalidating tariffs imposed under the International Emergency Economic Powers Act (“IEEPA”). This ruling may allow for the recovery of IEEPA tariff amounts previously paid. The ruling leaves uncertainties regarding the timing and administration of any potential IEEPA tariff refunds by the U.S. government, and may be subject to further legal and regulatory developments. Following the U.S. Supreme Court ruling, an executive order was issued imposing a new global tariff, in addition to any existing non-IEEPA tariffs.
+The extent and duration of the tariffs and the resulting impact on general economic conditions and on our business, including potential IEEPA tariff refunds, continues to be uncertain. Our buying organization’s ability to execute our merchandise sourcing model to offset the effects of the tariffs is a key factor. However, the overall impact depends on a range of factors, including trade negotiations between the U.S. and other countries, responses of other countries, judicial review, exceptions that could be granted and cost of alternative sources of merchandise. 
+Uncertainty remains regarding the continued impact on our direct imports, indirect imports, vendor and competitor pricing, consumer demand, tariff pass-throughs and retaliatory tariffs. We will continue to closely monitor developments related to tariffs and evaluate any updates for their potential impact on our business and financial condition.
+Litigation Settlement Related to Credit Card Interchange Fees and Related Expenses
+During the fourth quarter of fiscal 2026, we entered into a settlement agreement to resolve litigation related to credit card interchange fees in which we were a plaintiff. The settlement resulted in a gain of $419 million, net of $51 million of legal expenses, which was recognized within SG&A expenses. We incurred additional non-recurring settlement-related expenses that consisted of $116 million related to a portion of incentive compensation expense globally and $82 million related to a discretionary bonus for eligible non-bonus plan Associates globally. The gain from the litigation settlement benefitted the segment profit of our U.S. segments and the related expenses impacted the segment profit of each of our segments.
+Net Sales
+Net sales for fiscal 2026 totaled $60.4 billion, a 7% increase versus net sales of $56.4 billion for fiscal 2025. The increase includes a 5% increase in comp sales, a 2% increase from non-comp sales, and a neutral impact from foreign currency exchange rates. Net sales from our e-commerce sites combined amounted to approximately 2% of total sales for both fiscal 2026 and fiscal 2025.
+Comp sales increased 5% for fiscal 2026 and increased 4% for fiscal 2025. Comp sales for fiscal 2026 were driven by a higher average basket and an increase in customer transactions. Both home comp sales growth (as defined below) and apparel comp sales growth (as defined below) generally performed in line with the overall comp sales increase for fiscal 2026.
+As of January 31, 2026, both our store count and selling square footage increased approximately 3% compared to the same period last year.
+29
+Definition of Comparable Sales
+We define comparable sales, or comp sales, to be sales of stores and e-commerce sites that have been in operation for all or a portion of two consecutive fiscal years, or, in other words, stores or e-commerce sites that are starting their third fiscal year of operation. In any given fiscal year, we calculate comp sales on a 52-week basis by comparing the current and prior year weekly periods that are most closely aligned. Relocated stores and stores that have changed in size are generally classified in the same way as the original store, and we believe that the impact of these stores on the consolidated comp sales percentage is immaterial. Starting in fiscal 2026, sales from e-commerce sites are included in comp sales, and the impact of such sales on the consolidated comp sales percentage is immaterial.
+Sales excluded from comp sales (“non-comp sales”) consist of sales from:
+–
+New stores or e-commerce sites - stores or sites that have not yet met the comp sales criteria, which represents a substantial majority of non-comp sales
+–
+Stores or e-commerce sites that are closed permanently or for an extended period of time
+We determine which stores and e-commerce sites are included in the comp sales calculation at the beginning of a fiscal year, and the classification remains constant throughout that year unless a store is closed permanently or for an extended period during that fiscal year. 
+Comp sales of our foreign segments are calculated on a constant currency basis. We define constant currency basis as translating the current year’s results using the prior year’s exchange rates. This removes the effect of changes in currency exchange rates, which we believe is a more appropriate measure of performance.
+Comp sales may be referred to as “same store” sales by other retail companies. The method for calculating comp sales varies across the retail industry; therefore, our measure of comp sales may not be comparable to that of other retail companies. Comparable sales for a category such as home or apparel include sales from merchandise within such category combined across all divisions that fall within the Company’s definition of comparable sales for such period.
+We define customer transactions to be the number of transactions in stores or online included in the comp sales calculation. We define average ticket to be the average retail price of the units sold. We define average basket to be the average dollar value of transactions. 
+Revenues by Geography
+The percentages of our consolidated revenues by geography for the last two fiscal years are as follows:
+Fiscal 2026
+Fiscal 2025
+United States:
+Northeast
+21
+ 
+%
+21 
+%
+Midwest
+13
+ 
+13 
+South (including Puerto Rico)
+28
+ 
+28 
+West
+16
+ 
+16 
+Total United States
+78
+ 
+%
+78 
+%
+Canada
+9
+ 
+9 
+Europe
+12
+ 
+12 
+Australia
+1
+ 
+1 
+Total TJX
+100
+ 
+%
+100 
+%
+Impact of Foreign Currency Exchange Rates
+Our operating results are affected by foreign currency exchange rates as a result of changes in the value of the U.S. dollar or a division’s local currency in relation to other currencies. We specifically refer to “foreign currency” as the impact of translational foreign currency exchange and mark-to-market of inventory derivatives, as described in detail below. This does not include the impact foreign currency exchange rates can have on various transactions that are denominated in a currency other than an operating division’s local currency, which is referred to as “transactional foreign exchange,” and also described below.
+30
+Translation Foreign Exchange
+In our Consolidated Financial Statements, we translate the operations of TJX Canada and TJX International from local currencies into U.S. dollars using currency rates in effect at different points in time. Significant changes in foreign exchange rates between comparable prior periods can result in meaningful variations in assets, liabilities, net sales, net income and earnings per share as well as the net sales and operating results of these segments. Currency translation generally does not affect operating margins, or affects them only slightly, as sales and expenses of the foreign operations are translated at approximately the same rates within a given period.
+Mark-to-Market Inventory Derivatives
+We routinely enter into inventory-related hedging instruments to mitigate the impact on earnings of changes in foreign currency exchange rates on merchandise purchases denominated in currencies other than the local currencies of our divisions, principally TJX Canada and TJX International. As we have not elected hedge accounting for these instruments, as defined by U.S. generally accepted accounting principles (“GAAP”), we record a mark-to-market gain or loss on the derivative instruments in our results of operations at the end of each reporting period. In subsequent periods, the income statement impact of the mark-to-market adjustment is effectively offset when the inventory being hedged is paid for. While these effects occur every reporting period, they are of much greater magnitude when there are sudden and significant changes in currency exchange rates during a short period of time. The mark-to-market adjustment on these derivatives does not affect net sales, but it does affect the cost of sales, operating margins and earnings we report.
+Transactional Foreign Exchange
+When discussing the impact on our results of the effect of foreign currency exchange rates on certain transactions, we refer to it as “transactional foreign exchange”. This primarily includes the impact that foreign currency exchange rates may have on the year-over-year comparison of merchandise margin as well as “foreign currency gains and losses” on transactions that are denominated in a currency other than the operating division's local currency. These two items can impact segment margin comparison of our foreign divisions and we have highlighted them when they are meaningful to understanding operating trends.
+Cost of Sales, Including Buying and Occupancy Costs
+Cost of sales, including buying and occupancy costs, as a percentage of net sales was 69.0% for fiscal 2026, a decrease of 0.4 percentage points compared to 69.4% of net sales for fiscal 2025. 
+The decrease in the cost of sales ratio, including buying and occupancy costs, was due to favorable merchandise margin and expense leverage on higher comp sales. Merchandise margin reflects lower freight costs and lower inventory shrink expense.
+Selling, General and Administrative Expenses
+SG&A expenses, as a percentage of net sales, was 19.1% for fiscal 2026, a decrease of 0.3 percentage points compared to 19.4% for fiscal 2025.
+The 
+decrease
+ in SG&A ratio for
+ fiscal 2026 was due to a net benefit from the credit card interchange fees litigation settlement and related expenses.
+Interest (Income) Expense, net
+The components of interest (income) expense, net for the last two fiscal years are summarized below:
+  
+Fiscal Year Ended
+In millions
+January 31,
+2026
+February 1,
+2025
+Interest expense
+$
+79
+ 
+$
+78 
+Capitalized interest
+(5)
+(2)
+Interest (income)
+(195)
+(257)
+Interest (income) expense, net
+$
+(121)
+$
+(181)
+Interest (income) expense, net decreased for fiscal 2026 compared to fiscal 2025 due to a decrease in interest income driven primarily by a decrease in prevailing rates.
+31
+Provision for Income Taxes
+On July 4, 2025, the One Big Beautiful Bill Act was signed into law, making permanent certain expiring provisions of the Tax Cuts and Jobs Act, including 100% accelerated depreciation deductions on qualified property and immediate expensing of domestic research and development costs, as well as modifying some of the international tax rules. These changes have not had a material impact on our income tax provision but have resulted in a reduction of our current year U.S. cash tax obligations, and we are continuing to evaluate the potential impact of the provisions that are expected to be effective in future fiscal years. 
+A number of countries have enacted legislation to implement the Organization for Economic Cooperation and Development’s 15% global minimum tax regime (Pillar Two) with effect from January 1, 2024. A comprehensive Side-by-Side Package was released in January 2026, introducing additional safe harbors and options for companies headquartered in jurisdictions with a qualified Side-by-Side regime. Member countries must enact local legislation or update existing regulations to adopt and incorporate the Pillar Two Side-by-Side Package. We continue to evaluate the impacts of proposed and enacted legislation for the jurisdictions in which we operate.
+The effective income tax rate was 24.7% for fiscal 2026 and 25.0% for fiscal 2025. The decrease in the fiscal 2026 effective income tax rate is primarily due to a benefit from the acquisition of federal tax credits.
+Net Income and Diluted Earnings Per Share
+Net income was $5.5 billion in fiscal 2026 compared to $4.9 billion in fiscal 2025. Diluted earnings per share in fiscal 2026 were $4.87 compared to $4.26 in fiscal 2025. The credit card interchange fees litigation settlement and related expenses resulted in a net benefit of $0.14 on diluted earnings per share in fiscal 2026. Foreign currency had a $0.01 negative impact on diluted earnings per share in fiscal 2026 compared to a $0.01 positive impact on diluted earnings per share in fiscal 2025.
+Segment Information
+We operate four segments. In the United States, our Marmaxx segment operates TJ Maxx, Marshalls, tjmaxx.com and marshalls.com and our HomeGoods segment operates HomeGoods and Homesense. Our TJX Canada segment operates Winners, HomeSense and Marshalls in Canada, and our TJX International segment operates TK Maxx, Homesense, tkmaxx.com, tkmaxx.de, and tkmaxx.at in Europe and TK Maxx in Australia. In addition to our four segments, Sierra operates retail stores and sierra.com in the U.S. The results of Sierra are included in the Marmaxx segment.
+We evaluate the performance of our segments based on “segment profit or loss,” which we define as pre-tax income or loss before general corporate expense and interest (income) expense, net, and certain separately disclosed unusual or infrequent items. “Segment profit or loss,” as we define the term, may not be comparable to similarly titled measures used by other companies. The terms “segment margin” or “segment profit margin” are used to describe segment profit or loss as a percentage of net sales. These measures of performance should not be considered an alternative to net income or cash flows from operating activities, as an indicator of our performance or as a measure of liquidity.
+Presented below is selected financial information related to our segments.
+32
+U.S. SEGMENTS
+Marmaxx
+  
+Fiscal Year Ended
+U.S. dollars in millions
+January 31,
+2026
+February 1,
+2025
+Net sales
+$
+36,585
+ 
+$
+34,604 
+Segment profit
+$
+5,528
+ 
+$
+4,895 
+Segment profit margin
+15.1
+ 
+%
+14.1 
+%
+Comp sales
+4
+ 
+%
+4 
+%
+Stores in operation at end of period:
+TJ Maxx
+1,348
+ 
+1,333 
+Marshalls
+1,255
+ 
+1,230 
+Sierra
+145
+ 
+117 
+Total
+2,748
+ 
+2,680 
+Selling square footage at end of period (in millions):
+TJ Maxx
+30
+ 
+30 
+Marshalls
+28
+ 
+27 
+Sierra
+2
+ 
+1 
+Total
+60
+ 
+58 
+Net Sales
+Net sales for Marmaxx were $36.6 billion for fiscal 2026, an increase of 6% compared to $34.6 billion for fiscal 2025. The increase in net sales reflects a 4% increase from comp sales and a 2% increase from non-comp sales.
+The increase in comp sales for fiscal 2026 was driven by a higher average basket and an increase in customer transactions. Both apparel comp sales growth and home comp sales growth generally performed in line with the overall comp sales increase for fiscal 2026. Geographically, comp sales growth was strongest in the South region.
+Segment Profit Margin 
+Segment profit margin increased to 15.1% for fiscal 2026 compared to a segment profit margin of 14.1% for fiscal 2025. The increase in segment profit margin was primarily driven by a net benefit from the credit card interchange fees litigation settlement and related expenses as well as favorable merchandise margin. Merchandise margin reflects lower inventory shrink expense and lower freight costs partially offset by higher markdowns.
+Our Marmaxx e-commerce sites, tjmaxx.com and marshalls.com, together with sierra.com, represented approximately 2% of Marmaxx’s net sales for fiscal 2026 and fiscal 2025, and did not have a significant impact on year-over-year segment margin comparisons.
+In fiscal 2027, we expect to open 45 Marmaxx net new stores and 24 new Sierra stores, which would increase selling square footage by approximately 2%.
+33
+HomeGoods
+  
+Fiscal Year Ended
+U.S. dollars in millions
+January 31,
+2026
+February 1,
+2025
+Net sales
+$
+10,172
+ 
+$
+9,386 
+Segment profit
+$
+1,246
+ 
+$
+1,021 
+Segment profit margin
+12.2
+ 
+%
+10.9 
+%
+Comp sales
+5
+ 
+%
+4 
+%
+Stores in operation at end of period:
+HomeGoods
+963
+ 
+943 
+Homesense
+79
+ 
+72 
+Total
+1,042
+ 
+1,015 
+Selling square footage at end of period (in millions):
+HomeGoods
+18
+ 
+17 
+Homesense
+2
+ 
+2 
+Total
+20
+ 
+19 
+Net Sales
+Net sales for HomeGoods were $10.2 billion for fiscal 2026, an increase of 8%, compared to $9.4 billion for fiscal 2025. 
+The increase 
+in net sales reflects a 5% increase from comp sales and a 3% increase from non-comp sales.
+The increase in comp sales for fiscal 2026 was driven by a higher average basket and an increase in customer transactions. Geographically, comp sales growth was strongest in the West, South and Midwest regions.
+Segment Profit Margin
+Segment profit margin increased to 12.2% for fiscal 2026 compared to a segment profit margin of 10.9% for fiscal 2025. The increase in segment profit margin for fiscal 2026 was driven by favorable merchandise margin, expense leverage on higher comp sales, lower supply chain and store costs and a net benefit from the credit card interchange fees litigation settlement and related expenses. Merchandise margin reflects lower freight costs and lower markdowns.
+In fiscal 2027, we expect to open 24 new HomeGoods stores and 11 new Homesense stores, which would increase selling square footage by approximately 4%.
+34
+FOREIGN SEGMENTS 
+TJX Canada
+  
+Fiscal Year Ended
+U.S. dollars in millions
+January 31,
+2026
+February 1,
+2025
+Net sales
+$
+5,629
+ 
+$
+5,189 
+Segment profit
+$
+757
+ 
+$
+703 
+Segment profit margin
+13.4
+ 
+%
+13.5 
+%
+Comp sales
+7
+ 
+%
+5 
+%
+Stores in operation at end of period:
+Winners
+316
+ 
+307 
+HomeSense
+162
+ 
+160 
+Marshalls
+111
+ 
+109 
+Total
+589
+ 
+576 
+Selling square footage at end of period (in millions):
+Winners
+7
+ 
+7 
+HomeSense
+3
+ 
+3 
+Marshalls
+2
+ 
+2 
+Total
+12
+ 
+12 
+Net Sales
+Net sales for TJX Canada were $5.6 billion for fiscal 2026, an increase of 8% compared to $5.2 billion for fiscal 2025. The increase in net sales reflects a 7% increase in comp sales and a 2% increase in non-comp sales, partially offset by a negative foreign currency exchange rate impact of 1%. The increase in comp sales was driven by an increase in customer transactions and a higher average basket.
+Segment Profit Margin
+Segment profit margin decreased to 13.4% for fiscal 2026 compared to a segment profit margin of 13.5% for fiscal 2025. The decrease for fiscal 2026 was primarily driven by expenses related to the credit card interchange fees litigation settlement and lower merchandise margin. These costs were mostly offset by expense leverage on higher comp sales. Merchandise margin reflects higher markon, which was more than offset by the negative impact of transactional foreign exchange on the cost of merchandise. 
+In fiscal 2027, we expect to open 13 new stores in Canada, which would increase selling square footage by approximately 3%.
+35
+TJX International
+  
+Fiscal Year Ended
+U.S. dollars in millions
+January 31,
+2026
+February 1,
+2025
+Net sales
+$
+7,986
+ 
+$
+7,181 
+Segment profit
+$
+558
+ 
+$
+422 
+Segment profit margin
+7.0
+ 
+%
+5.9 
+%
+Comp sales
+4
+ 
+%
+4 
+%
+Stores in operation at end of period:
+TK Maxx (Europe)
+673
+ 
+655 
+Homesense (Europe)
+74
+ 
+75 
+TK Maxx (Australia)
+88
+ 
+84 
+Total
+835
+ 
+814 
+Selling square footage at end of period (in millions):
+TK Maxx (Europe)
+13
+ 
+13 
+Homesense (Europe)
+1
+ 
+1 
+TK Maxx (Australia)
+1
+ 
+1 
+Total
+15
+ 
+15 
+Net Sales
+Net sales for TJX International were $8 billion for fiscal 2026, an increase of 11% compared to $7.2 billion for fiscal 2025. The increase in net sales reflects a positive foreign currency exchange rate impact of 5%, a 4% increase in comp sales and a 2% increase from non-comp sales. The increase in comp sales was driven by an increase in customer transactions.
+E-commerce sales represented approximately 3% of TJX International’s net sales for both fiscal 2026 and fiscal 2025.
+Segment Profit Margin
+Segment profit margin increased to 7.0% for fiscal 2026 compared to a segment profit margin of 5.9% for fiscal 2025. This increase was primarily due to higher merchandise margin, favorable store occupancy costs and lower administrative costs, partially offset by expenses related to the credit card interchange fees litigation settlement. Merchandise margin reflects higher markon.
+In fiscal 2027, we expect to open 19 net new stores in Europe and 10 new stores in Australia, which would increase selling square footage by approximately 3%.
+GENERAL CORPORATE EXPENSE
+  
+Fiscal Year Ended
+In millions
+January 31,
+2026
+February 1,
+2025
+General corporate expense
+$
+911
+ 
+$
+739 
+General corporate expense for segment reporting purposes represents those costs not specifically related to the operations of our segments. General corporate expenses are primarily included in SG&A expenses. The mark-to-market adjustment of our fuel and inventory hedges is included in cost of sales, including buying and occupancy costs. 
+The increase in general corporate expense for fiscal 2026 was primarily driven by higher administrative costs, the unfavorable year-over-year impacts related to the mark-to-market adjustments on inventory hedges, expenses related to the credit card interchange fees litigation settlement and contributions to our charitable foundations.
+36
+ANALYSIS OF FINANCIAL CONDITION
+Liquidity and Capital Resources
+Our liquidity requirements have traditionally been funded through cash generated from operations, supplemented, as needed, by short-term bank borrowings and the issuance of commercial paper. As of January 31, 2026, there were no short-term bank borrowings or commercial paper outstanding. We believe our existing cash and cash equivalents, internally generated funds and our credit facilities, under which facilities we have $1.5 billion available as of the period ended January 31, 2026, are adequate to meet our operating needs for the foreseeable future. Our 2.25% ten-year Notes due September 2026 will mature during our third quarter of fiscal 2027 and are included within our current maturities of long-term debt. For further information, see Note J—Long-Term Debt and Credit Lines of Notes to Consolidated Financial Statements.
+As of January 31, 2026, we held $6.2 billion in cash. Approximately $2 billion of our cash was held by our foreign subsidiaries with $1.5 billion held in countries where we have indefinitely reinvested the undistributed earnings and are evaluating this assertion with regard to future earnings of certain foreign subsidiaries. We have provided for and recorded a deferred tax liability for all applicable taxes on undistributed earnings of our foreign subsidiaries that are not indefinitely reinvested through January 31, 2026. If we repatriate cash from such subsidiaries, we should not incur additional tax expense and our cash would be reduced by the amount of withholding taxes paid.
+We monitor debt financing markets on an ongoing basis and from time to time may incur additional long-term indebtedness depending on prevailing market conditions, liquidity requirements, existing economic conditions and other factors. Periodically, we have used, and in the future we may again use, operating cash flow and cash on hand to repay portions of our indebtedness, depending on prevailing market conditions, liquidity requirements, existing economic conditions, contractual restrictions and other factors. As such, we may, from time to time, seek to retire, redeem, prepay or purchase our outstanding debt through redemptions, cash purchases, prepayments, refinancings and/or exchanges, in open market purchases, privately negotiated transactions, by tender offer or otherwise.
+Operating Activities
+Net cash provided by operating activities was $6.9 billion in fiscal 2026 and $6.1 billion in fiscal 2025. Our operating cash flows increased by $758 million compared to fiscal 2025 primarily due to an increase in net income and an increase in accrued expenses reflecting higher incentive compensation costs. This was partially offset by an increase in merchandise inventories net of accounts payable.
+Investing Activities
+Investing activities resulted in net cash outflows of $2 billion in fiscal 2026 and $2.5 billion in fiscal 2025. The cash outflows for both periods were primarily driven by capital expenditures. In addition, fiscal 2025 cash outflows include the purchase of our equity method investments related to our joint venture with Grupo Axo and a minority ownership position in BFL.
+Net cash used in investing activities include capital expenditures for the last two fiscal years as set forth in the table below:
+  
+Fiscal Year Ended
+In millions
+January 31,
+2026
+February 1,
+2025
+New stores
+$
+185
+ 
+$
+176 
+Store renovations and improvements
+921
+ 
+788 
+Office and distribution centers
+851
+ 
+954 
+Total capital expenditures
+$
+1,957
+ 
+$
+1,918 
+We expect our capital expenditures in fiscal 
+2027
+ will be in the range of approximately 
+$2.2 billion
+ to
+ $2.3 billion to support growth, 
+including 
+approximately $1 billion for store renovations, approximately
+ 
+$992 million for our offices and distribution centers (including information technology systems) and approximately $222 million 
+for new stores. We plan to fund these expenditures with our existing cash balances and through internally generated funds.
+Financing Activities
+Net cash used in financing activities resulted in net cash outflows of $4.1 billion in fiscal 2026 compared to net cash outflows of $3.8 billion in fiscal 2025. The cash outflows for both periods were primarily driven by equity repurchases and dividend payments.
+37
+Equity
+Under our stock repurchase program, we paid $2.5 billion to repurchase and retire 18.5 million shares of our stock in fiscal 2026. We paid $2.5 billion to repurchase and retire 22.3 million shares of our stock in fiscal 2025.
+In February 2026, we announced that in January 2026 our Board of Directors had approved a new stock repurchase program that authorizes the repurchase of up to an additional $3 billion of our common stock from time to time. We currently plan to repurchase approximately $2.5 billion to $2.75 billion of stock under our stock repurchase programs in fiscal 2027. We determine the timing and amount of repurchases based on our assessment of various factors including excess cash flow, liquidity, economic and market conditions, our assessment of prospects for our business, legal requirements, and other factors. The timing and amount of these purchases may change. As of January 31, 2026, approximately $4.1 billion remained available under our existing stock repurchase programs. For further information regarding equity repurchases, see Note D—Capital Stock and Earnings Per Share of Notes to Consolidated Financial Statements.
+Dividends
+We declared quarterly dividends on our common stock which totaled $1.70 per share in fiscal 2026 and $1.50 per share in fiscal 2025. Cash payments for dividends on our common stock totaled $1.8 billion for fiscal 2026 and $1.6 billion for fiscal 2025. We expect to pay quarterly dividends for fiscal 2027 of $0.48 per share, or an annual dividend of $1.92 per share, subject to the declaration and approval by our Board of Directors. This would represent a 13% increase over the per share dividends declared and paid in fiscal 2026.
+Contractual Obligations 
+See the descriptions of our financing arrangements, commitments and contingencies, and contractual obligations outlined below and within the following Notes to Consolidated Financial Statements. 
+–
+See Note J—Long-Term Debt and Credit Lines of Notes to Consolidated Financial Statements for future payments under long-term debt arrangements (including current installments).
+–
+See Note L—Leases of Notes to Consolidated Financial Statements. Operating lease liabilities exclude legally binding minimum lease payments for approximately 180 leases signed but not yet commenced and include options to extend lease terms that are now deemed reasonably certain of being exercised according to our Lease Accounting Policy. The balances do not include variable costs for insurance, real estate taxes, other operating expenses and, in some cases, rent payments based on a percentage of sales; these items totaled approximately one-third of the total minimum rent for fiscal 2026.
+–
+See Note M—Accrued Expenses and Other Liabilities, Current and Long-Term of Notes to Consolidated Financial Statements for long-term liabilities for which it is not reasonably possible for us to predict when they may be paid, which includes $835 million for employee compensation and benefits and $229 million for uncertain tax positions.
+–
+We also have non-cancellable purchase obligations under purchase orders for merchandise and under agreements for capital items, products and services used in our business, including executive employment and other agreements.
+CRITICAL ACCOUNTING ESTIMATES 
+We prepare our Consolidated Financial Statements in accordance with GAAP which requires us to make certain estimates and judgments that impact our reported results. These judgments and estimates are based on historical experience and other factors which we continually review and believe are reasonable. We consider our most critical accounting estimates, involving uncertainty requiring management estimates and judgments, to be those relating to the areas described below.
+Inventory Valuation
+We use the retail method for valuing inventory for all our businesses except TK Maxx in Australia. The businesses that utilize the retail method have some inventory that is initially valued at cost before the retail method is applied as it has not been fully processed for sale (i.e. inventory in transit and unprocessed inventory in our distribution centers). Under the retail method, the cost value of inventory and gross margins are determined by calculating a cost-to-retail ratio and applying it to the retail value of inventory. It involves management estimates with regard to markdowns and inventory shrinkage. Under the retail method, permanent markdowns are reflected in inventory valuation when the price of an item is reduced. We have a specific policy as to when and how markdowns are to be taken, greatly reducing management’s discretion and the need for management estimates as to markdowns. Inventory shrinkage requires estimating a shrinkage rate for interim periods; however, we take a full physical inventory near the fiscal year-end to determine shrinkage at year-end. We do not generally enter into arrangements with vendors that provide for rebates and allowances that could ultimately affect the value of inventory.
+38
+Reserves for Uncertain Tax Positions
+Our income and other tax returns and reports are regularly audited by federal, state and local tax authorities in the United States and in foreign jurisdictions where we operate, and such authorities may challenge positions we take. We are engaged in various administrative and judicial proceedings in multiple jurisdictions with respect to assessments, claims, deficiencies and refunds and other tax matters, which proceedings are in various stages of negotiation, assessment, examination, litigation and settlement. The outcomes of these proceedings are uncertain. In accordance with GAAP, we evaluate our uncertain tax positions based on our understanding of the facts, circumstances and information available at the reporting date, and we accrue for exposure when we believe that it is more likely than not, based on the technical merits, that the positions we have taken will not be sustained. We adjust our unrecognized tax liability or benefit and income tax expense in the period in which the uncertain tax position is effectively settled, the statute of limitations expires for the relevant taxing authority to examine the tax position, or when new information becomes available.
+Loss Contingencies
+Certain conditions may exist as of the date the Consolidated Financial Statements are issued that may result in a loss to us but will not be resolved until one or more future events occur or fail to occur. Our management, with the assistance of our legal counsel, assesses such contingent liabilities. Such assessments inherently involve the exercise of judgment. In assessing loss contingencies related to legal proceedings that are pending against us or claims that may result in such proceedings, our legal counsel assists us in evaluating the perceived merits of any legal proceedings or claims as well as the perceived merits of the relief sought or expected to be sought therein.
+If the assessment of a contingency indicates that it is probable that a material loss has been incurred and the amount of the liability can be reasonably estimated, we will accrue for the estimated liability in the Consolidated Financial Statements. If the assessment indicates that a potentially material loss contingency is not probable, but is reasonably possible, or is probable but cannot be reasonably estimated, we will disclose the nature of the contingent liability, together with an estimate of the range of the possible loss or a statement that such loss is not reasonably estimable.
+RECENTLY ISSUED ACCOUNTING PRONOUNCEMENTS
+For a discussion of any new accounting pronouncements, see Note A—Basis of Presentation and Summary of Accounting Policies of Notes to Consolidated Financial Statements included in this annual report on Form 10-K, including the dates of adoption and estimated effects on our results of operations, financial position or cash flows. We do not expect any other recently issued accounting pronouncements will have a material effect on our Consolidated Financial Statements.

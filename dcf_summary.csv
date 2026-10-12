@@ -1,0 +1,10 @@
+Ticker,Company,NOPAT Base ($B),Hist. Growth (%),Applied Growth (%),PV of FCFs ($B),Terminal Value ($B),Enterprise Value ($B)
+WMT,Walmart,23.56,3.5,3.5,101.27,287.48,388.75
+COST,Costco,9.23,10.7,10.7,48.3,156.98,205.28
+TGT,Target,4.51,-13.9,-5.0,15.21,35.75,50.96
+ROST,Ross Stores,2.14,4.7,4.7,9.5,27.59,37.09
+DG,Dollar General,1.93,-11.7,-5.0,6.52,15.33,21.85
+DLTR,Dollar Tree,1.4,-7.4,-5.0,4.73,11.12,15.85
+BBY,Best Buy,1.24,-15.2,-5.0,4.19,9.86,14.06
+M,Macy's,0.81,3.0,3.0,3.44,9.67,13.11
+KSS,Kohl's,0.57,-24.7,-5.0,1.91,4.49,6.4

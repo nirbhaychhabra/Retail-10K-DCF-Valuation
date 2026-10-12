@@ -1,0 +1,866 @@
+Item 7.   Management's Discussion and Analysis of Financial Condition and Results of Operations
+Executive Overview
+In 2025, we operated in a dynamic and uncertain environment characterized by cautious consumers who remained value-focused and selective in discretionary spending along with unprecedented tariff volatility.
+Against this backdrop, we took decisive actions to strengthen our business and position Target for long-term growth with a clear strategic focus around four priorities: leading with merchandising authority; elevating the guest experience; accelerating technology; and strengthening team and communities. During 2025, we:
+•
+Took action on our initiative to transform various aspects of our business, including organizational simplification to streamline decision-making, reduce complexity, and drive efficiency; 
+•
+Advanced the multi-year transformation of our Hardlines business into "Fun 101", an evolution in bringing greater cultural relevance and style authority to the assortment;
+•
+Continued innovation within our owned brands portfolio, including design partnerships and collaborations across multiple categories, such as our new fresh floral owned brand, Good Little Garden, the kate spade new york x Target collection, and partnerships with celebrities including Taylor Swift and Tom Holland;
+•
+Launched Precision Plus by Roundel™, a retail media capability that improves advertising outcomes by leveraging data and AI-learning, and expanded our Target Plus third-party digital marketplace;
+•
+Leveraged our nearly 2,000-store network (including 18 new stores opened in 2025) to fulfill the vast majority of sales through stores, supporting speed and cost efficiency, with two-thirds of digital sales fulfilled through our same-day fulfillment options;
+•
+Realized significant improvements in inventory shrink throughout the year, with shrink rates reaching pre-pandemic levels;
+•
+Enhanced artificial intelligence capabilities across merchandising, planning, inventory management, and personalization, and expanded the use of AI-powered tools to simplify work for store and headquarters teams; and
+•
+Continued our longstanding commitment to community engagement and giving, including giving 5 percent of profit to communities, as well as over 1 million team member volunteer hours annually.
+Business Environment
+Beginning in 2025, the U.S. imposed a variety of additional tariffs on a wide range of imported products using various legal authorities, including IEEPA. Those additional tariffs were subsequently modified through incremental increases, decreases, pauses, and limited exemptions. Approximately one-half of the merchandise we offer is sourced from outside the U.S., either directly or through our vendors, with China as the single largest source of merchandise we import. 
+On February 20, 2026, the U.S. Supreme Court ruled that tariffs imposed under IEEPA were not authorized by the statute. The ruling does not establish a refund process, and significant uncertainty remains regarding how and when any amounts may be recovered. We are evaluating the ruling and potential actions available to us. Because the process, timing, and amount of any recovery are uncertain, we are unable to estimate the financial effects, if any, at this time. The ultimate resolution of this matter could materially affect our consolidated financial position, results of operations, and cash flows.
+We are closely monitoring the evolving consumer and regulatory landscape, including new tariffs announced in February 2026 in response to the U.S. Supreme Court ruling on IEEPA tariffs, and adjusting plans as needed. The collective interaction of tariffs, sourcing strategies, pricing actions, consumer response and behaviors, and other factors, could materially impact our sales and results of operations in future periods.
+TARGET CORPORATION
+2025 Form 10-K
+27
+MANAGEMENT'S DISCUSSION AND ANALYSIS
+Table of Contents
+EXECUTIVE OVERVIEW & FINANCIAL SUMMARY
+Index to Financial Statements
+Business Transformation Initiatives
+In 2025, we announced a multi-year initiative to transform various aspects of our business—including our organizational structure, processes, and technology—to enable greater agility and optimize the use of the Company's assets. We incurred costs and charges related to our business transformation initiatives in 2025, including a reduction in our headquarters workforce. 
+Note 7
+ to the Financial Statements provides additional information.
+We may incur additional business transformation costs and charges in future periods, which may adversely affect our results of operations and financial condition; however, we cannot reasonably estimate the amount of such costs and charges at this time.
+Financial Summary
+Fiscal 2025 included the following notable items:
+•
+GAAP diluted earnings per share were $8.13 and Adjusted EPS
+1
+ were $7.57.
+•
+Net Sales were $104.8 billion, a decrease of $1.8 billion, or 1.7 percent, from the prior year.
+•
+Comparable sales decreased 2.6 percent, driven by a 2.2 percent decrease in traffic and a 0.4 percent decrease in average transaction amount.
+•
+Operating income of $5.1 billion and Adjusted operating income
+1
+ of $4.8 billion were 8.1 percent and 14.2 percent lower, respectively, than the prior-year.
+•
+We recognized $593 million of net gains related to settlements of credit card interchange fee litigation matters.
+•
+We incurred $250 million of costs related to business transformation initiatives.
+Earnings Per Share
+ 
+ 
+ 
+Percent Change
+2025
+2024
+2023 
+(a)
+2025/2024
+2024/2023
+GAAP diluted earnings per share 
+$
+8.13 
+$
+8.86 
+$
+8.94 
+(8.2)
+%
+(0.9)
+%
+Total adjustments
+(0.56)
+— 
+— 
+ 
+ 
+Adjusted diluted earnings per share 
+1
+$
+7.57 
+$
+8.86 
+$
+8.94 
+(14.5)
+%
+(0.9)
+%
+Note:  Amounts may not foot due to rounding.
+1
+Adjusted diluted earnings per share (Adjusted EPS) and Adjusted operating income, non-GAAP metrics, exclude the impact of certain items. Management believes that Adjusted EPS and Adjusted operating income are useful in providing period-to-period comparisons of the results of our operations. A reconciliation of non-GAAP financial measures to GAAP measures is provided on 
+page 32
+.
+(a)
+2023 consisted of 53 weeks compared with 52 weeks in 2025 and 2024.
+We report after-tax return on invested capital (ROIC) because we believe ROIC provides a meaningful measure of our capital allocation effectiveness over time. For the trailing twelve months ended January 31, 2026, after-tax ROIC was 13.8 percent, compared to 15.4 percent for the trailing twelve months ended February 1, 2025. The calculation of ROIC is provided on 
+page 34
+.
+TARGET CORPORATION
+2025 Form 10-K
+28
+MANAGEMENT'S DISCUSSION AND ANALYSIS
+Table of Contents
+ANALYSIS OF OPERATIONS
+Index to Financial Statements
+Analysis of Results of Operations
+Summary of Operating Income
+ 
+ 
+ 
+Percent Change
+(dollars in millions)
+2025
+2024
+2023
+(a)
+2025/2024
+2024/2023
+Net sales
+$
+104,780 
+$
+106,566 
+$
+107,412 
+(1.7)
+%
+(0.8)
+%
+Cost of sales
+75,511 
+76,502 
+77,828 
+(1.3)
+(1.7)
+SG&A expenses
+21,535 
+21,969 
+21,462 
+(2.0)
+2.4 
+Depreciation and amortization (exclusive of depreciation included in cost of sales)
+2,617 
+2,529 
+2,415 
+3.5 
+4.7 
+Operating income
+$
+5,117 
+$
+5,566 
+$
+5,707 
+(8.1)
+%
+(2.5)
+%
+Adjusted SG&A expenses 
+(b)
+$
+21,877 
+$
+21,969 
+$
+21,462 
+(0.4)
+%
+2.4 
+%
+Adjusted operating income 
+(b)
+4,775 
+5,566 
+5,707 
+(14.2)
+(2.5)
+Rate Analysis
+2025
+2024
+2023
+(a)
+Gross margin rate
+27.9 
+%
+28.2 
+%
+27.5 
+%
+SG&A expense rate
+20.6 
+20.6 
+20.0 
+Adjusted SG&A expense rate 
+(b)
+20.9 
+20.6 
+20.0 
+Depreciation and amortization (exclusive of depreciation included in cost of sales) expense rate
+2.5 
+2.4 
+2.2 
+Operating income margin rate
+4.9 
+5.2 
+5.3 
+Adjusted operating income margin rate 
+(b)
+4.6 
+5.2 
+5.3 
+Note: Gross margin is calculated as Net Sales less Cost of Sales. All rates are calculated by dividing the applicable amount by Net Sales.
+(a)
+2023 consisted of 53 weeks compared with 52 weeks in 2025 and 2024.
+(b)
+Adjusted SG&A expenses, Adjusted SG&A expense rate, Adjusted operating income, and Adjusted operating income margin rate, which are non-GAAP measures, exclude the impact of certain items. Management believes that these measures are useful in providing period-to-period comparisons of the results of our operations. A reconciliation of non-GAAP financial measures to GAAP measures is provided on 
+page 32
+.
+A discussion regarding Analysis of Results of Operations and Analysis of Financial Condition for 2024, as compared to 2023, is included in Part II, Item 7, MD&A
+ 
+to our 
+Annual Report on Form 10-K for the year ended February 1, 2025
+.
+TARGET CORPORATION
+2025 Form 10-K
+29
+MANAGEMENT'S DISCUSSION AND ANALYSIS
+Table of Contents
+ANALYSIS OF OPERATIONS
+Index to Financial Statements
+Net Sales
+Net Sales includes Merchandise Sales and revenues from other sources, most notably advertising revenue and credit card profit-sharing income. 
+Note 2
+ to the Financial Statements provides more information.
+Merchandise Sales are net of expected returns, and our estimate of gift card breakage. 
+Note 2
+ to the Financial Statements defines gift card "breakage." We use comparable sales to evaluate the performance of our stores and digital channels by measuring the change in sales for a period over the comparable, prior-year period of equivalent length. Comparable sales include all Merchandise Sales, except sales from stores open less than 13 months or that have been closed. Comparable sales measures vary across the retail industry. As a result, our comparable sales calculation is not necessarily comparable to similarly titled measures reported by other companies. Digitally originated sales include all Merchandise Sales initiated through mobile/computer applications and our websites. Our stores fulfill the majority of digitally originated sales, including shipment from stores to guests, store Order Pickup or Drive Up, and Same-Day Delivery. Digitally originated sales may also be fulfilled through our distribution centers, our vendors, or other third parties.
+Merchandise Sales growth – from both comparable sales and new stores – represents an important driver of our long-term profitability. We expect that comparable sales growth will drive a significant portion of our total sales growth. We believe that our ability to successfully differentiate our guests’ shopping experience through a careful combination of merchandise assortment, price, convenience, guest experience, and other factors will over the long-term drive both increasing shopping frequency (number of transactions, or "traffic") and the amount spent each visit (average transaction amount).
+The extra week in 2023 contributed $1.7 billion to Net Sales.
+Comparable Sales
+2025
+2024
+2023
+Comparable sales change
+(2.6)
+%
+0.1 
+%
+(3.7)
+%
+Drivers of change in comparable sales
+ 
+ 
+ 
+Number of transactions (traffic)
+(2.2)
+1.4 
+(2.4)
+Average transaction amount
+(0.4)
+(1.3)
+(1.4)
+Comparable Sales by Channel
+2025
+2024
+2023
+Stores originated comparable sales change
+(4.0)
+%
+(1.6)
+%
+(3.5)
+%
+Digitally originated comparable sales change
+3.1 
+7.5 
+(4.8)
+Merchandise Sales by Channel
+2025
+2024
+2023
+Stores originated
+79.4 
+%
+80.4 
+%
+81.7 
+%
+Digitally originated
+20.6 
+19.6 
+18.3 
+Total
+100 
+%
+100 
+%
+100 
+%
+Merchandise Sales by Fulfillment Channel
+2025
+2024
+2023
+Stores
+97.6 
+%
+97.6 
+%
+97.4 
+%
+Other
+2.4 
+2.4 
+2.6 
+Total
+100 
+%
+100 
+%
+100 
+%
+Note:  Merchandise Sales fulfilled by stores include in-store purchases and digitally originated sales fulfilled by shipping merchandise from stores to guests, Order Pickup, Drive Up, and Same-Day Delivery.
+Part I, Item 1, Business of this Form 10-K
+ and 
+Note 2
+ to the Financial Statements provides additional product category sales information. The collective interaction of a broad array of macroeconomic, competitive, and consumer behavioral factors, as well as sales mix, and transfer of sales between stores and within different channels makes further analysis of sales metrics infeasible.
+ 
+TARGET CORPORATION
+2025 Form 10-K
+30
+MANAGEMENT'S DISCUSSION AND ANALYSIS
+Table of Contents
+ANALYSIS OF OPERATIONS & OTHER PERFORMANCE FACTORS
+Index to Financial Statements
+Store Data
+Change in Number of Stores
+2025
+2024
+Beginning store count
+1,978 
+1,956 
+Opened
+18 
+23 
+Closed
+(1)
+(1)
+Ending store count
+1,995 
+1,978 
+Number of Stores and
+Retail Square Feet
+Number of Stores
+Retail Square Feet
+ 
+(a)
+January 31, 2026
+February 1, 2025
+January 31, 2026
+February 1, 2025
+170,000 or more sq. ft.
+273 
+273 
+48,824 
+48,824 
+50,000 to 169,999 sq. ft.
+1,576 
+1,559 
+197,274 
+195,050 
+49,999 or less sq. ft.
+146 
+146 
+4,420 
+4,404 
+Total
+1,995 
+1,978 
+250,518 
+248,278 
+(a)
+In thousands; reflects total square feet less office, distribution center, and vacant space.
+Gross Margin (GM) Rate
+Our gross margin rate was 27.9 percent in 2025 and 28.2 percent in 2024. The decrease reflected the net impact of: 
+•
+merchandising activities, including higher markdown rates and purchase order cancellation costs, partially offset by growth in advertising and other revenues; 
+•
+changes in category sales mix; and 
+•
+lower inventory shrink.
+Selling, General and Administrative (SG&A) Expense Rate
+Our SG&A expense rate was 20.6 percent in 2025, consistent with 2024. The 2025 rate included a 0.6 percentage point benefit from interchange fee settlements, partially offset by 0.2 percentage points of business transformation costs. Excluding these items, our Adjusted SG&A expense rate was 20.9 percent in 2025, compared with 20.6 percent in 2024, reflecting the deleveraging impact of lower Net Sales and the net impact of other costs.
+TARGET CORPORATION
+2025 Form 10-K
+31
+MANAGEMENT'S DISCUSSION AND ANALYSIS
+Table of Contents
+ANALYSIS OF OPERATIONS & OTHER PERFORMANCE FACTORS
+Index to Financial Statements
+Other Performance Factors
+Net Interest Expense
+Net interest expense was $445 million for 2025, compared with $411 million for 2024. The increase in net interest expense was primarily due to higher average debt levels.
+Provision for Income Taxes
+Our 2025 effective income tax rate was 22.3 percent compared with 22.2 percent in 2024. The increase reflects global minimum taxes and discrete tax expense in the current year related to share-based compensation, primarily offset by benefits from tax credits.
+Reconciliation of Non-GAAP Financial Measures to GAAP Measures
+To provide additional transparency, we have disclosed non-GAAP adjusted diluted earnings per share (Adjusted EPS), adjusted SG&A expenses, adjusted SG&A expense rate, adjusted operating income, and adjusted operating income margin rate. These measures exclude certain items presented below. We believe this information is useful in providing period-to-period comparisons of the results of our operations. These measures are not in accordance with, or an alternative to, generally accepted accounting principles in the U.S. (GAAP). The most comparable GAAP measures are diluted earnings per share, SG&A expenses, SG&A expense rate, operating income, and operating income margin rate. Adjusted EPS, adjusted SG&A expenses, adjusted SG&A expense rate, adjusted operating income, and adjusted operating income margin rate should not be considered in isolation or as a substitution for analysis of our results as reported in accordance with GAAP. Other companies may calculate these measures differently, or not provide similar measures, limiting the usefulness of the measures for comparisons with other companies.
+Reconciliation of Non-GAAP 
+Adjusted EPS
+2025
+2024
+2023 
+(a)
+(millions, except per share data)
+Pretax
+Net of Tax
+Per Share Amounts
+Pretax
+Net of Tax
+Per Share Amounts
+Pretax
+Net of Tax
+Per Share Amounts
+GAAP diluted earnings per share
+$
+8.13 
+$
+8.86 
+$
+8.94 
+Adjustments
+Business transformation costs 
+(b)
+$
+250 
+$
+187 
+$
+0.41 
+$
+— 
+$
+— 
+$
+— 
+$
+— 
+$
+— 
+$
+— 
+Interchange fee settlements 
+(c)
+(593)
+(441)
+(0.97)
+— 
+— 
+— 
+— 
+— 
+— 
+Adjusted diluted earnings per share
+$
+7.57 
+$
+8.86 
+$
+8.94 
+Note:  Amounts may not foot due to rounding.
+(a)
+2023 consisted of 53 weeks compared with 52 weeks in 2025 and 2024.
+(b)
+Note 7
+ to the Financial Statements provides additional information.
+(c)
+Note 6
+ to the Financial Statements provides additional information.
+TARGET CORPORATION
+2025 Form 10-K
+32
+MANAGEMENT'S DISCUSSION AND ANALYSIS
+Table of Contents
+RECONCILIATION OF NON-GAAP FINANCIAL MEASURES
+Index to Financial Statements
+Adjustments Affecting Comparability
+2025
+2024
+2023
+SG&A Expenses
+Operating Income
+SG&A Expenses
+Operating Income
+SG&A Expenses
+Operating Income
+(dollars in millions)
+Dollars
+Rate 
+(a)
+Dollars
+Rate 
+(a)
+Dollars
+Rate 
+(a)
+Dollars
+Rate 
+(a)
+Dollars
+Rate 
+(a)
+Dollars
+Rate 
+(a)
+Reported, GAAP measure
+$
+21,535 
+20.6 
+%
+$
+5,117 
+4.9 
+%
+$21,969
+20.6 
+%
+$5,566
+5.2 
+%
+$21,462
+20.0 
+%
+$5,707
+5.3 
+%
+Adjustments affecting comparability
+Business transformation costs 
+(b)
+$
+(250)
+(0.2)
+%
+$
+250 
+0.2 
+%
+$
+— 
+— 
+%
+$
+— 
+— 
+%
+$
+— 
+— 
+%
+$
+— 
+— 
+%
+Interchange fee settlements 
+(c)
+593 
+0.6 
+(593)
+(0.6)
+— 
+— 
+— 
+— 
+— 
+— 
+— 
+— 
+Adjusted, Non-GAAP measure
+$
+21,877 
+20.9 
+%
+$
+4,775 
+4.6 
+%
+$21,969
+20.6 
+%
+$5,566
+5.2 
+%
+$21,462
+20.0 
+%
+$5,707
+5.3 
+%
+Note:  Amounts may not foot due to rounding.
+(a)
+Rates are calculated by dividing the applicable amount by Net Sales.
+(b)
+Note 7
+ provides additional information.
+(c)
+Note 6
+ provides additional information.
+TARGET CORPORATION
+2025 Form 10-K
+33
+MANAGEMENT'S DISCUSSION AND ANALYSIS
+Table of Contents
+RECONCILIATION OF NON-GAAP FINANCIAL MEASURES
+Index to Financial Statements
+We have also disclosed after-tax ROIC, which is a ratio based on GAAP information, with the exception of the add-back of operating lease interest to operating income. We believe this metric is useful in assessing the effectiveness of our capital allocation over time. Other companies may calculate ROIC differently, limiting the usefulness of the measure for comparisons with other companies.
+After-Tax Return on Invested Capital 
+(dollars in millions)
+Trailing Twelve Months
+Numerator
+January 31, 2026
+February 1, 2025
+Operating income
+$
+5,117 
+$
+5,566 
+ + Net other income
+95 
+106 
+EBIT
+5,212 
+5,672 
+ + Operating lease interest 
+(a)
+172 
+159 
+ - Income taxes 
+(b)
+1,199 
+1,297 
+Net operating profit after taxes
+$
+4,185
+ 
+$
+4,534
+ 
+Denominator
+January 31, 2026
+February 1, 2025
+February 3, 2024
+Current portion of long-term debt and other borrowings
+$
+2,130 
+$
+1,636 
+$
+1,116 
+ + Noncurrent portion of long-term debt
+14,326 
+14,304 
+14,922 
+ + Shareholders' investment
+16,165 
+14,666 
+13,432 
+ + Operating lease liabilities 
+(c)
+3,834 
+3,935 
+3,608 
+ - Cash and cash equivalents
+5,488 
+4,762 
+3,805 
+Invested capital
+$
+30,967 
+$
+29,779 
+$
+29,273 
+Average invested capital 
+(d)
+$
+30,373
+ 
+$
+29,526
+ 
+After-tax return on invested capital 
+(e)
+13.8
+ 
+%
+15.4
+ 
+%
+(a)
+Represents the add-back to operating income driven by the hypothetical interest expense we would incur if the property under our operating leases were owned or accounted for as finance leases. Calculated using the discount rate for each lease and recorded as a component of rent expense within Operating Income. Operating lease interest is added back to Operating Income in the ROIC calculation to control for differences in capital structure between us and our competitors.
+(b)
+Calculated using the effective tax rates, which were 22.3 percent and 22.2 percent for the trailing twelve months ended January 31, 2026, and February 1, 2025, respectively. For the trailing twelve months ended January 31, 2026, and February 1, 2025, includes tax effect of $1.2 billion and $1.3 billion, respectively, related to EBIT, and $38 million and $35 million, respectively, related to operating lease interest.
+(c)
+Total short-term and long-term operating lease liabilities included within Accrued and Other Current Liabilities and Noncurrent Operating Lease Liabilities.
+(d)
+Average based on the invested capital at the end of the current period and the invested capital at the end of the comparable prior period.
+(e)
+For the trailing twelve months ended January 31, 2026, includes the impact of after-tax net gains on interchange fee settlements and business transformation costs, which had a net favorable impact on after-tax ROIC of 0.8 percentage points. 
+Notes 6
+ and 
+7
+ to the Financial Statements provide additional information.
+TARGET CORPORATION
+2025 Form 10-K
+34
+MANAGEMENT'S DISCUSSION AND ANALYSIS
+Table of Contents
+ANALYSIS OF FINANCIAL CONDITION
+Index to Financial Statements
+Analysis of Financial Condition
+Liquidity and Capital Resources
+Capital Allocation
+We follow a disciplined and balanced approach to capital allocation based on the following priorities, ranked in order of importance: first, we fully invest in opportunities to profitably grow our business, create sustainable long-term value, and maintain our current operations and assets; second, we maintain a competitive quarterly dividend and seek to grow it annually; and finally, we return any excess cash to shareholders by repurchasing shares within the limits of our credit rating goals.
+Our year-end cash and cash equivalents balance increased to $5.5 billion from $4.8 billion in 2024. Our cash and cash equivalents balance includes short-term investments of $4.6 billion and $3.9 billion as of January 31, 2026, and February 1, 2025, respectively. Our investment policy is designed to preserve principal and liquidity of our short-term investments. This policy allows investments in large money market funds or in highly rated direct short-term instruments that mature in 60 days or less. We also place dollar limits on our investments in individual funds or instruments.
+Operating Cash Flows
+Cash flows provided by operating activities were $6.6 billion in 2025 compared with $7.4 billion in 2024. The operating cash flow decrease reflects lower net earnings, as well as the net impact of lower accounts payable leverage and inventory purchases in the current year.
+Inventory
+Year-end inventory was $12.3 billion in 2025, compared with $12.7 billion in 2024. The decrease reflects the combined impact of timing of receipts and alignment of inventory with sales trends, partially offset by higher merchandise costs in 2025.
+TARGET CORPORATION
+2025 Form 10-K
+35
+MANAGEMENT'S DISCUSSION AND ANALYSIS
+Table of Contents
+ANALYSIS OF FINANCIAL CONDITION
+Index to Financial Statements
+Capital Expenditures
+Note:  Amounts may not foot due to rounding.
+Capital expenditures in 2025 reflect continued investment in our strategic initiatives, including investments in both stores and in our supply chain, enhancing our capabilities and guest experience across stores and digital channels. The increase in capital expenditures in 2025 compared with 2024 primarily reflects an increased investment in both new stores and remodels.
+We expect capital expenditures in 2026 of approximately $5 billion to support our store experience and remodel program, continued investment in supply chain and technology projects, and investment in new stores. We expect to open about 30 new stores during 2026.
+Dividends
+We paid dividends totaling $2.1 billion ($4.52 per share) in 2025 and $2.0 billion ($4.44 per share) in 2024, a per share increase of 1.8 percent. We declared dividends totaling $2.1 billion ($4.54 per share) in 2025 and $2.1 billion ($4.46 per share) in 2024, a per share increase of 1.8 percent. We have paid dividends every quarter since our 1967 initial public offering, and it is our intent to continue to do so in the future.
+Share Repurchases
+During 2025 and 2024, we deployed $0.4 billion and $1.0 billion to repurchase shares. See 
+Part II
+, 
+Item 5
+, 
+Market for the Registrant's Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities
+ of this Annual Report on Form 10-K and 
+Note 22
+ to the Financial Statements for more information.
+TARGET CORPORATION
+2025 Form 10-K
+36
+MANAGEMENT'S DISCUSSION AND ANALYSIS
+Table of Contents
+ANALYSIS OF FINANCIAL CONDITION
+Index to Financial Statements
+Financing
+Our financing strategy is to ensure liquidity and access to capital markets, to maintain a balanced spectrum of debt maturities, and to manage our net exposure to floating interest rate volatility. Within these parameters, we seek to minimize our borrowing costs. Our ability to access the long-term debt and commercial paper markets has provided us with ample sources of liquidity. Our continued access to these markets depends on multiple factors, including the condition of debt capital markets, our operating performance, and maintaining strong credit ratings. As of January 31, 2026, our credit ratings were as follows:
+Credit Ratings
+Moody's
+S&P
+Fitch
+Long-term debt
+A2
+A
+A
+Commercial paper
+P-1
+A-1
+F1
+If our credit ratings were lowered, our ability to access the debt markets, our cost of funds, and other terms for new debt issuances could be adversely impacted. Each of the credit rating agencies reviews its rating periodically, and there is no guarantee our current credit ratings will remain the same as described above.
+We issued $1.0 billion of unsecured debt in both March and June 2025, and repaid $1.5 billion of unsecured debt in April 2025. 
+Note 17
+ 
+to the Financial Statements provides additional information.
+We have the ability to obtain short-term financing from time to time under our commercial paper program and credit facilities. In October 2025, we obtained a new committed $1.0 billion 364-day unsecured revolving credit facility that will expire in October 2026 and terminated our prior 364-day credit facility. This credit facility and our $3.0 billion unsecured revolving credit facility that will expire in October 2028 provide a liquidity backstop to our commercial paper program. No balances were outstanding under either credit facility or our commercial paper program at any time during 2025 or 2024. 
+Most of our long-term debt obligations contain covenants related to secured debt levels. In addition to a secured debt level covenant, our credit facilities also contain a debt leverage covenant. We are, and expect to remain, in compliance with these covenants. Additionally, as of January 31, 2026, no notes or debentures contained provisions requiring acceleration of payment upon a credit rating downgrade, except that certain outstanding notes allow the note holders to put the notes to us if within a matter of months of each other we experience both (i) a change in control and (ii) our long-term credit ratings are either reduced and the resulting rating is non-investment grade, or our long-term credit ratings are placed on watch for possible reduction and those ratings are subsequently reduced and the resulting rating is non-investment grade.
+Note 17
+ to the Financial Statements provides additional information.
+Future Cash Requirements
+We enter into contractual obligations in the ordinary course of business that may require future cash payments. Such obligations include, but are not limited to, purchase commitments, debt service, leasing arrangements, and liabilities related to deferred compensation and pensions. The 
+Notes to the Consolidated Financial Statements
+ provide additional information. 
+We believe our sources of liquidity, namely operating cash flows, credit facility capacity, and access to capital markets, will continue to be adequate to meet our contractual obligations, working capital and capital expenditure requirements, finance anticipated expansion and strategic initiatives, fund debt maturities, pay dividends, and execute purchases under our share repurchase program for the foreseeable future.
+TARGET CORPORATION
+2025 Form 10-K
+37
+MANAGEMENT'S DISCUSSION AND ANALYSIS
+Table of Contents
+ANALYSIS OF FINANCIAL CONDITION
+Index to Financial Statements
+Critical Accounting Estimates
+Our consolidated financial statements are prepared in accordance with GAAP, which requires us to make estimates and apply judgments that affect the reported amounts. In the 
+Notes to the Consolidated Financial Statements
+, we describe the significant accounting policies used in preparing the consolidated financial statements. Our management has discussed the
+ development, selection, and disclosure of our critical accounting estimates with the Audit & Risk Committee of our Board 
+of Directors. The following items require significant estimation or judgment:
+Inventory and cost of sales:
+    The vast majority of our inventory is accounted for under the retail inventory accounting method using the last-in, first-out method (LIFO). Our inventory is valued at the lower of LIFO cost or market. We reduce inventory for estimated losses related to shrink and markdowns. Our shrink estimate is based on historical losses and is adjusted to reflect results of actual physical inventory counts. We generally perform counts at each location annually, with counts taking place throughout the year. A 10 percent increase or decrease in our 2025 year-end inventory shrink reserve would impact our cost of sales by approximately $110 million. Historically, our actual physical inventory count results have shown our estimates to be reasonably accurate. Market adjustments for markdowns are recorded when the salability of the merchandise has diminished. Salability can be impacted by consumer preferences and seasonality, among other factors. We believe the risk of inventory obsolescence is largely mitigated because our inventory typically turns in less than three months. Inventory was $12.3 billion and $12.7 billion as of January 31, 2026, and February 1, 2025, respectively, and is further described in 
+Note 10
+ to the Financial Statements.
+Vendor income:
+    We receive various forms of consideration from our vendors (vendor income), principally earned as a result of volume rebates, promotions, certain advertising activities, and markdown allowances. Vendor income is recorded as a reduction of cost of sales except in arrangements where the payment is a reimbursement of specific, incremental, and identifiable costs and recorded as an offset to those costs. Vendor income earned can vary based on a number of factors, including purchase volumes, sales volumes, and our pricing and promotion strategies.
+We establish a receivable for vendor income that is earned but not yet received. Based on historical trending and data, this receivable is computed by forecasting vendor income collections and estimating the amount earned. The majority of the year-end vendor income receivables are collected within the following fiscal quarter, and we do not believe there is a reasonable likelihood that the assumptions used in our estimate will change significantly. Historically, adjustments to our vendor income receivable have not been material. Vendor income receivable was $542 million and $543 million as of January 31, 2026, and February 1, 2025, respectively. Vendor income is described further in 
+Note 4
+ to the Financial Statements.
+Long-lived assets:
+    Long-lived assets are reviewed for impairment whenever events or changes in circumstances indicate that the carrying amounts may not be recoverable. The evaluation is performed primarily at the store level. An impairment loss is recognized when estimated undiscounted future cash flows from the operation and/or eventual disposition of the asset or asset group are less than its carrying amount, and is measured as the excess of its carrying amount over fair value. We estimate fair value by obtaining market appraisals, obtaining valuations from third-party brokers, or using other valuation techniques. We recorded impairments of $69 million, $68 million, and $102 million in 2025, 2024, and 2023, respectively, which are described further in 
+Note 12
+ to the Financial Statements.
+Insurance/self-insurance:
+    We retain a substantial portion of the risk related to certain general liability, workers' compensation, property loss, and team member medical and dental claims. However, we maintain stop-loss coverage to limit the exposure related to certain risks. Liabilities associated with these losses include estimates of both claims filed and losses incurred but not yet reported. We use actuarial methods which consider a number of factors to estimate our ultimate cost of losses. General liability and workers' compensation liabilities are recorded based on our estimate of their net present value; other liabilities referred to above are not discounted. Our workers' compensation and general liability accrual was $881 million and $772 million as of January 31, 2026, and February 1, 2025, respectively. We believe that the amounts accrued are appropriate; however, our liabilities could be significantly affected if future occurrences or loss developments differ from our assumptions. For example, a 10 percent increase or decrease in average claim costs would have impacted our self-insurance expense by $87 million in 2025. Historically, adjustments to our estimates have not been material. Refer to 
+Part II
+, 
+Item 7A
+, 
+Quantitative and Qualitative Disclosures About Market Risk
+, for further disclosure of the market risks associated 
+TARGET CORPORATION
+2025 Form 10-K
+38
+MANAGEMENT'S DISCUSSION AND ANALYSIS
+Table of Contents
+ANALYSIS OF FINANCIAL CONDITION & NEW ACCOUNTING PRONOUNCEMENTS
+Index to Financial Statements
+with these exposures. We maintain insurance coverage to limit our exposure to certain events, including network security matters. 
+Income taxes:
+    We pay income taxes based on the tax statutes, regulations, and case law of the various jurisdictions in which we operate. Significant judgment is required in determining the timing and amounts of deductible and taxable items, and in evaluating the ultimate resolution of tax matters in dispute with tax authorities. The benefits of uncertain tax positions are recorded in our financial statements only after determining it is more likely than not the uncertain tax positions would withstand challenge by taxing authorities. We periodically reassess these probabilities and record any changes in the financial statements as appropriate. Gross uncertain tax positions, including interest and penalties, were $468 million and $454 million as of January 31, 2026, and February 1, 2025, respectively. Although we believe our tax positions are reasonable, the resolution of these matters could be materially different from our assumptions, which would affect our consolidated results of operations and/or operating cash flows. Income taxes are described further in 
+Note 20
+ to the Financial Statements.
+Pension accounting:
+    We maintain a funded qualified defined benefit pension plan, as well as nonqualified and international pension plans that are generally unfunded, for certain current and former team members. The costs for these plans are determined based on actuarial calculations using the assumptions described in the following paragraphs. Eligibility and the level of benefits vary depending on each team member's full-time or part-time status, date of hire, age, length of service, and/or compensation. The benefit obligation and related expense for these plans are determined based on actuarial calculations using assumptions about the expected long-term rate of return, the discount rate, compensation growth rates, mortality, and retirement age. These assumptions, with adjustments made for any significant plan or participant changes, are used to determine the period-end benefit obligation and establish expense for the next year.
+Our 2025 expected long-term rate of return on plan assets of 7.20 percent was determined by the portfolio composition, historical long-term investment performance, and current market conditions. A 1 percentage point decrease in our expected long-term rate of return would increase annual expense by $38 million.
+The discount rate used to determine benefit obligations is adjusted annually based on the interest rate for long-term high-quality corporate bonds, using yields for maturities that are in line with the duration of our pension liabilities. Our benefit obligation and related expense will fluctuate with changes in interest rates. A 1 percentage point decrease in the discount rate assumption for our qualified defined benefit pension plan would increase our year-end projected benefit obligation and annual expense by $360 million and $38 million, respectively.
+Based on our experience, we use a graduated compensation growth schedule that assumes higher compensation growth for younger, shorter-service pension-eligible team members than it does for older, longer-service pension-eligible team members.
+Pension benefits are further described in 
+Note 25
+ to the Financial Statements.
+Legal and other contingencies:
+    We believe the accruals recorded in our consolidated financial statements properly reflect loss exposures that are both probable and reasonably estimable. We do not believe any of the currently identified claims or litigation will materially affect our results of operations, cash flows, or financial condition. However, litigation is subject to inherent uncertainties, and unfavorable rulings could occur. If an unfavorable ruling were to occur, it may cause a material adverse impact on the results of operations, cash flows, or financial condition for the period in which the ruling occurs, or future periods. Refer to 
+Note 16
+ to the Financial Statements for further information on contingencies.
+New Accounting Pronouncements
+We do not expect that any recently issued accounting pronouncements will have a material effect on our financial statements.
+TARGET CORPORATION
+2025 Form 10-K
+39
+MANAGEMENT'S DISCUSSION AND ANALYSIS
+Table of Contents
+FORWARD LOOKING STATEMENTS & QUANTITATIVE AND QUALITATIVE DISCLOSURES
+Index to Financial Statements
+Forward-Looking Statements
+This report contains forward-looking statements, which are based on our current assumptions and expectations. These statements are typically accompanied by the words "aim," "anticipate," "believe," "could," "expect," "may," "might," "seek," "will," "would," or similar words. The principal forward-looking statements in this report include statements regarding: our future financial and operational performance, our strategy for growth, changes in the consumer landscape, evolution in tariffs and global trade policy, the impacts of business transformation efforts, the adequacy of and costs associated with our sources of liquidity, the funding of debt maturities, the execution of our share repurchase program, our expected capital expenditures and new lease commitments, the expected compliance with debt covenants, the expected impact of new accounting pronouncements, our intentions regarding future dividends, the expected contributions and payments related to our pension plan, the expected return on plan assets, the expected timing and recognition of compensation expenses, the adequacy of our reserves for general liability, workers' compensation, and property loss, the expected outcome of, and adequacy of our reserves for, claims, litigation, and the resolution of tax matters, our expectations regarding our contractual obligations, liabilities, and vendor income, the expected ability to recognize deferred tax assets and liabilities and the timing of such recognition, our expectations regarding arrangements with our partners, and changes in our assumptions and expectations.
+All such forward-looking statements are intended to enjoy the protection of the safe harbor for forward-looking statements contained in the Private Securities Litigation Reform Act of 1995, as amended. Although we believe there is a reasonable basis for the forward-looking statements, our actual results could be materially different. The most important factors which could cause our actual results to differ from our forward-looking statements are set forth in our description of risk factors included in 
+Part I
+, 
+Item 1A
+, 
+Risk Factors
+ to this Form 10-K, which should be read in conjunction with the forward-looking statements in this report. Forward-looking statements speak only as of the date they are made, and we do not undertake any obligation to update any forward-looking statement.

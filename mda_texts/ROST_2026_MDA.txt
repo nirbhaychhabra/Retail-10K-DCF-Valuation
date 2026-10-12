@@ -1,0 +1,533 @@
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+This section and other parts of this Form 10-K contain forward-looking statements that involve risks and uncertainties. Our actual results may differ materially from the results discussed in the forward-looking statements. Factors that might cause such differences include, but are not limited to, those discussed below under the caption “Forward-Looking Statements” and also those in ITEM 1A. RISK FACTORS in this Annual Report on Form 10-K. The following discussion should be read in conjunction with the consolidated financial statements and notes thereto included elsewhere in this Annual Report on Form 10-K.
+Overview
+Ross Stores, Inc. operates two brands of off-price retail apparel and home fashion stores—Ross Dress for Less
+®
+ (“Ross”) and dd’s DISCOUNTS
+®
+. Ross is the largest off-price apparel and home fashion chain in the United States, with 1,904 locations in 44 states, the District of Columbia, Guam, and Puerto Rico as of January 31, 2026. Ross offers first-quality, in-season, brand name and designer apparel, accessories, footwear, and home fashions for the entire family at savings of 20% to 60% off department and specialty store regular prices every day. We also operate 363 dd’s DISCOUNTS stores in 22 states as of January 31, 2026 that feature a more moderately-priced assortment of first-quality, in-season apparel, accessories, footwear, and home fashions for the entire family at savings of 20% to 70% off moderate department and discount store regular prices every day.
+Fiscal Years
+The fiscal years ended January 31, 2026, February 1, 2025, and February 3, 2024 are referred to as fiscal 2025, fiscal 2024, and fiscal 2023, respectively. Fiscal 2025 and 2024 were each 52-week years. Fiscal 2023 was a 53-week year. 
+The discussion that follows relates to fiscal 2025 and fiscal 2024. Discussion of fiscal 2023 items and year-to-year comparisons between fiscal 2024 and fiscal 2023 that are not included in this Annual Report on Form 10-K can be found in Part II, Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+ 
+in our Annual Report on Form 10-K for fiscal 2024.
+Fiscal 
+2025
+ Highlights 
+Financial results for fiscal 2025 were as follows:
+•
+Sales were $22,751 million, compared to $21,129 million in fiscal 2024.
+•
+Comparable store sales increased 5%.
+•
+Operating income was $2,707 million, compared to $2,586 million in fiscal 2024.
+•
+Operating income as a percentage of sales was 11.9%, compared to 12.2% in fiscal 2024.
+•
+Net income was $2,145 million, compared to $2,091 million in fiscal 2024.
+•
+Diluted earnings per share were $6.61, compared to $6.32 in fiscal 2024.
+Key Initiatives
+Our current key initiatives include the following:
+•
+Merchandising:
+ 
+Delivering broad‑based assortments timely and offering more brands at compelling values for our customers.
+•
+Marketing:
+ 
+Advancing our marketing initiatives to further strengthen customer awareness and engagement.
+•
+Stores:
+ 
+Making meaningful improvements to the in-store shopping experience for our customers.
+While we believe these initiatives are contributing positively to our business, there remains uncertainty in the broader environment in which we operate. We continue to monitor ongoing macroeconomic factors such as tariffs, inflation, and geopolitical conditions. Our initiatives and our focus on providing merchandise that resonates with our customers remain central to supporting our efforts to drive sustainable, profitable growth.
+24
+Store Openings
+The following table summarizes the stores opened and closed during fiscal 2025, 2024, and 2023:
+Store Count
+2025
+2024
+2023
+Ross Dress for Less
+Beginning of the period
+1,831
+ 
+1,764 
+1,693 
+Opened in the period
+80
+ 
+75 
+72 
+1
+Closed in the period
+(7)
+(8)
+(1)
+Total Ross Dress for Less stores end of period
+1,904
+ 
+1,831 
+1,764 
+dd’s DISCOUNTS
+Beginning of the period
+355
+ 
+345 
+322 
+Opened in the period
+10
+ 
+14 
+25 
+Closed in the period
+(2)
+(4)
+(2)
+Total dd’s DISCOUNTS stores end of period
+363
+ 
+355 
+345 
+Total stores end of period
+2,267
+ 
+2,186 
+2,109 
+1 
+Includes the reopening of a store previously temporarily closed due to a weather event.
+The number of stores at the end of fiscal 2025, 2024, and 2023 increased by 4%, 4%, and 5% from the respective prior years. Our fiscal 2025 expansion program added 90 new stores, and included entry into new geographic markets such as Puerto Rico and the New York Metro area.
+The total selling square footage as of January 31, 2026, February 1, 2025, and February 3, 2024 was 45.1 million, 43.9 million, and 42.8 million, respectively.
+Looking forward to 2026, we expect to open approximately 110 new stores, which represents 5% growth. We are planning to open 85 Ross stores and 25 dd’s DISCOUNTS stores in 2026, which reflects the reacceleration of growth for dd’s DISCOUNTS. Our long-term strategy is to open additional stores based on market penetration, local demographic characteristics, competition, expected store profitability, and the ability to leverage overhead expenses. We continually evaluate opportunistic real estate acquisitions and opportunities for potential new store locations. We also evaluate our current store locations and determine store closures based on similar criteria. We continue to believe that customers’ focus on value and convenience supports opportunities to expand our reach and serve more customers over time.
+Sales Metrics
+Comparable store sales (“comp store sales”) is a metric used by management and across the retail industry to evaluate the performance of existing stores by measuring the change in net sales for a particular period over the comparable prior period of equivalent length. We define comp store sales to be sales from stores that have been open for 14 complete months. 
+Sales excluded from comp store sales (“non-comp store sales”) consist primarily of sales from new stores that have been open for less than 14 complete months. Non-comp store sales also include sales from stores that are permanently closed (beginning in the month prior to closure) and temporarily closed (i.e., stores that do not have sales for at least two weeks within a fiscal month).
+The calculation of comp store sales varies across the retail industry; therefore, our measure of comp store sales may differ from other retailers.
+Metrics relating to customer purchasing behavior, such as “traffic” (defined as the number of transactions) and “basket” (defined as average transaction value), may provide additional insight into our comp store sales results (see Sales discussion below).
+25
+Results of Operations
+The following table summarizes our financial results for fiscal 2025, 2024, and 2023:
+2025
+2024
+2023
+Sales
+Sales (millions)
+$
+22,751
+$
+21,129
+$
+20,377
+Sales growth
+8
+%
+4
+%
+9
+%
+Comparable store sales growth
+5
+%
+3
+%
+5
+%
+Costs and expenses (as a percent of sales)
+Cost of goods sold
+72.3
+%
+72.2%
+72.7%
+Selling, general and administrative
+15.8
+%
+15.5%
+16.0%
+Operating income (as a percent of sales)
+11.9
+%
+12.2%
+11.3%
+Interest income, net (as a percent of sales)
+(0.6)
+%
+(0.8)%
+(0.8)%
+Net earnings (as a percent of sales)
+9.4
+%
+9.9%
+9.2%
+Sales. 
+Sales for fiscal 2025 increased approximately $1,621 million, or 8%, compared to the prior year. This was primarily due to the 5% increase in comparable store sales of approximately $961 million
+ 
+and an increase in non-comparable store sales of approximately $660 million. The 5% increase in comparable store sales was driven by an approximate 3% increase in basket and 2% increase in traffic.
+Our sales mix is shown below for fiscal 2025, 2024, and 2023:
+2025
+1
+2024
+2023
+Home Accents and Bed and Bath
+26
+%
+26
+%
+26
+%
+Ladies
+22
+%
+22
+%
+23
+%
+Men’s
+15
+%
+16
+%
+15
+%
+Accessories, Lingerie, Fine Jewelry, and Cosmetics
+15
+%
+15
+%
+15
+%
+Shoes
+13
+%
+12
+%
+13
+%
+Children’s
+9
+%
+9
+%
+8
+%
+Total
+100
+%
+100
+%
+100
+%
+Cost of goods sold. 
+Cost of goods sold in fiscal 2025 increased approximately $1,187 million compared to the prior year, primarily due to the increase in sales.
+Cost of goods sold as a percentage of sales for fiscal 2025 increased approximately 10 basis points from fiscal 2024, primarily due to a 25 basis point increase in distribution costs mainly due to the deleveraging effect from the opening of our eighth distribution center in Buckeye, Arizona in May 2025. Merchandise margin decreased 20 basis points primarily due to tariff-related costs. Partially offsetting these higher costs were lower domestic freight costs of 20 basis points, lower buying costs of 10 basis points, and 5 basis points of leverage in occupancy costs.
+Selling, general and administrative expenses. 
+For fiscal 2025, selling, general and administrative expenses (“SG&A”) increased approximately $313 million compared to the prior year, primarily due to higher store-related costs.
+In December 2024, we completed the sale of a packaway warehouse facility and recognized a pre-tax gain on sale of $61.6 million. SG&A as a percentage of sales for fiscal 2025 increased 25 basis points compared to fiscal 2024, primarily due to the gain recognized from this sale in fiscal 2024.
+26
+Operating income.
+ Operating income as a percentage of sales for fiscal 2025 decreased by 35 basis points compared to fiscal 2024, as both SG&A and cost of goods sold increased as a percentage of sales period-over-period.
+We expect our operating income as a percentage of sales to be slightly higher in fiscal 2026 than in fiscal 2025, reflecting higher merchandise margin and lower distribution costs, partially offset by higher store-related costs related to our key initiatives.
+Interest income, net
+.
+ 
+In fiscal 2025, interest income, net decreased by approximately $37 million compared to fiscal 2024, primarily due to decreased interest income both from lower average interest rates and from lower average cash balances, which decreased largely due to our repayment at maturity of unsecured senior debt (“Senior Notes”) of $700 million in April 2025 and $250 million in September 2024. The decrease in interest income was partially offset by lower interest expense primarily due to the repayment of those Senior Notes.
+The table below shows the components of interest income, net for fiscal 2025, 2024, and 2023:
+($ millions)
+2025
+2024
+2023
+Interest income
+$
+(173)
+$
+(235)
+$
+(238)
+Capitalized interest
+(13)
+(20)
+(12)
+Other interest expense
+2
+ 
+2 
+2 
+Interest expense on long-term debt
+49
+ 
+81 
+84 
+Interest income, net
+$
+(135)
+$
+(172)
+$
+(164)
+Taxes on earnings. 
+Our effective tax rates for fiscal 2025, 2024, and 2023 were approximately 24.5%, 24.2%, and 24.2%, respectively. The increase in the effective tax rate compared to the prior year was primarily due to the tax effects associated with stock-based compensation. Our effective tax rate represents the applicable combined federal and state statutory rates reduced by the federal benefit of state taxes deductible on federal returns. Our effective tax rate is impacted by changes in tax law and accounting guidance, location of new stores, level of earnings, tax effects associated with stock-based compensation, and the resolution of tax positions with various tax authorities.
+In July 2025, “An Act to provide for reconciliation pursuant to title II of H. Con. Res. 14.”, also known as the “One Big Beautiful Bill Act” (“OBBBA”), was signed into law. The OBBBA made several changes to business tax provisions including the reinstatement of 100% bonus depreciation and immediate expensing of domestic research and development expenditures. These changes did not have a material impact to our consolidated financial statements in fiscal 2025.
+Earnings per share.
+ Diluted earnings per share in fiscal 2025 was 
+$6.61 compared to $6.32 in the prior year. The $0.29, or 5%, increase in diluted 
+earnings per share in fiscal 2025 was primarily attributab
+le to a 3% increase in net earnings and a 2% reduction in weighted-average diluted shares outstanding largely due to stock repurchases under our stock repurchase program.
+Fiscal 
+2025
+ earnings included an estimated unfavorable tariff-related impact of approximately
+ $0.16 per share
+. Fiscal 
+2024
+ earnings included a per share benefit of approximately $0.14 from the sale of the packaway warehouse facility.
+27
+Financial Condition
+Liquidity and Capital Resources
+The primary sources of funds for our business activities are cash flows from operations and short-term trade credit. Our primary ongoing cash requirements are for merchandise inventory purchases, payroll, operating and variable lease costs, taxes, capital expenditures related to our new and existing stores, and investments in distribution centers, information systems, and buying and corporate offices. We also use cash to repurchase stock under active stock repurchase programs, repay debt as it becomes due, and pay dividends. The $500 million principal amount of our 0.875% Senior Notes is due in April 2026. In April 2025, we repaid at maturity $700 million of Senior Notes, and in September 2024 we repaid at maturity $250 million of Senior Notes.
+($ millions)
+2025
+2024
+2023
+Cash provided by operating activities
+$
+3,027
+ 
+$
+2,357 
+$
+2,514 
+Cash used in investing activities
+(819)
+(637)
+(763)
+Cash used in financing activities
+(2,342)
+(1,859)
+(1,428)
+Net (decrease) increase in cash, cash equivalents, and restricted cash and cash equivalents
+$
+(134)
+$
+(139)
+$
+323 
+Operating Activities
+Net cash provided by operating activities was approximately $3,027 million in fiscal 2025. This was primarily driven by net earnings excluding non-cash expenses for depreciation, amortization, and stock-based compensation, partially offset by the payment of fiscal 2024 incentive bonuses in fiscal 2025. Net cash provided by operating activities was approximately $2,357 million in fiscal 2024. This was primarily driven by net earnings excluding non-cash expenses for depreciation, amortization, stock-based compensation, and the gain on sale of a packaway warehouse facility, partially offset by the payment of fiscal 2023 incentive bonuses in fiscal 2024.
+The approximately $670 million increase in cash provided by operating activities in fiscal 2025 compared to fiscal 2024 was primarily driven by higher accounts payable leverage
+ 
+(defined as Accounts payable divided by Merchandise inventory), lower taxes paid, lower incentive bonus payments, and higher net earnings. Accounts payable leverage 
+was 
+91% and 
+87% as of January 31, 2026 and February 1, 2025
+,
+ respectively. 
+The increase in accounts payable leverage was primarily due to the timing of inventory receipts and related payments versus the prior year.
+As a regular part of our business, packaway inventory levels will vary over time based on availability of compelling merchandise purchase opportunities in the marketplace and our decisions on the timing for release of that inventory to our stores. Packaway merchandise is purchased with the intent that it will be stored in our warehouses until a later date. The timing of the release of packaway inventory to our stores is principally driven by the product mix and seasonality of the merchandise, and its relation to our store merchandise assortment plans. As such, the aging of packaway varies by merchandise category and seasonality of purchase, but typically packaway remains in storage for less than six months. We expect to continue to take advantage of packaway inventory opportunities to maximize our ability to deliver bargains to our customers.
+Changes in packaway inventory levels affect our operating cash flow. Packaway inventory was 37% of total inventory at the end of fiscal 2025, compared to 41% at the end of fiscal 2024.
+28
+Investing Activities
+Net cash used in investing activities was approximately $819 million in fiscal 2025, primarily related to our capital expenditures. Net cash used in investing activities was approximately $637 million in fiscal 2024, primarily related to our capital expenditures, partially offset by cash proceeds from the sale of the packaway warehouse facility. Our capital expenditures include costs to open new stores and improve existing stores, build, expand, and improve distribution centers, and for various other expenditures related to our information technology systems and buying and corporate offices.
+The approximately $182 million
+ 
+increase in cash used in investing activities in fiscal 2025 compared to fiscal 2024 was primarily due to higher capital expenditures in the current year related to the construction of our next distribution center in Randleman, North Carolina, and cash proceeds received in the prior year from the sale of the packaway facility.
+Our capital expenditures over the last three years are set forth in the table below:
+($ millions)
+2025
+2024
+2023
+Distribution and transportation
+$
+297
+ 
+$
+260 
+$
+306 
+New stores
+232
+ 
+193 
+209 
+Existing stores
+189
+ 
+171 
+168 
+Information systems, corporate, and other
+101
+ 
+96 
+80 
+Total capital expenditures
+$
+819
+ 
+$
+720 
+$
+763 
+Capital expenditures for fiscal 2026 are projected to be approximately $1.1 billion. Our planned capital expenditures for fiscal 2026 include costs to open new stores and improve existing stores, investments in our supply chain to support long-term growth, including construction of our next distribution centers, investments in our information technology systems, and for various other expenditures related to our stores, distribution centers, and buying and corporate offices. We expect to fund capital expenditures with available cash. The increase in our planned capital expenditures for fiscal 2026 compared to fiscal 2025 is primarily driven by investments in new stores and existing stores, investments in our next distribution centers, and various investments in our information technology systems.
+Financing Activities
+Net cash used in financing activities was approximately $2,342 million in fiscal 2025, primarily resulting from stock repurchases under our stock repurchase program, the repayment at maturity of $700 million of Senior Notes in April 2025, and dividend payments. Net cash used in financing activities was approximately $1,859 million in fiscal 2024, primarily resulting from stock repurchases under our stock repurchase program, dividend payments, and the repayment at maturity of $250 million of Senior Notes in September 2024.
+The approximately $484 million
+ 
+increase in cash used in financing activities in fiscal 2025 compared to fiscal 2024 was primarily due to higher Senior Notes repayments
+.
+Revolving credit facilities.
+ In 2025, we entered into a new, $1.3 billion senior unsecured revolving credit facility (the “2025 Credit Facility”), which replaced our previous $1.3 billion unsecured credit facility. As of 
+January 31, 2026
+, we had no borrowings or standby letters of credit outstanding under the 2025 Credit Facility, our 2025 Credit Facility 
+remained in place and available, and 
+we were in compliance with the financial covenant. Refer to Note D: Debt
+ 
+in the Notes to Consolidated Financial Statements 
+for additional information.
+Senior notes.
+ As of January 31, 2026, we had approximately 
+$1.5 billion
+ of outstanding 
+Senior Notes
+, of which approximately 
+$500 million
+ was classified within Current Liabilities on our Consolidated Balance Sheet. Refer to
+ Note D: Debt
+ 
+in the Notes to Consolidated Financial Statements 
+for additional information.
+29
+Other financing activities.
+ 
+Stock Repurchases
+The following table summarizes our stock repurchase activity in fiscal 2025, 2024, and 2023:
+Fiscal Year
+Shares repurchased
+(in millions)
+ Average repurchase
+price
+Amount repurchased
+(in millions)
+1
+2025
+7.1
+ 
+$
+147.61
+ 
+$
+1,050
+ 
+2024
+7.3 
+$
+144.46 
+$
+1,050 
+2023
+8.2 
+$
+115.24 
+$
+950 
+1
+ Amount excludes excise tax due under the Inflation Reduction Act of 2022.
+In March 2026, our Board of Directors approved a new, two-year program to repurchase up to $2.55 billion of the Company’s common stock through January 29, 2028. 
+Refer to Note H: Shareholders’ Equity in the Notes to Consolidated Financial Statements 
+for additional information relating to our stock repurchase program.
+Dividends
+On March 3, 2026, our Board of Directors declared a quarterly cash dividend of $0.4450 per common share, payable on March 31, 2026. 
+Our Board of Directors declared a cash dividend of $0.4050 per common share in March, May, August, and November 2025. Our Board of Directors declared a cash dividend of $0.3675 per common share in March, May, August, and November 2024, and a cash dividend of $0.3350 per common share in February, May, August, and November 2023.
+During fiscal 2025, 2024, and 2023, we paid dividends of $528.1 million, $488.7 million, and $454.8 million, respectively. 
+Other
+Short-term trade credit represents a significant source of financing for our merchandise inventory. Trade credit arises from customary payment terms and trade practices with our vendors. We regularly review the adequacy of credit available to us from all sources and expect to be able to maintain adequate trade credit, bank credit facility, and other credit sources to meet our capital and liquidity requirements.
+During fiscal 2025, fiscal 2024, and fiscal 2023, our liquidity and capital requirements were provided by available cash and cash flows from operations.
+We ended fiscal 2025 with $4.6 billion of unrestricted cash balances, which were held primarily in overnight money market funds invested in U.S. treasury and government instruments across a highly diversified set of banks and other financial institutions. We also have $1.3 billion available under our 2025 Credit Facility. We estimate that existing cash and cash equivalent balances, cash flows from operations, our 2025 Credit Facility, and trade credit are adequate to meet our operating cash needs and to fund our common stock repurchases, planned capital investments, quarterly dividend payments, and debt repayments, and interest payments for at least the next 12 months.
+30
+Contractual Obligations 
+The table below presents our significant contractual obligations as of January 31, 2026:
+Less than
+1 year
+Greater than 
+1 year
+Total¹
+($ millions)
+Recorded contractual obligations:
+   Senior notes
+$
+500 
+$
+1,025 
+$
+1,525 
+   Operating leases
+800 
+3,116 
+3,916 
+   New York buying office ground lease
+2
+7 
+1,085 
+1,092 
+Unrecorded contractual obligations:
+   Real estate obligations
+3
+11 
+272 
+283 
+   Interest payment obligations
+37 
+262 
+299 
+   Purchase obligations
+4
+4,982 
+52 
+5,034 
+Total contractual obligations
+$
+6,337 
+$
+5,812 
+$
+12,149 
+1 
+We have a $60.3 million liability for unrecognized tax benefits that is included in Other long-term liabilities on our Consolidated Balance Sheets. This liability is excluded from the schedule above as the timing of payments cannot be reasonably estimated.
+2
+ Our New York buying office building is subject to a 99-year ground lease.
+3 
+Minimum lease payments for operating leases signed that have not yet commenced.
+4 
+Purchase obligations primarily consist of merchandise inventory purchase orders and commitments related to transportation, construction projects, information technology services, and store fixtures and supplies.
+Supply chain finance program. 
+We facilitate a voluntary supply chain finance program (“SCF program”) to provide certain suppliers with the opportunity to sell their receivables due from us to participating financial institutions at the sole discretion of both the suppliers and the financial institutions. A third-party financial institution administers the SCF program. Our responsibility is limited to making payments on the terms originally negotiated with each supplier, regardless of whether a supplier sells its receivable to a financial institution. We are not a party to the agreements between the participating financial institutions and the suppliers in connection with the SCF program, and we do not receive financial incentives from the suppliers or the financial institutions. We do not provide guarantees under the SCF program, and our rights and obligations to our suppliers are not affected by the SCF program. The range of payment terms negotiated with a supplier is consistent, irrespective of whether a supplier participates in the SCF program.
+All outstanding payments owed under the SCF program are recorded within Accounts payable in the Consolidated Balance Sheets. We account for all payments made under the SCF program as a reduction to operating cash flows in Accounts payable within the Consolidated Statements of Cash Flows. The amounts owed to participating financial institutions under the SCF program and included in Accounts payable were 
+$208.2 million
+ and 
+$159.2 million
+ as of January 31, 2026 and February 1, 2025, respectively.
+Standby letters of credit and collateral trust. 
+We use standby letters of credit outside of our revolving credit facility and a funded trust to collateralize some of our insurance obligations. As of January 31, 2026 and February 1, 2025, we had $1.0 million and $1.8 million, respectively, in standby letters of credit outstanding. As of January 31, 2026 and February 1, 2025, we had $66.6 million and $63.9 million, respectively, held in a collateral trust. The standby letters of credit are collateralized by restricted cash and the collateral trust consists of restricted cash and cash equivalents.
+Other than the unrecorded contractual obligations noted above, we did not have any material off-balance sheet arrangements as of January 31, 2026.
+31
+Other
+Critical Accounting 
+Estimates
+The preparation of our consolidated financial statements requires our management to make estimates and assumptions that affect the reported amounts. These estimates and assumptions are evaluated on an ongoing basis and are based on historical experience and on various other factors that management believes to be reasonable. We believe the following critical accounting estimates describe the more significant judgments and estimates used in the preparation of our consolidated financial statements and are not intended to be a comprehensive list of all of our accounting estimates. 
+Merchandise inventory.
+ 
+Our merchandise inventory is stated at the lower of cost (determined using a weighted-average basis) or net realizable value. Inventory we purchase can either be shipped to stores or processed as packaway merchandise with the intent that it will be warehoused and released to stores at a later date. Merchandise inventory includes acquisition, transportation, pr
+ocessing, and storage costs. Included in the carrying value of our merchandise inventory is a provision for shortage. The shortage reserve is based on historical shortage rates as determined through our annual physical inventory counts and cycle counts. Historically, our actual physical inventory count results have shown our provision for shortage to be reliable. 
+A 
+five percent
+ change in shortage rates as of 
+January 31, 2026
+ 
+would not have materially impacted our cost of goods sold in fiscal 2025.
+Insurance obligations.
+ 
+We use a combination of insurance and self-insurance for a number of risk management activities, including workers’ compensation, general liability, and employee-related health care benefits. Our self-insurance and deductible liability is determined actuarially, based on claims filed and an estimate of claims incurred but not reported. Should a greater amount of claims occur compared to what is estimated or the costs of medical care increase beyond what was anticipated, our recorded reserves may not be sufficient and additional charges could be required. A five percent increase or decrease in our insurance reserves would not have materially impacted our net earnings in fiscal 2025.
+Recent Accounting Pronouncements
+ 
+Refer to Note A: Summary of Significant Accounting Policies in the Notes to Consolidated Financial Statements for a discussion of recent accounting pronouncements and their impact to our Consolidated Financial Statements.
+Forward-Looking Statements
+Our Annual Report on Form 10-K for fiscal 2025, and information we provide in our Annual Report to Stockholders, press releases, and other investor communications (including those on our corporate website), may contain a number of forward-looking statements regarding, without limitation, projected sales, costs and earnings, planned new store growth and entry into new geographic markets, capital expenditures, liquidity, and other matters. These forward-looking statements reflect our then-current beliefs, plans, and estimates with respect to future events and our projected financial performance, operations, and competitive position. The words “plan,” “expect,” “target,” “anticipate,” “estimate,” “believe,” “forecast,” “projected,” “guidance,” “outlook,” “looking ahead,” and similar expressions identify forward-looking statements.
+Future impact from inflation, increases in tariffs on imported goods, interest rate changes, ongoing military conflicts and economic sanctions, extreme weather, public health crises (including pandemics), natural disasters, and other economic, regulatory, consumer spending, and industry trends that could potentially adversely affect our revenue, profitability, operating conditions, and growth are difficult to predict. Our forward-looking statements are subject to risks and uncertainties which could cause our actual results to differ materially from those forward-looking statements and our previous expectations, plans, and projections. Refer to ITEM 1A. RISK FACTORS in this Annual Report on Form 10-K for a more complete discussion of risk factors for Ross and dd’s DISCOUNTS. The factors underlying our forecasts and plans are dynamic and subject to change. As a result, any forecasts or forward-looking statements speak only as of the date they are given, and do not necessarily reflect our outlook at any other point in time. We disclaim any obligation to update or revise these forward-looking statements.
+32
